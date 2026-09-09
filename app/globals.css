@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Brand tokens captured from leshenko.net/p/ugit */
+    --background: 0 0% 15.7%;        /* #282828 */
+    --foreground: 0 0% 74.1%;        /* #bdbdbd */
+
+    --card: 0 0% 12.9%;              /* #212121 */
+    --card-foreground: 0 0% 74.1%;
+
+    --popover: 0 0% 12.9%;
+    --popover-foreground: 0 0% 74.1%;
+
+    --primary: 120 74.4% 29.6%;      /* #158215 */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 0 0% 12.9%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 0 0% 12.9%;
+    --muted-foreground: 0 0% 55%;
+
+    --accent: 120 74.4% 29.6%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 62% 45%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 22%;
+    --input: 0 0% 22%;
+    --ring: 120 74.4% 29.6%;
+
+    --heading: 0 0% 100%;            /* #ffffff */
+
+    --radius: 2px;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-mono antialiased;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3, h4 {
+    color: hsl(var(--heading));
+    font-weight: 700;
+  }
+
+  ::selection {
+    background: hsl(var(--primary));
+    color: #fff;
+  }
+}
+
+/* highlight.js theme tuned to the brand palette */
+.hljs {
+  color: #bdbdbd;
+  background: transparent;
+}
+.hljs-comment,
+.hljs-quote {
+  color: #7a7a7a;
+  font-style: italic;
+}
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-built_in {
+  color: #4fb84f;
+}
+.hljs-string,
+.hljs-meta .hljs-string {
+  color: #d9a86c;
+}
+.hljs-number {
+  color: #c8a4e6;
+}
+.hljs-title,
+.hljs-title.function_,
+.hljs-title.class_ {
+  color: #ffffff;
+}
+.hljs-params {
+  color: #bdbdbd;
+}
+.hljs-meta,
+.hljs-attr {
+  color: #8ec9d9;
+}
+.hljs-operator,
+.hljs-punctuation {
+  color: #9a9a9a;
+}
+
+.lesson-prose code:not(pre code) {
+  background: #212121;
+  color: #ffffff;
+  padding: 1px 5px;
+  border-radius: 2px;
+  font-size: 0.92em;
+}
+
+.code-scroll::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+.code-scroll::-webkit-scrollbar-thumb {
+  background: #3a3a3a;
+  border-radius: 2px;
+}
+.code-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Google Translate widget: hide the top banner and restyle the dropdown to match the theme */
+body {
+  top: 0 !important;
+}
+.goog-te-banner-frame,
+.skiptranslate > iframe,
+#goog-gt-tt,
+.goog-te-balloon-frame {
+  display: none !important;
+}
+.goog-logo-link,
+.goog-te-gadget > span {
+  display: none !important;
+}
+.goog-te-gadget {
+  font-family: inherit !important;
+  font-size: 0 !important;
+  color: transparent !important;
+}
+.goog-te-gadget .goog-te-combo {
+  font-family: inherit;
+  font-size: 13px;
+  background: #158215;
+  color: #fff;
+  border: 0;
+  border-radius: 2px;
+  padding: 4px 8px;
+  cursor: pointer;
+  max-width: 150px;
+}
+.goog-te-gadget .goog-te-combo option {
+  background: #212121;
+  color: #bdbdbd;
+}
