@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Gamepad2, Github } from 'lucide-react';
+import { Gamepad2, Github, GraduationCap } from 'lucide-react';
 import { t, type Lang } from '@/lib/i18n';
 import { LangSwitcher } from '@/components/lang-switcher';
 
@@ -31,6 +31,15 @@ export function SiteHeader({
           aria-label="GitHub"
         >
           <Github size={16} /> GitHub
+        </a>
+        <a
+          href="https://minigen.io/"
+          target="_blank"
+          rel="noreferrer"
+          title={s.academyTooltip}
+          className="hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition"
+        >
+          <GraduationCap size={16} /> {s.academy}
         </a>
         <LangSwitcher lang={lang} path={altPath ?? ''} />
       </div>

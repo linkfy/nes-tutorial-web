@@ -31,6 +31,8 @@ export const ui = {
     chaptersWord: 'chapters',
     startCourse: 'Start the course',
     viewRepo: 'View repository',
+    academy: 'My academy',
+    academyTooltip: 'Learn Python from scratch at my academy (Spanish only)',
     finalImpl: 'Reference implementation',
     whatIsThis: 'What this tutorial is',
     whatIsThisText:
@@ -93,6 +95,8 @@ export const ui = {
     chaptersWord: 'capítulos',
     startCourse: 'Empezar el curso',
     viewRepo: 'Ver el repositorio',
+    academy: 'Mi academia',
+    academyTooltip: 'Aprende Python desde cero en mi academia (solo en español)',
     finalImpl: 'Implementación de referencia',
     whatIsThis: 'Qué es este tutorial',
     whatIsThisText:
@@ -155,6 +159,8 @@ export const ui = {
     chaptersWord: '章',
     startCourse: '开始学习',
     viewRepo: '查看仓库',
+    academy: '我的学院',
+    academyTooltip: '在我的学院从零开始学习 Python（仅提供西班牙语）',
     finalImpl: '参考实现',
     whatIsThis: '本教程是什么',
     whatIsThisText:
@@ -217,6 +223,8 @@ export const ui = {
     chaptersWord: 'глав',
     startCourse: 'Начать курс',
     viewRepo: 'Открыть репозиторий',
+    academy: 'Моя академия',
+    academyTooltip: 'Изучите Python с нуля в моей академии (только на испанском)',
     finalImpl: 'Эталонная реализация',
     whatIsThis: 'Что это за руководство',
     whatIsThisText:
