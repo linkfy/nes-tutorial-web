@@ -1,14 +1,15 @@
 import Link from 'next/link';
 import { Gamepad2, Github } from 'lucide-react';
 import { t, type Lang } from '@/lib/i18n';
-import { GoogleTranslate } from '@/components/google-translate';
+import { LangSwitcher } from '@/components/lang-switcher';
 
 export function SiteHeader({
   lang,
+  altPath,
   children,
 }: {
   lang: Lang;
-  /** kept for call-site compatibility; the language is now chosen via Google Translate */
+  /** path after the language prefix, so the switcher keeps the reader on the same page */
   altPath?: string;
   children?: React.ReactNode;
 }) {
@@ -31,7 +32,7 @@ export function SiteHeader({
         >
           <Github size={16} /> GitHub
         </a>
-        <GoogleTranslate pageLanguage={lang} label={s.translate} />
+        <LangSwitcher lang={lang} path={altPath ?? ''} />
       </div>
     </header>
   );

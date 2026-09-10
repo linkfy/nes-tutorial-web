@@ -25,8 +25,8 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string; n: string }> }): Promise<Metadata> {
   const { lang, n } = await params;
-  const lesson = getLesson(Number(n));
   const L: Lang = isLang(lang) ? lang : 'en';
+  const lesson = getLesson(Number(n), L);
   const s = t(L);
   return {
     title: `${s.lesson} ${pad(lesson?.n ?? 0)} — ${lesson?.title ?? ''} · ${s.siteTitle}`,
@@ -72,11 +72,11 @@ export default async function LessonPage({ params }: { params: Promise<{ lang: s
   const L: Lang = lang;
   const s = t(L);
   const num = Number(n);
-  const lesson: Lesson | undefined = getLesson(num);
+  const lesson: Lesson | undefined = getLesson(num, L);
   if (!lesson) notFound();
 
-  const prev = getLesson(num - 1);
-  const next = getLesson(num + 1);
+  const prev = getLesson(num - 1, L);
+  const next = getLesson(num + 1, L);
   const total = lessons?.length ?? 0;
   const snippets: ImplSnippet[] = getImplementationSnippets(lesson);
   const hasImpl = snippets.length > 0;

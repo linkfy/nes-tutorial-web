@@ -30,7 +30,7 @@ export default async function HomePage({ params }: { params: Promise<{ lang: str
             <h1 className="text-[26px] md:text-4xl leading-tight">{s.siteTitle}</h1>
             <p className="mt-4 max-w-2xl">{s.tagline}</p>
             <p className="mt-2 text-sm text-muted-foreground">
-              {s.author}: <span className="text-heading">linkfy</span> · 14 {L === 'es' ? 'capítulos' : 'chapters'} · 356 {s.lessons}
+              {s.author}: <span className="text-heading">linkfy</span> · 14 {s.chaptersWord} · 356 {s.lessons}
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
               <Link

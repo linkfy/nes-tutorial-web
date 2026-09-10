@@ -6,13 +6,15 @@ import Link from 'next/link';
 import { AnimatePresence, motion } from 'framer-motion';
 import { ChevronDown, ChevronRight, List, Search, X } from 'lucide-react';
 import { chapterName, t, type Lang } from '@/lib/i18n';
-import { chapters, lessons, pad, type ChapterMeta, type Lesson } from '@/lib/lessons';
+import { pad, type ChapterMeta } from '@/lib/lessons';
+import { indexChapters as chapters, lessonIndex, type LessonEntry } from '@/lib/lesson-index';
 
 export function LessonNav({ lang, current }: { lang: Lang; current: number }) {
   const s = t(lang);
+  const lessons = lessonIndex(lang);
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState('');
-  const currentChapter = lessons?.find?.((l: Lesson) => l?.n === current)?.chapter ?? 1;
+  const currentChapter = lessons?.find?.((l: LessonEntry) => l?.n === current)?.chapter ?? 1;
   const [expanded, setExpanded] = useState<Record<number, boolean>>({ [currentChapter]: true });
   // The drawer is portaled to <body>: the sticky header uses backdrop-filter, which would
   // otherwise become the containing block of the fixed panel and clip it to the header height.
@@ -40,9 +42,9 @@ export function LessonNav({ lang, current }: { lang: Lang; current: number }) {
   const filtered = useMemo(() => {
     if (!q) return null;
     return (lessons ?? []).filter(
-      (l: Lesson) => pad(l?.n ?? 0).includes(q) || (l?.title ?? '').toLowerCase().includes(q) || (l?.summary ?? '').toLowerCase().includes(q),
+      (l: LessonEntry) => pad(l?.n ?? 0).includes(q) || (l?.title ?? '').toLowerCase().includes(q) || (l?.summary ?? '').toLowerCase().includes(q),
     );
-  }, [q]);
+  }, [q, lessons]);
 
   return (
     <>
@@ -87,7 +89,7 @@ export function LessonNav({ lang, current }: { lang: Lang; current: number }) {
                 <input
                   value={query}
                   onChange={(e) => setQuery(e?.target?.value ?? '')}
-                  placeholder={lang === 'es' ? 'Buscar lección…' : 'Search lesson…'}
+                  placeholder={`${s.searchLessons}…`}
                   className="w-full bg-background text-foreground rounded-sm pl-9 pr-3 py-1.5 text-sm outline-none focus:ring-1 focus:ring-primary"
                 />
               </div>
@@ -95,7 +97,7 @@ export function LessonNav({ lang, current }: { lang: Lang; current: number }) {
                 {filtered ? (
                   <ul className="space-y-0.5">
                     {filtered.length === 0 ? <li className="px-2 py-2 text-muted-foreground">—</li> : null}
-                    {filtered.map((l: Lesson) => (
+                    {filtered.map((l: LessonEntry) => (
                       <li key={l?.n}>
                         <Link
                           href={`/${lang}/lesson/${l?.n}`}
@@ -131,8 +133,8 @@ export function LessonNav({ lang, current }: { lang: Lang; current: number }) {
                           {isOpen ? (
                             <ul className="ml-4 border-l border-border pl-2 my-1 space-y-0.5">
                               {(lessons ?? [])
-                                .filter((l: Lesson) => l?.chapter === ch?.n)
-                                .map((l: Lesson) => (
+                                .filter((l: LessonEntry) => l?.chapter === ch?.n)
+                                .map((l: LessonEntry) => (
                                   <li key={l?.n}>
                                     <Link
                                       href={`/${lang}/lesson/${l?.n}`}

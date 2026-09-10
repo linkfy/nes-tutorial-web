@@ -123,37 +123,3 @@
   background: transparent;
 }
 
-/* Google Translate widget: hide the top banner and restyle the dropdown to match the theme */
-body {
-  top: 0 !important;
-}
-.goog-te-banner-frame,
-.skiptranslate > iframe,
-#goog-gt-tt,
-.goog-te-balloon-frame {
-  display: none !important;
-}
-.goog-logo-link,
-.goog-te-gadget > span {
-  display: none !important;
-}
-.goog-te-gadget {
-  font-family: inherit !important;
-  font-size: 0 !important;
-  color: transparent !important;
-}
-.goog-te-gadget .goog-te-combo {
-  font-family: inherit;
-  font-size: 13px;
-  background: #158215;
-  color: #fff;
-  border: 0;
-  border-radius: 2px;
-  padding: 4px 8px;
-  cursor: pointer;
-  max-width: 150px;
-}
-.goog-te-gadget .goog-te-combo option {
-  background: #212121;
-  color: #bdbdbd;
-}

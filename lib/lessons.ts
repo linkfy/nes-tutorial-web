@@ -1,4 +1,8 @@
 import raw from '@/data/lessons.json';
+import esRaw from '@/data/i18n/lessons.es.json';
+import zhRaw from '@/data/i18n/lessons.zh.json';
+import ruRaw from '@/data/i18n/lessons.ru.json';
+import type { Lang } from '@/lib/i18n';
 
 export type Block =
   | { t: 'p'; c: string }
@@ -40,14 +44,48 @@ const data = (raw ?? { chapters: [], lessons: [] }) as unknown as Data;
 export const lessons: Lesson[] = data?.lessons ?? [];
 export const chapters: ChapterMeta[] = data?.chapters ?? [];
 
-export function getLesson(n: number): Lesson | undefined {
-  const safe = Number(n);
-  if (!Number.isFinite(safe)) return undefined;
-  return lessons?.find?.((l: Lesson) => l?.n === safe);
+/** Per-lesson prose translations: { "12": { title, summary, "b3": "..." } }. */
+type LessonOverlay = Record<string, Record<string, string | string[]>>;
+
+const overlays: Record<Lang, LessonOverlay> = {
+  en: {},
+  es: (esRaw ?? {}) as LessonOverlay,
+  zh: (zhRaw ?? {}) as LessonOverlay,
+  ru: (ruRaw ?? {}) as LessonOverlay,
+};
+
+/** Returns the lesson with its prose replaced by the translation for `lang` (code untouched). */
+function localize(lesson: Lesson, lang: Lang): Lesson {
+  const tr = overlays?.[lang]?.[String(lesson?.n ?? 0)];
+  if (!tr) return lesson;
+  return {
+    ...lesson,
+    title: (tr.title as string) || lesson.title,
+    summary: (tr.summary as string) || lesson.summary,
+    blocks: (lesson?.blocks ?? []).map((b: Block, i: number) => {
+      if (!b || b.t === 'code') return b;
+      const c = tr[`b${i}`];
+      if (c === undefined) return b;
+      if (b.t === 'list') return Array.isArray(c) ? { t: 'list', c } : b;
+      return typeof c === 'string' ? { ...b, c } : b;
+    }),
+  };
 }
 
-export function getChapterLessons(chapter: number): Lesson[] {
-  return lessons?.filter?.((l: Lesson) => l?.chapter === chapter) ?? [];
+export function getLessons(lang: Lang = 'en'): Lesson[] {
+  if (lang === 'en') return lessons;
+  return (lessons ?? []).map((l: Lesson) => localize(l, lang));
+}
+
+export function getLesson(n: number, lang: Lang = 'en'): Lesson | undefined {
+  const safe = Number(n);
+  if (!Number.isFinite(safe)) return undefined;
+  const lesson = lessons?.find?.((l: Lesson) => l?.n === safe);
+  return lesson ? localize(lesson, lang) : undefined;
+}
+
+export function getChapterLessons(chapter: number, lang: Lang = 'en'): Lesson[] {
+  return (lessons ?? []).filter((l: Lesson) => l?.chapter === chapter).map((l: Lesson) => localize(l, lang));
 }
 
 export interface ImplSnippet {

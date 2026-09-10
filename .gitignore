@@ -7,3 +7,12 @@ next-env.d.ts
 .env
 .env.*
 .DS_Store
+
+# translation agent workspace
+.i18n-work/
+.next-test/
+
+# local tool + npm artifacts (project uses yarn)
+.abacusai/
+package-lock.json
+__pycache__/
