@@ -1,0 +1,352 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+3:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+4:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+7:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+f:I[68027,["/_next/static/chunks/32tg-glwpcf8-.js"],"default",1]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+a:X
+0:{"P":null,"c":["","en","lesson","278",""],"q":"","i":false,"f":[[["",{"children":[["lang","en","d",[]],{"children":["lesson",{"children":[["n","278","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"hgWai9pUCnx8MOLhHyXVO"}
+10:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+11:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+a:C
+5:["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]
+6:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L10",null,{"href":"/en","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"NES Emulator by TDD"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L11",null,{"lang":"en","current":278}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["Chapter"," ","05"," · ","Rendering pipeline"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"Learn Python from scratch at my academy (Spanish only)","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","My academy"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"Language","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L10",null,{"href":"/en/lesson/278","hrefLang":"en","lang":"en","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"English"}]}],"$L12","$L13","$L14"]}]]}]]}]}],"$L15","$L16","$L17"]}]
+18:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+12:["$","li","es",{"children":["$","$L10",null,{"href":"/es/lesson/278","hrefLang":"es","lang":"es","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Español"}]}]
+13:["$","li","zh",{"children":["$","$L10",null,{"href":"/zh/lesson/278","hrefLang":"zh","lang":"zh","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"中文"}]}]
+14:["$","li","ru",{"children":["$","$L10",null,{"href":"/ru/lesson/278","hrefLang":"ru","lang":"ru","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+15:["$","$L18",null,{"prevHref":"/en/lesson/277","nextHref":"/en/lesson/279"}]
+16:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L10",null,{"href":"/en","className":"hover:text-heading","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L10",null,{"href":"/en#chapters","className":"hover:text-heading","children":["Chapter"," ","05",": ","Rendering pipeline"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["Lesson"," ","278"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["278","."]}]," ","Attribute table palette selection"]}],["$","p",null,{"className":"mt-2 text-heading","children":"Decode background palette selection from a nametable attribute table."}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["Lesson"," ",278," ","of"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_05_rendering_pipeline/test_278_attribute_table_palette_selection.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"Previous / Next","children":[["$","$L10",null,{"href":"/en/lesson/277","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Previous",": "]}],"277"," ",""]}]]}],["$","$L10",null,{"href":"/en/lesson/279","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Next",": "]}],"279"," ",""]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Reference"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"https://www.nesdev.org/wiki/PPU_attribute_tables"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"File to create"}],["$","pre","3",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/rendering/attribute_table.py"}}]}],["$","h3","4",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Why this step exists"}],["$","p","5",{"className":"mt-3","children":[["$","span","0",{"children":"The current nametable renderer uses one shared 4-color palette for every tile. Real NES backgrounds choose between four background sub-palettes using the nametable's attribute table."}]]}],["$","p","6",{"className":"mt-3","children":[["$","span","0",{"children":"This step does not render with attributes yet. It only answers one small question:"}]]}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}],"$L31","$L32"]}],"$L33"]}]}]
+17:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"Tutorial by linkfy · Static site generated from the 356 tests in the repository."}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L10",null,{"href":"/en","className":"hover:text-heading","children":"Home"}],["$","$L10",null,{"href":"/en/lesson/1","className":"hover:text-heading","children":"Start the course"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+19:["$","pre","7",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"For tile coordinate (tile_x, tile_y), which palette ID does the attribute\ntable select?"}}]}]
+1a:["$","p","8",{"className":"mt-3","children":[["$","span","0",{"children":"What is an attribute table?"}]]}]
+1b:["$","h3","9",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Each nametable has"}]
+1c:["$","pre","10",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"960 bytes tile IDs\n64 bytes attribute table"}}]}]
+1d:["$","p","11",{"className":"mt-3","children":[["$","span","0",{"children":"The attribute table is an 8x8 byte grid. Each attribute byte covers a 4x4 tile area, which is 32x32 pixels."}]]}]
+1e:["$","h3","12",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"One attribute byte is split into four 2x2 tile quadrants"}]
+1f:["$","pre","13",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"+-----------------------+\n| top-left | top-right  |\n|  2x2     |   2x2      |\n+----------+------------+\n| bottom-l | bottom-r   |\n|  2x2     |   2x2      |\n+-----------------------+"}}]}]
+20:["$","h3","14",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Each quadrant stores a 2-bit palette ID"}]
+21:["$","pre","15",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"0b00 -&gt; palette 0\n0b01 -&gt; palette 1\n0b10 -&gt; palette 2\n0b11 -&gt; palette 3"}}]}]
+22:["$","h3","16",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Important distinction"}]
+23:["$","p","17",{"className":"mt-3","children":[["$","span","0",{"children":"The attribute table does not store RGB colors and does not store NES color indexes. It selects which background sub-palette to use. Later, palette RAM and the NES RGB palette will turn that selection into actual colors."}]]}]
+24:["$","h3","18",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Bit layout inside one attribute byte"}]
+25:["$","pre","19",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"bits 0-1 -&gt; top-left quadrant\nbits 2-3 -&gt; top-right quadrant\nbits 4-5 -&gt; bottom-left quadrant\nbits 6-7 -&gt; bottom-right quadrant"}}]}]
+26:["$","p","20",{"className":"mt-3","children":[["$","span","0",{"children":"This step implements: unpack/read one quadrant from the byte."}]]}]
+27:["$","h3","21",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Readable implementation example"}]
+34:T934,TABLE_SIZE = <span class="hljs-number">64</span>
+BYTES_PER_ROW = <span class="hljs-number">8</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_attribute_palette_id</span>(<span class="hljs-params">
+    attribute_table: <span class="hljs-built_in">bytes</span>,
+    tile_x: <span class="hljs-built_in">int</span>,
+    tile_y: <span class="hljs-built_in">int</span>,
+</span>) -&gt; <span class="hljs-built_in">int</span>:
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(attribute_table) != TABLE_SIZE:
+        <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">&quot;Attribute table must be 64 bytes&quot;</span>)
+
+    attribute_x = tile_x // <span class="hljs-number">4</span>
+    attribute_y = tile_y // <span class="hljs-number">4</span>
+    attribute_index = attribute_y * BYTES_PER_ROW + attribute_x
+    attribute_byte = attribute_table[attribute_index]
+
+    quadrant_x = (tile_x % <span class="hljs-number">4</span>) // <span class="hljs-number">2</span>
+    quadrant_y = (tile_y % <span class="hljs-number">4</span>) // <span class="hljs-number">2</span>
+
+    is_top_left = quadrant_x == <span class="hljs-number">0</span> <span class="hljs-keyword">and</span> quadrant_y == <span class="hljs-number">0</span>
+    is_top_right = quadrant_x == <span class="hljs-number">1</span> <span class="hljs-keyword">and</span> quadrant_y == <span class="hljs-number">0</span>
+    is_bottom_left = quadrant_x == <span class="hljs-number">0</span> <span class="hljs-keyword">and</span> quadrant_y == <span class="hljs-number">1</span>
+
+    <span class="hljs-keyword">if</span> is_top_left:
+        <span class="hljs-keyword">return</span> attribute_byte &amp; <span class="hljs-number">0b11</span>
+
+    <span class="hljs-keyword">if</span> is_top_right:
+        <span class="hljs-keyword">return</span> (attribute_byte &gt;&gt; <span class="hljs-number">2</span>) &amp; <span class="hljs-number">0b11</span>
+
+    <span class="hljs-keyword">if</span> is_bottom_left:
+        <span class="hljs-keyword">return</span> (attribute_byte &gt;&gt; <span class="hljs-number">4</span>) &amp; <span class="hljs-number">0b11</span>
+
+    <span class="hljs-keyword">return</span> (attribute_byte &gt;&gt; <span class="hljs-number">6</span>) &amp; <span class="hljs-number">0b11</span>28:["$","pre","22",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+29:["$","p","23",{"className":"mt-3","children":[["$","span","0",{"children":"Why tile_x // 4 and tile_y // 4? Because each attribute byte covers 4x4 tiles."}]]}]
+2a:["$","p","24",{"className":"mt-3","children":[["$","span","0",{"children":"Why (tile_x % 4) // 2?"}]]}]
+2b:["$","h3","25",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Inside that 4x4 area"}]
+2c:["$","pre","26",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"tile positions 0,1 belong to quadrant 0\ntile positions 2,3 belong to quadrant 1"}}]}]
+2d:["$","h3","27",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"So"}]
+2e:["$","pre","28",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"0 % 4 // 2 -&gt; 0\n1 % 4 // 2 -&gt; 0\n2 % 4 // 2 -&gt; 1\n3 % 4 // 2 -&gt; 1"}}]}]
+2f:["$","h3","29",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Out of scope"}]
+30:["$","ul","30",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"rendering nametables with attributes"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"PPU palette RAM lookup"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"RGB palette conversion"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"scrolling"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"sprites"}]]}],["$","li","5",{"children":[["$","span","0",{"children":"pygame display"}]]}]]}]
+31:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","Run this lesson"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_05_rendering_pipeline/test_278_attribute_table_palette_selection.py -v"}}]}]]}]
+32:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"Previous / Next","children":[["$","$L10",null,{"href":"/en/lesson/277","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Previous",": "]}],"277"," ","Nametable with nes palette"]}]]}],["$","$L10",null,{"href":"/en/lesson/279","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Next",": "]}],"279"," ","Nametable with attributes"]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+35:T934,TABLE_SIZE = <span class="hljs-number">64</span>
+BYTES_PER_ROW = <span class="hljs-number">8</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_attribute_palette_id</span>(<span class="hljs-params">
+    attribute_table: <span class="hljs-built_in">bytes</span>,
+    tile_x: <span class="hljs-built_in">int</span>,
+    tile_y: <span class="hljs-built_in">int</span>,
+</span>) -&gt; <span class="hljs-built_in">int</span>:
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(attribute_table) != TABLE_SIZE:
+        <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">&quot;Attribute table must be 64 bytes&quot;</span>)
+
+    attribute_x = tile_x // <span class="hljs-number">4</span>
+    attribute_y = tile_y // <span class="hljs-number">4</span>
+    attribute_index = attribute_y * BYTES_PER_ROW + attribute_x
+    attribute_byte = attribute_table[attribute_index]
+
+    quadrant_x = (tile_x % <span class="hljs-number">4</span>) // <span class="hljs-number">2</span>
+    quadrant_y = (tile_y % <span class="hljs-number">4</span>) // <span class="hljs-number">2</span>
+
+    is_top_left = quadrant_x == <span class="hljs-number">0</span> <span class="hljs-keyword">and</span> quadrant_y == <span class="hljs-number">0</span>
+    is_top_right = quadrant_x == <span class="hljs-number">1</span> <span class="hljs-keyword">and</span> quadrant_y == <span class="hljs-number">0</span>
+    is_bottom_left = quadrant_x == <span class="hljs-number">0</span> <span class="hljs-keyword">and</span> quadrant_y == <span class="hljs-number">1</span>
+
+    <span class="hljs-keyword">if</span> is_top_left:
+        <span class="hljs-keyword">return</span> attribute_byte &amp; <span class="hljs-number">0b11</span>
+
+    <span class="hljs-keyword">if</span> is_top_right:
+        <span class="hljs-keyword">return</span> (attribute_byte &gt;&gt; <span class="hljs-number">2</span>) &amp; <span class="hljs-number">0b11</span>
+
+    <span class="hljs-keyword">if</span> is_bottom_left:
+        <span class="hljs-keyword">return</span> (attribute_byte &gt;&gt; <span class="hljs-number">4</span>) &amp; <span class="hljs-number">0b11</span>
+
+    <span class="hljs-keyword">return</span> (attribute_byte &gt;&gt; <span class="hljs-number">6</span>) &amp; <span class="hljs-number">0b11</span>33:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","Example implementation"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"Readable implementation example"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$35"}}]}]]}]]}],"$L36"]}]}]
+37:T40c2,<span class="hljs-keyword">from</span> pathlib <span class="hljs-keyword">import</span> Path
+
+<span class="hljs-keyword">import</span> pytest
+
+<span class="hljs-keyword">from</span> emulator.rendering.attribute_table <span class="hljs-keyword">import</span> (
+    BYTES_PER_ROW,
+    TABLE_SIZE,
+    get_attribute_palette_id,
+)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">pack_attribute_byte</span>(<span class="hljs-params">
+    topleft: <span class="hljs-built_in">int</span>,
+    topright: <span class="hljs-built_in">int</span>,
+    bottomleft: <span class="hljs-built_in">int</span>,
+    bottomright: <span class="hljs-built_in">int</span>,
+</span>) -&gt; <span class="hljs-built_in">int</span>:
+    <span class="hljs-string">&quot;&quot;&quot;
+    Pack four 2-bit palette IDs into one attribute byte.
+
+    This helper mirrors the documentation formula and makes the test examples
+    easier to read.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> (
+        (bottomright &lt;&lt; <span class="hljs-number">6</span>)
+        | (bottomleft &lt;&lt; <span class="hljs-number">4</span>)
+        | (topright &lt;&lt; <span class="hljs-number">2</span>)
+        | (topleft &lt;&lt; <span class="hljs-number">0</span>)
+    )
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_attribute_table</span>() -&gt; <span class="hljs-built_in">bytearray</span>:
+    <span class="hljs-string">&quot;&quot;&quot;Create a blank 64-byte attribute table.&quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bytearray</span>(TABLE_SIZE)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_attribute_table_file_exists</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Keep attribute-table bit decoding separate from nametable rendering.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> Path(<span class="hljs-string">&quot;emulator/rendering/attribute_table.py&quot;</span>).exists()
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_attribute_table_declares_size_constants</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Name the visible nametable attribute-table geometry.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> TABLE_SIZE == <span class="hljs-number">64</span>
+    <span class="hljs-keyword">assert</span> BYTES_PER_ROW == <span class="hljs-number">8</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_get_attribute_palette_id_function_exists</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Expose one helper for asking which background palette a tile coordinate uses.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">callable</span>(get_attribute_palette_id)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_all_zero_attribute_table_selects_palette_zero_everywhere</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    If all attribute bytes are zero, every quadrant selects palette ID 0.
+    &quot;&quot;&quot;</span>
+    attribute_table = <span class="hljs-built_in">bytes</span>(make_attribute_table())
+
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(attribute_table, tile_x=<span class="hljs-number">0</span>, tile_y=<span class="hljs-number">0</span>) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(attribute_table, tile_x=<span class="hljs-number">3</span>, tile_y=<span class="hljs-number">3</span>) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(attribute_table, tile_x=<span class="hljs-number">31</span>, tile_y=<span class="hljs-number">29</span>) == <span class="hljs-number">0</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_top_left_quadrant_reads_bits_zero_and_one</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Tiles in the top-left 2x2 quadrant read bits 0-1 of the attribute byte.
+
+    Example byte:
+        top-left = 1
+        other quadrants = 0
+
+        binary: 0b00_00_00_01
+    &quot;&quot;&quot;</span>
+    attribute_table = make_attribute_table()
+    attribute_table[<span class="hljs-number">0</span>] = pack_attribute_byte(
+        topleft=<span class="hljs-number">1</span>,
+        topright=<span class="hljs-number">0</span>,
+        bottomleft=<span class="hljs-number">0</span>,
+        bottomright=<span class="hljs-number">0</span>,
+    )
+
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">0</span>, <span class="hljs-number">0</span>) == <span class="hljs-number">1</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">1</span>, <span class="hljs-number">0</span>) == <span class="hljs-number">1</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">0</span>, <span class="hljs-number">1</span>) == <span class="hljs-number">1</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">1</span>, <span class="hljs-number">1</span>) == <span class="hljs-number">1</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_top_right_quadrant_reads_bits_two_and_three</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Tiles in the top-right 2x2 quadrant read bits 2-3 of the attribute byte.
+
+    Example byte:
+        top-right = 2
+        binary contribution: 0b00_00_10_00
+    &quot;&quot;&quot;</span>
+    attribute_table = make_attribute_table()
+    attribute_table[<span class="hljs-number">0</span>] = pack_attribute_byte(
+        topleft=<span class="hljs-number">0</span>,
+        topright=<span class="hljs-number">2</span>,
+        bottomleft=<span class="hljs-number">0</span>,
+        bottomright=<span class="hljs-number">0</span>,
+    )
+
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">2</span>, <span class="hljs-number">0</span>) == <span class="hljs-number">2</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">3</span>, <span class="hljs-number">0</span>) == <span class="hljs-number">2</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">2</span>, <span class="hljs-number">1</span>) == <span class="hljs-number">2</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">3</span>, <span class="hljs-number">1</span>) == <span class="hljs-number">2</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_bottom_left_quadrant_reads_bits_four_and_five</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Tiles in the bottom-left 2x2 quadrant read bits 4-5 of the attribute byte.
+
+    This protects against a common bug: accidentally treating bottom-left like
+    top-left or bottom-right.
+    &quot;&quot;&quot;</span>
+    attribute_table = make_attribute_table()
+    attribute_table[<span class="hljs-number">0</span>] = pack_attribute_byte(
+        topleft=<span class="hljs-number">0</span>,
+        topright=<span class="hljs-number">0</span>,
+        bottomleft=<span class="hljs-number">3</span>,
+        bottomright=<span class="hljs-number">0</span>,
+    )
+
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">0</span>, <span class="hljs-number">2</span>) == <span class="hljs-number">3</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">1</span>, <span class="hljs-number">2</span>) == <span class="hljs-number">3</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">0</span>, <span class="hljs-number">3</span>) == <span class="hljs-number">3</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">1</span>, <span class="hljs-number">3</span>) == <span class="hljs-number">3</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_bottom_right_quadrant_reads_bits_six_and_seven</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Tiles in the bottom-right 2x2 quadrant read bits 6-7 of the attribute byte.
+    &quot;&quot;&quot;</span>
+    attribute_table = make_attribute_table()
+    attribute_table[<span class="hljs-number">0</span>] = pack_attribute_byte(
+        topleft=<span class="hljs-number">0</span>,
+        topright=<span class="hljs-number">0</span>,
+        bottomleft=<span class="hljs-number">0</span>,
+        bottomright=<span class="hljs-number">2</span>,
+    )
+
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">2</span>, <span class="hljs-number">2</span>) == <span class="hljs-number">2</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">3</span>, <span class="hljs-number">2</span>) == <span class="hljs-number">2</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">2</span>, <span class="hljs-number">3</span>) == <span class="hljs-number">2</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">3</span>, <span class="hljs-number">3</span>) == <span class="hljs-number">2</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_one_attribute_byte_can_store_four_different_palette_ids</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    One attribute byte can select four different palette IDs for its four 2x2 tile
+    quadrants.
+
+    Packed example:
+        top-left     = 0
+        top-right    = 1
+        bottom-left  = 2
+        bottom-right = 3
+
+    Byte layout:
+        0b11_10_01_00
+    &quot;&quot;&quot;</span>
+    attribute_table = make_attribute_table()
+    attribute_table[<span class="hljs-number">0</span>] = pack_attribute_byte(
+        topleft=<span class="hljs-number">0</span>,
+        topright=<span class="hljs-number">1</span>,
+        bottomleft=<span class="hljs-number">2</span>,
+        bottomright=<span class="hljs-number">3</span>,
+    )
+
+    <span class="hljs-keyword">assert</span> attribute_table[<span class="hljs-number">0</span>] == <span class="hljs-number">0b11_10_01_00</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">0</span>, <span class="hljs-number">0</span>) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">2</span>, <span class="hljs-number">0</span>) == <span class="hljs-number">1</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">0</span>, <span class="hljs-number">2</span>) == <span class="hljs-number">2</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">2</span>, <span class="hljs-number">2</span>) == <span class="hljs-number">3</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_neighboring_attribute_byte_starts_at_tile_x_four</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Since each attribute byte covers 4 tiles horizontally, tile_x=4 uses the next
+    attribute byte in the same attribute-table row.
+    &quot;&quot;&quot;</span>
+    attribute_table = make_attribute_table()
+    attribute_table[<span class="hljs-number">0</span>] = pack_attribute_byte(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)
+    attribute_table[<span class="hljs-number">1</span>] = pack_attribute_byte(<span class="hljs-number">2</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)
+
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">0</span>, <span class="hljs-number">0</span>) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">4</span>, <span class="hljs-number">0</span>) == <span class="hljs-number">2</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">5</span>, <span class="hljs-number">1</span>) == <span class="hljs-number">2</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_next_attribute_table_row_starts_at_tile_y_four</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Since each attribute byte covers 4 tiles vertically, tile_y=4 uses the next
+    attribute-table row.
+    &quot;&quot;&quot;</span>
+    attribute_table = make_attribute_table()
+    attribute_table[<span class="hljs-number">0</span>] = pack_attribute_byte(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)
+    attribute_table[BYTES_PER_ROW] = pack_attribute_byte(<span class="hljs-number">3</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)
+
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">0</span>, <span class="hljs-number">0</span>) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">0</span>, <span class="hljs-number">4</span>) == <span class="hljs-number">3</span>
+    <span class="hljs-keyword">assert</span> get_attribute_palette_id(<span class="hljs-built_in">bytes</span>(attribute_table), <span class="hljs-number">1</span>, <span class="hljs-number">5</span>) == <span class="hljs-number">3</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_attribute_table_must_be_64_bytes</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Attribute table decoding expects the 64-byte attribute area, not the full
+    1024-byte nametable page and not the 960-byte tile-ID area.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">with</span> pytest.raises(ValueError, <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;Attribute table must be 64 bytes&quot;</span>):
+        get_attribute_palette_id(<span class="hljs-built_in">bytes</span>([<span class="hljs-number">0x00</span>] * <span class="hljs-number">63</span>), tile_x=<span class="hljs-number">0</span>, tile_y=<span class="hljs-number">0</span>)39:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+36:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","Show test code",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_278_attribute_table_palette_selection",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$37"}}]}]}],"$L38"]}]
+38:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["Test functions"," (",12,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_attribute_table_file_exists",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_attribute_table_file_exists"}]}],["$","li","test_attribute_table_declares_size_constants",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_attribute_table_declares_size_constants"}]}],["$","li","test_get_attribute_palette_id_function_exists",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_get_attribute_palette_id_function_exists"}]}],["$","li","test_all_zero_attribute_table_selects_palette_zero_everywhere",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_all_zero_attribute_table_selects_palette_zero_everywhere"}]}],["$","li","test_top_left_quadrant_reads_bits_zero_and_one",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_top_left_quadrant_reads_bits_zero_and_one"}]}],["$","li","test_top_right_quadrant_reads_bits_two_and_three",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_top_right_quadrant_reads_bits_two_and_three"}]}],["$","li","test_bottom_left_quadrant_reads_bits_four_and_five",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_bottom_left_quadrant_reads_bits_four_and_five"}]}],["$","li","test_bottom_right_quadrant_reads_bits_six_and_seven",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_bottom_right_quadrant_reads_bits_six_and_seven"}]}],["$","li","test_one_attribute_byte_can_store_four_different_palette_ids",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_one_attribute_byte_can_store_four_different_palette_ids"}]}],["$","li","test_neighboring_attribute_byte_starts_at_tile_x_four",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_neighboring_attribute_byte_starts_at_tile_x_four"}]}],["$","li","test_next_attribute_table_row_starts_at_tile_y_four",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_next_attribute_table_row_starts_at_tile_y_four"}]}],["$","li","test_attribute_table_must_be_64_bytes",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_attribute_table_must_be_64_bytes"}]}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"Lesson 278 — Attribute table palette selection · NES Emulator by TDD"}],["$","meta","1",{"name":"description","content":"Decode background palette selection from a nametable attribute table."}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L39","11",{}]]

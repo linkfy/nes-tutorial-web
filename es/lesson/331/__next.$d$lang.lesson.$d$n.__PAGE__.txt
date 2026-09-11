@@ -1,0 +1,320 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+3:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+f:X
+14:X
+14:C
+0:{"buildId":"hgWai9pUCnx8MOLhHyXVO","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L2",null,{"href":"/es","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"Emulador NES por TDD"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L3",null,{"lang":"es","current":331}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["Capítulo"," ","13"," · ","Scrolling"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"Aprende Python desde cero en mi academia (solo en español)","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","Mi academia"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"Idioma","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L2",null,{"href":"/en/lesson/331","hrefLang":"en","lang":"en","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],"$L4","$L5","$L6"]}]]}]]}]}],"$L7","$L8","$L9"]}],["$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$f","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$f","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+2f:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+30:"$Sreact.suspense"
+32:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+33:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+34:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+35:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+36:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+37:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+4:["$","li","es",{"children":["$","$L2",null,{"href":"/es/lesson/331","hrefLang":"es","lang":"es","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"Español"}]}]
+5:["$","li","zh",{"children":["$","$L2",null,{"href":"/zh/lesson/331","hrefLang":"zh","lang":"zh","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"中文"}]}]
+6:["$","li","ru",{"children":["$","$L2",null,{"href":"/ru/lesson/331","hrefLang":"ru","lang":"ru","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+7:["$","$L1d",null,{"prevHref":"/es/lesson/330","nextHref":"/es/lesson/332"}]
+8:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L2",null,{"href":"/es","className":"hover:text-heading","children":"Inicio"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/es#chapters","className":"hover:text-heading","children":["Capítulo"," ","13",": ","Scrolling"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["Lección"," ","331"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["331","."]}]," ","Componer viewport de máscara de opacidad horizontal"]}],["$","p",null,{"className":"mt-2 text-heading","children":"Compone una máscara de opacidad desplazada a partir de dos máscaras de nametables adyacentes."}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["Lección"," ",331," ","de"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_13_scrolling/test_331_compose_horizontal_opaque_mask_viewport.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"Anterior / Siguiente","children":[["$","$L2",null,{"href":"/es/lesson/330","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Anterior",": "]}],"330"," ",""]}]]}],["$","$L2",null,{"href":"/es/lesson/332","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Siguiente",": "]}],"332"," ",""]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Archivo a actualizar"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/rendering/background_viewport.py"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Documentación de referencia"}],["$","pre","3",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"https://www.nesdev.org/wiki/PPU_scrolling\nhttps://www.nesdev.org/wiki/PPU_nametables"}}]}],["$","h3","4",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Flujo existente"}],["$","pre","5",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"build_background_opaque_mask() converts one nametable into a 256x240 list[bool].\nSprite priority and sprite-zero-hit detection index that mask using screen\ncoordinates."}}]}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"]}],"$L2c","$L2d"]}],"$L2e"]}]}]
+9:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"Tutorial creado por linkfy · Sitio estático generado a partir de los 356 tests del repositorio."}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L2",null,{"href":"/es","className":"hover:text-heading","children":"Inicio"}],["$","$L2",null,{"href":"/es/lesson/1","className":"hover:text-heading","children":"Empezar el curso"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true}]
+c:["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true}]
+d:["$","$L2f",null,{"children":["$","$30",null,{"name":"Next.MetadataOutlet","children":"$@31"}]}]
+10:["$","$1","h",{"children":[null,["$","$L32",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L33",null,{"children":["$","$30",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lección 331 — Componer viewport de máscara de opacidad horizontal · Emulador NES por TDD"}],["$","meta","1",{"name":"description","content":"Compone una máscara de opacidad desplazada a partir de dos máscaras de nametables adyacentes."}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L34","11",{}]]}]}]}],null]}]
+12:["$","$1","c",{"children":[null,["$","$L35",null,{"parallelRouterKey":"children","template":["$","$L36",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L35",null,{"parallelRouterKey":"children","template":["$","$L36",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L35",null,{"parallelRouterKey":"children","template":["$","$L36",null,{}]}]]}]
+19:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L35",null,{"parallelRouterKey":"children","template":["$","$L36",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L37",null,{}]]}]]}]]}]
+1e:["$","h3","6",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Nuevo comportamiento"}]
+1f:["$","pre","7",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"This step does <span class=\"hljs-keyword\">not</span> replace the existing mask builder. It composes two already\nconstructed masks into the same horizontal viewport introduced <span class=\"hljs-keyword\">for</span> framebuffers\n<span class=\"hljs-keyword\">in</span> Step <span class=\"hljs-number\">330.</span>"}}]}]
+20:["$","h3","8",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Modelo de coordenadas"}]
+21:["$","pre","9",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"left mask:  logical X   <span class=\"hljs-number\">0</span>-<span class=\"hljs-number\">255</span>\nright mask: logical X <span class=\"hljs-number\">256</span>-<span class=\"hljs-number\">511</span>\n\nlogical X = (viewport X + screen X) modulo <span class=\"hljs-number\">512</span>"}}]}]
+22:["$","h3","10",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Para el viewport X 200"}]
+23:["$","pre","11",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"screen X   0-55  &lt;- left X 200-255\nscreen X  56-255 &lt;- right X   0-199"}}]}]
+24:["$","h3","12",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Invariantes"}]
+25:["$","ul","13",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"cada origen contiene exactamente 256 * 240 entradas booleanas"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"el resultado es una nueva lista de 256 * 240 entradas"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"las máscaras de origen permanecen sin cambios"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"las filas Y no se mueven"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"la asignación de la máscara coincide exactamente con la asignación del framebuffer"}]]}]]}]
+26:["$","h3","14",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Error común"}]
+27:["$","p","15",{"className":"mt-3","children":[["$","span","0",{"children":"La máscara no deriva la opacidad de los colores RGB finales. Conserva si el índice de color del patrón de fondo original era distinto de cero."}]]}]
+28:["$","h3","16",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Fuera del alcance"}]
+29:["$","ul","17",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"construir una máscara a partir de bytes de CHR o de nametable"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"leer memoria de la PPU"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"integración en Console"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"integración del sprite-zero-hit"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"desplazamiento vertical"}]]}],["$","li","5",{"children":[["$","span","0",{"children":"pygame"}]]}]]}]
+2a:["$","h3","18",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Implementación de ejemplo completa"}]
+38:T92f,<span class="hljs-comment"># emulator/rendering/background_viewport.py</span>
+
+<span class="hljs-keyword">from</span> emulator.rendering.nametable_renderer <span class="hljs-keyword">import</span> BackgroundOpaqueMask
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">compose_horizontal_opaque_mask_viewport</span>(<span class="hljs-params">
+    left: BackgroundOpaqueMask,
+    right: BackgroundOpaqueMask,
+    viewport_x: <span class="hljs-built_in">int</span>,
+</span>) -&gt; BackgroundOpaqueMask:
+    expected_size = NAMETABLE_PIXEL_WIDTH * NAMETABLE_PIXEL_HEIGHT
+
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(left) != expected_size:
+        <span class="hljs-keyword">raise</span> ValueError(
+            <span class="hljs-string">f&quot;Left background opacity mask must contain <span class="hljs-subst">{expected_size}</span> entries&quot;</span>
+        )
+
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(right) != expected_size:
+        <span class="hljs-keyword">raise</span> ValueError(
+            <span class="hljs-string">f&quot;Right background opacity mask must contain <span class="hljs-subst">{expected_size}</span> entries&quot;</span>
+        )
+
+    logical_width = NAMETABLE_PIXEL_WIDTH * <span class="hljs-number">2</span>
+    result = [<span class="hljs-literal">False</span>] * expected_size
+
+    <span class="hljs-keyword">for</span> screen_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT):
+        row_start = screen_y * NAMETABLE_PIXEL_WIDTH
+
+        <span class="hljs-keyword">for</span> screen_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_WIDTH):
+            logical_x = (viewport_x + screen_x) % logical_width
+
+            <span class="hljs-keyword">if</span> logical_x &lt; NAMETABLE_PIXEL_WIDTH:
+                source = left
+                source_x = logical_x
+            <span class="hljs-keyword">else</span>:
+                source = right
+                source_x = logical_x - NAMETABLE_PIXEL_WIDTH
+
+            destination_index = row_start + screen_x
+            source_index = row_start + source_x
+            result[destination_index] = source[source_index]
+
+    <span class="hljs-keyword">return</span> result2b:["$","pre","19",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$38"}}]}]
+2c:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","Ejecutar esta lección"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_13_scrolling/test_331_compose_horizontal_opaque_mask_viewport.py -v"}}]}]]}]
+2d:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"Anterior / Siguiente","children":[["$","$L2",null,{"href":"/es/lesson/330","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Anterior",": "]}],"330"," ","Componer el viewport horizontal del framebuffer"]}]]}],["$","$L2",null,{"href":"/es/lesson/332","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Siguiente",": "]}],"332"," ","Nametable lógico de la PPU a framebuffer"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+39:T92f,<span class="hljs-comment"># emulator/rendering/background_viewport.py</span>
+
+<span class="hljs-keyword">from</span> emulator.rendering.nametable_renderer <span class="hljs-keyword">import</span> BackgroundOpaqueMask
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">compose_horizontal_opaque_mask_viewport</span>(<span class="hljs-params">
+    left: BackgroundOpaqueMask,
+    right: BackgroundOpaqueMask,
+    viewport_x: <span class="hljs-built_in">int</span>,
+</span>) -&gt; BackgroundOpaqueMask:
+    expected_size = NAMETABLE_PIXEL_WIDTH * NAMETABLE_PIXEL_HEIGHT
+
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(left) != expected_size:
+        <span class="hljs-keyword">raise</span> ValueError(
+            <span class="hljs-string">f&quot;Left background opacity mask must contain <span class="hljs-subst">{expected_size}</span> entries&quot;</span>
+        )
+
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(right) != expected_size:
+        <span class="hljs-keyword">raise</span> ValueError(
+            <span class="hljs-string">f&quot;Right background opacity mask must contain <span class="hljs-subst">{expected_size}</span> entries&quot;</span>
+        )
+
+    logical_width = NAMETABLE_PIXEL_WIDTH * <span class="hljs-number">2</span>
+    result = [<span class="hljs-literal">False</span>] * expected_size
+
+    <span class="hljs-keyword">for</span> screen_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT):
+        row_start = screen_y * NAMETABLE_PIXEL_WIDTH
+
+        <span class="hljs-keyword">for</span> screen_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_WIDTH):
+            logical_x = (viewport_x + screen_x) % logical_width
+
+            <span class="hljs-keyword">if</span> logical_x &lt; NAMETABLE_PIXEL_WIDTH:
+                source = left
+                source_x = logical_x
+            <span class="hljs-keyword">else</span>:
+                source = right
+                source_x = logical_x - NAMETABLE_PIXEL_WIDTH
+
+            destination_index = row_start + screen_x
+            source_index = row_start + source_x
+            result[destination_index] = source[source_index]
+
+    <span class="hljs-keyword">return</span> result2e:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","Implementación de ejemplo"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"Implementación de ejemplo completa"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$39"}}]}]]}]]}],"$L3a"]}]}]
+31:null
+1c:true
+f:300
+3b:T2735,<span class="hljs-keyword">import</span> pytest
+
+<span class="hljs-keyword">from</span> emulator.rendering.background_viewport <span class="hljs-keyword">import</span> (
+    NAMETABLE_PIXEL_HEIGHT,
+    NAMETABLE_PIXEL_WIDTH,
+    compose_horizontal_framebuffer_viewport,
+    compose_horizontal_opaque_mask_viewport,
+)
+<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> BLACK, Framebuffer, RGBColor
+<span class="hljs-keyword">from</span> emulator.rendering.nametable_renderer <span class="hljs-keyword">import</span> BackgroundOpaqueMask
+
+
+MASK_SIZE = NAMETABLE_PIXEL_WIDTH * NAMETABLE_PIXEL_HEIGHT
+OPAQUE_COLOR: RGBColor = (<span class="hljs-number">255</span>, <span class="hljs-number">255</span>, <span class="hljs-number">255</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">patterned_mask</span>(<span class="hljs-params">offset: <span class="hljs-built_in">int</span></span>) -&gt; BackgroundOpaqueMask:
+    <span class="hljs-string">&quot;&quot;&quot;Create row- and column-sensitive Boolean data for mapping tests.&quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> [
+        ((x * <span class="hljs-number">3</span> + y * <span class="hljs-number">5</span> + offset) % <span class="hljs-number">7</span>) &lt; <span class="hljs-number">3</span>
+        <span class="hljs-keyword">for</span> y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+        <span class="hljs-keyword">for</span> x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_WIDTH)
+    ]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">mask_to_framebuffer</span>(<span class="hljs-params">mask: BackgroundOpaqueMask</span>) -&gt; Framebuffer:
+    <span class="hljs-string">&quot;&quot;&quot;Represent mask entries as colors so both viewport mappings can be compared.&quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> Framebuffer(
+        width=NAMETABLE_PIXEL_WIDTH,
+        height=NAMETABLE_PIXEL_HEIGHT,
+        pixels=[OPAQUE_COLOR <span class="hljs-keyword">if</span> value <span class="hljs-keyword">else</span> BLACK <span class="hljs-keyword">for</span> value <span class="hljs-keyword">in</span> mask],
+    )
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_viewport_at_zero_uses_the_entire_left_mask</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    With no horizontal offset, the visible opacity data is the left mask.
+    &quot;&quot;&quot;</span>
+    left = patterned_mask(offset=<span class="hljs-number">0</span>)
+    right = patterned_mask(offset=<span class="hljs-number">1</span>)
+
+    result = compose_horizontal_opaque_mask_viewport(left, right, viewport_x=<span class="hljs-number">0</span>)
+
+    <span class="hljs-keyword">assert</span> result == left
+    <span class="hljs-keyword">assert</span> result <span class="hljs-keyword">is</span> <span class="hljs-keyword">not</span> left
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_viewport_at_256_uses_the_entire_right_mask</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Logical X 256 begins at the first column of the right mask.
+    &quot;&quot;&quot;</span>
+    left = patterned_mask(offset=<span class="hljs-number">0</span>)
+    right = patterned_mask(offset=<span class="hljs-number">1</span>)
+
+    result = compose_horizontal_opaque_mask_viewport(left, right, viewport_x=<span class="hljs-number">256</span>)
+
+    <span class="hljs-keyword">assert</span> result == right
+    <span class="hljs-keyword">assert</span> result <span class="hljs-keyword">is</span> <span class="hljs-keyword">not</span> right
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_viewport_at_200_crosses_the_mask_seam_on_every_row</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Compose 56 columns from the left mask and 200 columns from the right mask while
+    preserving every source Y row.
+    &quot;&quot;&quot;</span>
+    left = patterned_mask(offset=<span class="hljs-number">0</span>)
+    right = patterned_mask(offset=<span class="hljs-number">1</span>)
+
+    result = compose_horizontal_opaque_mask_viewport(left, right, viewport_x=<span class="hljs-number">200</span>)
+
+    expected: BackgroundOpaqueMask = []
+    <span class="hljs-keyword">for</span> y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT):
+        row_start = y * NAMETABLE_PIXEL_WIDTH
+        row_end = row_start + NAMETABLE_PIXEL_WIDTH
+        expected.extend(left[row_start + <span class="hljs-number">200</span>:row_end])
+        expected.extend(right[row_start:row_start + <span class="hljs-number">200</span>])
+
+    <span class="hljs-keyword">assert</span> result == expected
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_viewport_wraps_from_right_mask_back_to_left_mask</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    A viewport beginning at logical X 300 consumes 212 right columns and then wraps
+    to 44 left columns.
+    &quot;&quot;&quot;</span>
+    left = patterned_mask(offset=<span class="hljs-number">0</span>)
+    right = patterned_mask(offset=<span class="hljs-number">1</span>)
+
+    result = compose_horizontal_opaque_mask_viewport(left, right, viewport_x=<span class="hljs-number">300</span>)
+
+    expected: BackgroundOpaqueMask = []
+    <span class="hljs-keyword">for</span> y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT):
+        row_start = y * NAMETABLE_PIXEL_WIDTH
+        row_end = row_start + NAMETABLE_PIXEL_WIDTH
+        expected.extend(right[row_start + <span class="hljs-number">44</span>:row_end])
+        expected.extend(left[row_start:row_start + <span class="hljs-number">44</span>])
+
+    <span class="hljs-keyword">assert</span> result == expected
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_composition_does_not_mutate_source_masks</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Preserve source masks so framebuffer rendering, sprite priority, and hit detection
+    can reuse deterministic source data.
+    &quot;&quot;&quot;</span>
+    left = patterned_mask(offset=<span class="hljs-number">0</span>)
+    right = patterned_mask(offset=<span class="hljs-number">1</span>)
+    left_before = <span class="hljs-built_in">list</span>(left)
+    right_before = <span class="hljs-built_in">list</span>(right)
+
+    result = compose_horizontal_opaque_mask_viewport(left, right, viewport_x=<span class="hljs-number">200</span>)
+
+    <span class="hljs-keyword">assert</span> left == left_before
+    <span class="hljs-keyword">assert</span> right == right_before
+    <span class="hljs-keyword">assert</span> result <span class="hljs-keyword">is</span> <span class="hljs-keyword">not</span> left
+    <span class="hljs-keyword">assert</span> result <span class="hljs-keyword">is</span> <span class="hljs-keyword">not</span> right
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_mask_and_framebuffer_compositors_use_identical_mapping</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Prevent visual background pixels from drifting away from the opacity information
+    used for sprite priority and sprite-zero-hit decisions.
+    &quot;&quot;&quot;</span>
+    left_mask = patterned_mask(offset=<span class="hljs-number">0</span>)
+    right_mask = patterned_mask(offset=<span class="hljs-number">1</span>)
+    left_framebuffer = mask_to_framebuffer(left_mask)
+    right_framebuffer = mask_to_framebuffer(right_mask)
+
+    composed_mask = compose_horizontal_opaque_mask_viewport(
+        left_mask,
+        right_mask,
+        viewport_x=<span class="hljs-number">200</span>,
+    )
+    composed_framebuffer = compose_horizontal_framebuffer_viewport(
+        left_framebuffer,
+        right_framebuffer,
+        viewport_x=<span class="hljs-number">200</span>,
+    )
+
+    opacity_derived_from_pixels = [
+        color == OPAQUE_COLOR
+        <span class="hljs-keyword">for</span> color <span class="hljs-keyword">in</span> composed_framebuffer.pixels
+    ]
+
+    <span class="hljs-keyword">assert</span> composed_mask == opacity_derived_from_pixels
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_rejects_left_mask_with_wrong_entry_count</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Detect malformed left masks at the boundary rather than during coordinate lookup.
+    &quot;&quot;&quot;</span>
+    left = [<span class="hljs-literal">False</span>] * (MASK_SIZE - <span class="hljs-number">1</span>)
+    right = [<span class="hljs-literal">False</span>] * MASK_SIZE
+
+    <span class="hljs-keyword">with</span> pytest.raises(ValueError, <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;Left background opacity mask&quot;</span>):
+        compose_horizontal_opaque_mask_viewport(left, right, viewport_x=<span class="hljs-number">0</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_rejects_right_mask_with_wrong_entry_count</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Apply the same fixed-size invariant to the right source mask.
+    &quot;&quot;&quot;</span>
+    left = [<span class="hljs-literal">False</span>] * MASK_SIZE
+    right = [<span class="hljs-literal">False</span>] * (MASK_SIZE + <span class="hljs-number">1</span>)
+
+    <span class="hljs-keyword">with</span> pytest.raises(ValueError, <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;Right background opacity mask&quot;</span>):
+        compose_horizontal_opaque_mask_viewport(left, right, viewport_x=<span class="hljs-number">0</span>)3a:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","Ver código del test",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_331_compose_horizontal_opaque_mask_viewport",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$3b"}}]}]}],"$L3c"]}]
+f:C
+3c:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["Funciones de test"," (",8,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_viewport_at_zero_uses_the_entire_left_mask",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_viewport_at_zero_uses_the_entire_left_mask"}]}],["$","li","test_viewport_at_256_uses_the_entire_right_mask",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_viewport_at_256_uses_the_entire_right_mask"}]}],["$","li","test_viewport_at_200_crosses_the_mask_seam_on_every_row",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_viewport_at_200_crosses_the_mask_seam_on_every_row"}]}],["$","li","test_viewport_wraps_from_right_mask_back_to_left_mask",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_viewport_wraps_from_right_mask_back_to_left_mask"}]}],["$","li","test_composition_does_not_mutate_source_masks",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_composition_does_not_mutate_source_masks"}]}],["$","li","test_mask_and_framebuffer_compositors_use_identical_mapping",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_mask_and_framebuffer_compositors_use_identical_mapping"}]}],["$","li","test_rejects_left_mask_with_wrong_entry_count",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_rejects_left_mask_with_wrong_entry_count"}]}],["$","li","test_rejects_right_mask_with_wrong_entry_count",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_rejects_right_mask_with_wrong_entry_count"}]}]]}]]}]
+1b:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+18:"$undefined"
+1a:"$undefined"
+e:"$undefined"

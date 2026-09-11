@@ -1,0 +1,200 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+3:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+4:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+7:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+f:I[68027,["/_next/static/chunks/32tg-glwpcf8-.js"],"default",1]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+a:X
+0:{"P":null,"c":["","zh","lesson","254",""],"q":"","i":false,"f":[[["",{"children":[["lang","zh","d",[]],{"children":["lesson",{"children":[["n","254","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"hgWai9pUCnx8MOLhHyXVO"}
+10:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+11:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+a:C
+5:["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]
+6:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L10",null,{"href":"/zh","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"用 TDD 编写 NES 模拟器"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L11",null,{"lang":"zh","current":254}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["第"," ","03"," · ","PPU 内存与图形"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"在我的学院从零开始学习 Python（仅提供西班牙语）","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","我的学院"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"语言","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L10",null,{"href":"/en/lesson/254","hrefLang":"en","lang":"en","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],["$","li","es",{"children":["$","$L10",null,{"href":"/es/lesson/254","hrefLang":"es","lang":"es","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Español"}]}],"$L12","$L13"]}]]}]]}]}],"$L14","$L15","$L16"]}]
+17:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+12:["$","li","zh",{"children":["$","$L10",null,{"href":"/zh/lesson/254","hrefLang":"zh","lang":"zh","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"中文"}]}]
+13:["$","li","ru",{"children":["$","$L10",null,{"href":"/ru/lesson/254","hrefLang":"ru","lang":"ru","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+14:["$","$L17",null,{"prevHref":"/zh/lesson/253","nextHref":"/zh/lesson/255"}]
+15:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L10",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","span",null,{"children":"/"}],["$","$L10",null,{"href":"/zh#chapters","className":"hover:text-heading","children":["第"," ","03",": ","PPU 内存与图形"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["第"," ","254"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["254","."]}]," ","映射器的 CHR 写入路由"]}],["$","p",null,{"className":"mt-2 text-heading","children":"实现通过映射器进行的 CHR 写入路由。"}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["第"," ",254," ","/"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_03_ppu_memory_and_graphics_data/test_254_mapper_chr_write_routing.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"上一课 / 下一课","children":[["$","$L10",null,{"href":"/zh/lesson/253","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"253"," ",""]}]]}],["$","$L10",null,{"href":"/zh/lesson/255","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"255"," ",""]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"参考资料"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"https://www.nesdev.org/wiki/PPU_memory_map\nhttps://www.nesdev.org/wiki/NROM"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"需要更新的文件"}],["$","pre","3",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/cartridge/mapper_interface.py\nemulator/cartridge/mapper000.py\nemulator/bus/ppu_bus.py"}}]}],["$","p","4",{"className":"mt-3","children":[["$","span","0",{"children":"什么是 CHR 内存?CHR 内存是 PPU 读取图块图案字节的地方。PPU 地址范围 $0000-$1FFF 就是 CHR 区域。"}]]}],["$","h3","5",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"简单示例"}],["$","pre","6",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"PPU reads $0000\nmapper returns the first byte of CHR ROM"}}]}],["$","p","7",{"className":"mt-3","children":"$L18"}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}],"$L21","$L22"]}],"$L23"]}]}]
+16:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"教程由 linkfy 制作 · 静态站点根据仓库中的 356 个测试生成。"}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L10",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","$L10",null,{"href":"/zh/lesson/1","className":"hover:text-heading","children":"开始学习"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+18:[["$","span","0",{"children":"对于本教程中官方的 Mapper000/NROM,CHR 是 ROM,因此写入会被拒绝。"}]]
+19:["$","h3","8",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"为什么需要这一步"}]
+1a:["$","p","9",{"className":"mt-3","children":[["$","span","0",{"children":"PpuBus 应该只负责路由地址,不应该决定 CHR 写入是否合法,这个策略应由映射器来负责。"}]]}]
+1b:["$","h3","10",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"正确的职责划分"}]
+1c:["$","pre","11",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"PpuBus.write($0000-$1FFF, value)\n    -&gt; mapper.write_chr(addr, value)\n\nMapper000.write_chr(addr, value)\n    -&gt; rejects writes because official Mapper000 CHR ROM is read-only"}}]}]
+1d:["$","h3","12",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"建议的实现示例"}]
+24:Taae,<span class="hljs-keyword">class</span> <span class="hljs-title class_">MapperInterface</span>(<span class="hljs-title class_ inherited__">Protocol</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">read_prg</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-built_in">int</span>:
+        ...
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">read_chr</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-built_in">int</span>:
+        ...
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">write_chr</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span>, value: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-literal">None</span>:
+        ...
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Mapper000</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">write_chr</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span>, value: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-literal">None</span>:
+        <span class="hljs-keyword">if</span> <span class="hljs-keyword">not</span> (CHR_ROM_START &lt;= addr &lt;= CHR_ROM_END):
+            <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">f&quot;Address out of CHR ROM range: <span class="hljs-subst">{addr:04X}</span>&quot;</span>)
+
+        <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">&quot;CHR ROM is read-only for official Mapper000&quot;</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">PpuBus</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">write</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span>, value: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-literal">None</span>:
+        addr = addr &amp; PPU_ADDRESS_MASK
+
+        <span class="hljs-keyword">if</span> CHR_START &lt;= addr &lt;= CHR_END:
+            <span class="hljs-keyword">if</span> <span class="hljs-variable language_">self</span>.mapper <span class="hljs-keyword">is</span> <span class="hljs-keyword">not</span> <span class="hljs-literal">None</span>:
+                <span class="hljs-variable language_">self</span>.mapper.write_chr(addr, value)
+                <span class="hljs-keyword">return</span>
+
+            <span class="hljs-variable language_">self</span>.vram.write(addr, value)
+            <span class="hljs-keyword">return</span>1e:["$","pre","13",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$24"}}]}]
+1f:["$","h3","14",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"不在本步骤范围内"}]
+20:["$","ul","15",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"CHR RAM 支持"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"带有可写 CHR RAM 的非官方/自制 Mapper000 变体"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"映射器的存储体切换"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"渲染 CHR 图块"}]]}]]}]
+21:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","运行本课"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_03_ppu_memory_and_graphics_data/test_254_mapper_chr_write_routing.py -v"}}]}]]}]
+22:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"上一课 / 下一课","children":[["$","$L10",null,{"href":"/zh/lesson/253","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"253"," ","PPU 总线的名称表 VRAM 地址映射"]}]]}],["$","$L10",null,{"href":"/zh/lesson/255","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"255"," ","CHR 图块解码器"]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+25:Taae,<span class="hljs-keyword">class</span> <span class="hljs-title class_">MapperInterface</span>(<span class="hljs-title class_ inherited__">Protocol</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">read_prg</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-built_in">int</span>:
+        ...
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">read_chr</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-built_in">int</span>:
+        ...
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">write_chr</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span>, value: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-literal">None</span>:
+        ...
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Mapper000</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">write_chr</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span>, value: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-literal">None</span>:
+        <span class="hljs-keyword">if</span> <span class="hljs-keyword">not</span> (CHR_ROM_START &lt;= addr &lt;= CHR_ROM_END):
+            <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">f&quot;Address out of CHR ROM range: <span class="hljs-subst">{addr:04X}</span>&quot;</span>)
+
+        <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">&quot;CHR ROM is read-only for official Mapper000&quot;</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">PpuBus</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">write</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span>, value: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-literal">None</span>:
+        addr = addr &amp; PPU_ADDRESS_MASK
+
+        <span class="hljs-keyword">if</span> CHR_START &lt;= addr &lt;= CHR_END:
+            <span class="hljs-keyword">if</span> <span class="hljs-variable language_">self</span>.mapper <span class="hljs-keyword">is</span> <span class="hljs-keyword">not</span> <span class="hljs-literal">None</span>:
+                <span class="hljs-variable language_">self</span>.mapper.write_chr(addr, value)
+                <span class="hljs-keyword">return</span>
+
+            <span class="hljs-variable language_">self</span>.vram.write(addr, value)
+            <span class="hljs-keyword">return</span>23:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","示例实现"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"建议的实现示例"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$25"}}]}]]}]]}],"$L26"]}]}]
+27:T190f,<span class="hljs-keyword">import</span> pytest
+
+<span class="hljs-keyword">from</span> emulator.bus.ppu_bus <span class="hljs-keyword">import</span> PpuBus
+<span class="hljs-keyword">from</span> emulator.cartridge.mapper000 <span class="hljs-keyword">import</span> CHR_ROM_SIZE, Mapper000
+
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">FakeMapperForChrWrites</span>:
+    <span class="hljs-string">&quot;&quot;&quot;Small test double that records CHR write calls from PpuBus.&quot;&quot;&quot;</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-variable language_">self</span>.write_chr_calls = []
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">read_prg</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-built_in">int</span>:
+        <span class="hljs-keyword">raise</span> AssertionError(<span class="hljs-string">&quot;read_prg is not used by this test&quot;</span>)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">read_chr</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-built_in">int</span>:
+        <span class="hljs-keyword">raise</span> AssertionError(<span class="hljs-string">&quot;read_chr is not used by this test&quot;</span>)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">write_chr</span>(<span class="hljs-params">self, addr: <span class="hljs-built_in">int</span>, value: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-literal">None</span>:
+        <span class="hljs-variable language_">self</span>.write_chr_calls.append((addr, value))
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_mapper000</span>() -&gt; Mapper000:
+    <span class="hljs-string">&quot;&quot;&quot;Create a minimal official Mapper000-style mapper with 8KB CHR ROM.&quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> Mapper000(
+        prg_rom=<span class="hljs-built_in">bytes</span>([<span class="hljs-number">0xEA</span>]) * (<span class="hljs-number">16</span> * <span class="hljs-number">1024</span>),
+        chr_rom=<span class="hljs-built_in">bytes</span>([<span class="hljs-number">0x00</span>]) * CHR_ROM_SIZE,
+    )
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_mapper_interface_requires_write_chr_method</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Mappers expose a write_chr method so PpuBus can delegate CHR writes.
+    &quot;&quot;&quot;</span>
+    mapper = make_mapper000()
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">hasattr</span>(mapper, <span class="hljs-string">&quot;write_chr&quot;</span>)
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">callable</span>(mapper.write_chr)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_mapper000_rejects_chr_rom_writes_inside_valid_chr_range</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Official Mapper000/NROM uses CHR ROM in this tutorial, so valid CHR writes are
+    rejected as read-only.
+    &quot;&quot;&quot;</span>
+    mapper = make_mapper000()
+
+    <span class="hljs-keyword">with</span> pytest.raises(ValueError, <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;CHR ROM is read-only&quot;</span>):
+        mapper.write_chr(<span class="hljs-number">0x0000</span>, <span class="hljs-number">0x12</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_mapper000_rejects_chr_writes_outside_chr_range_with_range_error</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Mapper000 should still validate the CHR address range before applying its
+    read-only policy.
+    &quot;&quot;&quot;</span>
+    mapper = make_mapper000()
+
+    <span class="hljs-keyword">with</span> pytest.raises(ValueError, <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;Address out of CHR ROM range&quot;</span>):
+        mapper.write_chr(<span class="hljs-number">0x2000</span>, <span class="hljs-number">0x12</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_ppu_bus_delegates_chr_writes_to_mapper_when_mapper_exists</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    PpuBus should route CHR writes to mapper.write_chr instead of deciding CHR
+    write legality itself.
+    &quot;&quot;&quot;</span>
+    mapper = FakeMapperForChrWrites()
+    bus = PpuBus(mapper=mapper)
+
+    bus.write(<span class="hljs-number">0x0007</span>, <span class="hljs-number">0xAB</span>)
+
+    <span class="hljs-keyword">assert</span> mapper.write_chr_calls == [(<span class="hljs-number">0x0007</span>, <span class="hljs-number">0xAB</span>)]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_ppu_bus_masks_chr_write_address_before_delegating_to_mapper</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    PpuBus owns 14-bit PPU address normalization before routing the access.
+
+    Example:
+        $4007 masked by $3FFF becomes $0007
+    &quot;&quot;&quot;</span>
+    mapper = FakeMapperForChrWrites()
+    bus = PpuBus(mapper=mapper)
+
+    bus.write(<span class="hljs-number">0x4007</span>, <span class="hljs-number">0xCD</span>)
+
+    <span class="hljs-keyword">assert</span> mapper.write_chr_calls == [(<span class="hljs-number">0x0007</span>, <span class="hljs-number">0xCD</span>)]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_ppu_bus_without_mapper_still_allows_local_chr_vram_write</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Keep the early no-cartridge tutorial path working: without a mapper, CHR-area
+    writes still use the local PpuBus VRAM backing.
+    &quot;&quot;&quot;</span>
+    bus = PpuBus(mapper=<span class="hljs-literal">None</span>)
+
+    bus.write(<span class="hljs-number">0x0000</span>, <span class="hljs-number">0xEF</span>)
+
+    <span class="hljs-keyword">assert</span> bus.read(<span class="hljs-number">0x0000</span>) == <span class="hljs-number">0xEF</span>29:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+26:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","查看测试代码",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_254_mapper_chr_write_routing",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$27"}}]}]}],"$L28"]}]
+28:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["测试函数"," (",6,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_mapper_interface_requires_write_chr_method",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_mapper_interface_requires_write_chr_method"}]}],["$","li","test_mapper000_rejects_chr_rom_writes_inside_valid_chr_range",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_mapper000_rejects_chr_rom_writes_inside_valid_chr_range"}]}],["$","li","test_mapper000_rejects_chr_writes_outside_chr_range_with_range_error",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_mapper000_rejects_chr_writes_outside_chr_range_with_range_error"}]}],["$","li","test_ppu_bus_delegates_chr_writes_to_mapper_when_mapper_exists",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_ppu_bus_delegates_chr_writes_to_mapper_when_mapper_exists"}]}],["$","li","test_ppu_bus_masks_chr_write_address_before_delegating_to_mapper",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_ppu_bus_masks_chr_write_address_before_delegating_to_mapper"}]}],["$","li","test_ppu_bus_without_mapper_still_allows_local_chr_vram_write",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_ppu_bus_without_mapper_still_allows_local_chr_vram_write"}]}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"第 254 — 映射器的 CHR 写入路由 · 用 TDD 编写 NES 模拟器"}],["$","meta","1",{"name":"description","content":"实现通过映射器进行的 CHR 写入路由。"}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L29","11",{}]]

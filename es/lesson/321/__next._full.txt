@@ -1,0 +1,286 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+3:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+4:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+7:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+f:I[68027,["/_next/static/chunks/32tg-glwpcf8-.js"],"default",1]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+a:X
+0:{"P":null,"c":["","es","lesson","321",""],"q":"","i":false,"f":[[["",{"children":[["lang","es","d",[]],{"children":["lesson",{"children":[["n","321","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"hgWai9pUCnx8MOLhHyXVO"}
+10:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+11:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+a:C
+5:["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]
+6:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L10",null,{"href":"/es","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"Emulador NES por TDD"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L11",null,{"lang":"es","current":321}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["Capítulo"," ","11"," · ","Sprite Zero Hit"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"Aprende Python desde cero en mi academia (solo en español)","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","Mi academia"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"Idioma","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L10",null,{"href":"/en/lesson/321","hrefLang":"en","lang":"en","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],"$L12","$L13","$L14"]}]]}]]}]}],"$L15","$L16","$L17"]}]
+18:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+12:["$","li","es",{"children":["$","$L10",null,{"href":"/es/lesson/321","hrefLang":"es","lang":"es","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"Español"}]}]
+13:["$","li","zh",{"children":["$","$L10",null,{"href":"/zh/lesson/321","hrefLang":"zh","lang":"zh","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"中文"}]}]
+14:["$","li","ru",{"children":["$","$L10",null,{"href":"/ru/lesson/321","hrefLang":"ru","lang":"ru","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+15:["$","$L18",null,{"prevHref":"/es/lesson/320","nextHref":"/es/lesson/322"}]
+16:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L10",null,{"href":"/es","className":"hover:text-heading","children":"Inicio"}],["$","span",null,{"children":"/"}],["$","$L10",null,{"href":"/es#chapters","className":"hover:text-heading","children":["Capítulo"," ","11",": ","Sprite Zero Hit"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["Lección"," ","321"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["321","."]}]," ","El PPU establece el sprite zero hit programado"]}],["$","p",null,{"className":"mt-2 text-heading","children":"Permitir que el timing del PPU establezca el sprite 0 hit en una posición de pantalla detectada previamente."}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["Lección"," ",321," ","de"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_11_sprite_zero_hit/test_321_ppu_sets_scheduled_sprite_zero_hit.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"Anterior / Siguiente","children":[["$","$L10",null,{"href":"/es/lesson/320","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Anterior",": "]}],"320"," ",""]}]]}],["$","$L10",null,{"href":"/es/lesson/322","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Siguiente",": "]}],"322"," ",""]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Archivo a actualizar"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/ppu/ppu.py"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Por qué existe este paso"}],["$","p","3",{"className":"mt-3","children":[["$","span","0",{"children":"El paso 320 puede encontrar el primer píxel solapado de sprite 0/fondo y devolver su posición en pantalla:"}]]}],["$","pre","4",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"(screen_x, screen_y)"}}]}],["$","p","5",{"className":"mt-3","children":[["$","span","0",{"children":"El PPU no debe establecer el bit 6 de PPUSTATUS inmediatamente cuando se descubre esa posición. Debe almacenar la posición y establecer el flag solo cuando el timing del PPU emulado alcance el píxel visible correspondiente."}]]}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}],"$L26","$L27"]}],"$L28"]}]}]
+17:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"Tutorial creado por linkfy · Sitio estático generado a partir de los 356 tests del repositorio."}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L10",null,{"href":"/es","className":"hover:text-heading","children":"Inicio"}],["$","$L10",null,{"href":"/es/lesson/1","className":"hover:text-heading","children":"Empezar el curso"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+19:["$","h3","6",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Mapeo de coordenadas simplificado"}]
+1a:["$","pre","7",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"screen y -&gt; PPU scanline y\nscreen x -&gt; PPU cycle x + 1"}}]}]
+1b:["$","p","8",{"className":"mt-3","children":[["$","span","0",{"children":"Las coordenadas del framebuffer visible comienzan en x=0, mientras que el timing del PPU simplificado de este proyecto considera que la salida visible comienza en el ciclo 1:"}]]}]
+1c:["$","pre","9",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"screen x=<span class=\"hljs-number\">0</span> -&gt; PPU cycle <span class=\"hljs-number\">1</span>\nscreen x=<span class=\"hljs-number\">1</span> -&gt; PPU cycle <span class=\"hljs-number\">2</span>\nscreen x=<span class=\"hljs-number\">40</span> -&gt; PPU cycle <span class=\"hljs-number\">41</span>"}}]}]
+1d:["$","h3","10",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Cambios de implementación sugeridos"}]
+29:Tb03,<span class="hljs-comment"># --- NEW LINE ---</span>
+SpriteZeroHitPosition = <span class="hljs-built_in">tuple</span>[<span class="hljs-built_in">int</span>, <span class="hljs-built_in">int</span>]
+<span class="hljs-comment"># --- END NEW LINE ---</span>
+
+
+<span class="hljs-meta">@dataclass</span>
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">PPU</span>:
+    ...
+    scanline: <span class="hljs-built_in">int</span> = <span class="hljs-number">0</span>
+    frame: <span class="hljs-built_in">int</span> = <span class="hljs-number">0</span>
+    nmi_requested: <span class="hljs-built_in">bool</span> = <span class="hljs-literal">False</span>
+    <span class="hljs-comment"># --- NEW BLOCK ---</span>
+    sprite_zero_hit_position: SpriteZeroHitPosition | <span class="hljs-literal">None</span> = <span class="hljs-literal">None</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">set_sprite_zero_hit_position</span>(<span class="hljs-params">
+        self,
+        position: SpriteZeroHitPosition | <span class="hljs-literal">None</span>,
+    </span>) -&gt; <span class="hljs-literal">None</span>:
+        <span class="hljs-variable language_">self</span>.sprite_zero_hit_position = position
+    <span class="hljs-comment"># --- END NEW BLOCK ---</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">step</span>(<span class="hljs-params">self, cycles: <span class="hljs-built_in">int</span> = <span class="hljs-number">1</span></span>) -&gt; <span class="hljs-literal">None</span>:
+        ...
+        <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(cycles):
+            <span class="hljs-variable language_">self</span>.cycle += <span class="hljs-number">1</span>
+
+            <span class="hljs-comment"># --- NEW BLOCK ---</span>
+            <span class="hljs-keyword">if</span> <span class="hljs-variable language_">self</span>.sprite_zero_hit_position <span class="hljs-keyword">is</span> <span class="hljs-keyword">not</span> <span class="hljs-literal">None</span>:
+                hit_x, hit_y = <span class="hljs-variable language_">self</span>.sprite_zero_hit_position
+
+                <span class="hljs-keyword">if</span> <span class="hljs-variable language_">self</span>.scanline == hit_y <span class="hljs-keyword">and</span> <span class="hljs-variable language_">self</span>.cycle == hit_x + <span class="hljs-number">1</span>:
+                    <span class="hljs-variable language_">self</span>.status |= SPRITE_ZERO_HIT
+                    <span class="hljs-variable language_">self</span>.sprite_zero_hit_position = <span class="hljs-literal">None</span>
+            <span class="hljs-comment"># --- END NEW BLOCK ---</span>
+
+            ...1e:["$","pre","11",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$29"}}]}]
+1f:["$","p","12",{"className":"mt-3","children":[["$","span","0",{"children":"¿Por qué consumir la posición? La posición describe un único evento de timing futuro. Una vez disparado el evento, establecerla en None evita que el mismo evento programado se dispare de nuevo en un frame posterior. El flag de PPUSTATUS en sí permanece establecido hasta el borrado de pre-render del paso 319."}]]}]
+20:["$","h3","13",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Distinción importante"}]
+21:["$","pre","14",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"set_sprite_zero_hit_position((x, y))\n    stores a future position\n\nPPU.step()\n    sets SPRITE_ZERO_HIT when timing reaches that position"}}]}]
+22:["$","h3","15",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Límite importante"}]
+23:["$","p","16",{"className":"mt-3","children":[["$","span","0",{"children":"El PPU recibe solo un tuple[int, int] | None neutro. No debe importar módulos de renderizado ni saber cómo se detectó el solapamiento entre CHR y el fondo."}]]}]
+24:["$","h3","17",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Fuera del alcance"}]
+25:["$","ul","18",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"Conexión de Console"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"llamar a find_sprite_zero_hit_position()"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"selección de las tablas de patrones de sprite/fondo"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"reglas de activación de renderizado de PPUMASK"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"excepción de hardware en x=255"}]]}],["$","li","5",{"children":[["$","span","0",{"children":"corrección de Y+1 de OAM"}]]}],["$","li","6",{"children":[["$","span","0",{"children":"validación con Super Mario Bros."}]]}]]}]
+26:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","Ejecutar esta lección"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_11_sprite_zero_hit/test_321_ppu_sets_scheduled_sprite_zero_hit.py -v"}}]}]]}]
+27:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"Anterior / Siguiente","children":[["$","$L10",null,{"href":"/es/lesson/320","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Anterior",": "]}],"320"," ","Encontrar la posición de sprite 0 hit"]}]]}],["$","$L10",null,{"href":"/es/lesson/322","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Siguiente",": "]}],"322"," ","Posición del sprite zero hit del PPU"]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+2a:Tb03,<span class="hljs-comment"># --- NEW LINE ---</span>
+SpriteZeroHitPosition = <span class="hljs-built_in">tuple</span>[<span class="hljs-built_in">int</span>, <span class="hljs-built_in">int</span>]
+<span class="hljs-comment"># --- END NEW LINE ---</span>
+
+
+<span class="hljs-meta">@dataclass</span>
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">PPU</span>:
+    ...
+    scanline: <span class="hljs-built_in">int</span> = <span class="hljs-number">0</span>
+    frame: <span class="hljs-built_in">int</span> = <span class="hljs-number">0</span>
+    nmi_requested: <span class="hljs-built_in">bool</span> = <span class="hljs-literal">False</span>
+    <span class="hljs-comment"># --- NEW BLOCK ---</span>
+    sprite_zero_hit_position: SpriteZeroHitPosition | <span class="hljs-literal">None</span> = <span class="hljs-literal">None</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">set_sprite_zero_hit_position</span>(<span class="hljs-params">
+        self,
+        position: SpriteZeroHitPosition | <span class="hljs-literal">None</span>,
+    </span>) -&gt; <span class="hljs-literal">None</span>:
+        <span class="hljs-variable language_">self</span>.sprite_zero_hit_position = position
+    <span class="hljs-comment"># --- END NEW BLOCK ---</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">step</span>(<span class="hljs-params">self, cycles: <span class="hljs-built_in">int</span> = <span class="hljs-number">1</span></span>) -&gt; <span class="hljs-literal">None</span>:
+        ...
+        <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(cycles):
+            <span class="hljs-variable language_">self</span>.cycle += <span class="hljs-number">1</span>
+
+            <span class="hljs-comment"># --- NEW BLOCK ---</span>
+            <span class="hljs-keyword">if</span> <span class="hljs-variable language_">self</span>.sprite_zero_hit_position <span class="hljs-keyword">is</span> <span class="hljs-keyword">not</span> <span class="hljs-literal">None</span>:
+                hit_x, hit_y = <span class="hljs-variable language_">self</span>.sprite_zero_hit_position
+
+                <span class="hljs-keyword">if</span> <span class="hljs-variable language_">self</span>.scanline == hit_y <span class="hljs-keyword">and</span> <span class="hljs-variable language_">self</span>.cycle == hit_x + <span class="hljs-number">1</span>:
+                    <span class="hljs-variable language_">self</span>.status |= SPRITE_ZERO_HIT
+                    <span class="hljs-variable language_">self</span>.sprite_zero_hit_position = <span class="hljs-literal">None</span>
+            <span class="hljs-comment"># --- END NEW BLOCK ---</span>
+
+            ...28:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","Implementación de ejemplo"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"Cambios de implementación sugeridos"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$2a"}}]}]]}]]}],"$L2b"]}]}]
+2c:T2494,<span class="hljs-keyword">from</span> pathlib <span class="hljs-keyword">import</span> Path
+
+<span class="hljs-keyword">from</span> emulator.ppu.ppu <span class="hljs-keyword">import</span> PPU, SPRITE_ZERO_HIT, SpriteZeroHitPosition
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_sprite_zero_hit_position_type_alias_has_screen_coordinate_shape</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    PPU timing receives a simple screen-coordinate tuple without depending on the
+    rendering package&#x27;s implementation types.
+    &quot;&quot;&quot;</span>
+    position: SpriteZeroHitPosition = (<span class="hljs-number">40</span>, <span class="hljs-number">30</span>)
+
+    <span class="hljs-keyword">assert</span> position == (<span class="hljs-number">40</span>, <span class="hljs-number">30</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_ppu_starts_without_a_scheduled_sprite_zero_hit_position</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    A new PPU should not invent a future sprite 0 hit event.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+
+    <span class="hljs-keyword">assert</span> ppu.sprite_zero_hit_position <span class="hljs-keyword">is</span> <span class="hljs-literal">None</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_set_sprite_zero_hit_position_stores_future_event_without_setting_status</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Supplying an overlap position schedules a future event; it must not immediately
+    set PPUSTATUS bit 6.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+
+    ppu.set_sprite_zero_hit_position((<span class="hljs-number">40</span>, <span class="hljs-number">30</span>))
+
+    <span class="hljs-keyword">assert</span> ppu.sprite_zero_hit_position == (<span class="hljs-number">40</span>, <span class="hljs-number">30</span>)
+    <span class="hljs-keyword">assert</span> (ppu.status &amp; SPRITE_ZERO_HIT) == <span class="hljs-number">0</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_setting_none_represents_no_sprite_zero_hit_this_frame</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The caller can explicitly represent a frame where pure overlap detection found
+    no hit.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+    ppu.set_sprite_zero_hit_position((<span class="hljs-number">10</span>, <span class="hljs-number">20</span>))
+
+    ppu.set_sprite_zero_hit_position(<span class="hljs-literal">None</span>)
+
+    <span class="hljs-keyword">assert</span> ppu.sprite_zero_hit_position <span class="hljs-keyword">is</span> <span class="hljs-literal">None</span>
+    <span class="hljs-keyword">assert</span> (ppu.status &amp; SPRITE_ZERO_HIT) == <span class="hljs-number">0</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_sprite_zero_hit_is_not_set_one_cycle_before_scheduled_pixel</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    An overlap at screen x=3 maps to PPU cycle 4, not cycle 3.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+    ppu.scanline = <span class="hljs-number">20</span>
+    ppu.cycle = <span class="hljs-number">2</span>
+    ppu.set_sprite_zero_hit_position((<span class="hljs-number">3</span>, <span class="hljs-number">20</span>))
+
+    ppu.step(<span class="hljs-number">1</span>)
+
+    <span class="hljs-keyword">assert</span> ppu.cycle == <span class="hljs-number">3</span>
+    <span class="hljs-keyword">assert</span> (ppu.status &amp; SPRITE_ZERO_HIT) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> ppu.sprite_zero_hit_position == (<span class="hljs-number">3</span>, <span class="hljs-number">20</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_sprite_zero_hit_is_set_at_screen_x_plus_one_cycle</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    When timing reaches the scheduled scanline and x+1 cycle, set PPUSTATUS bit 6.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+    ppu.scanline = <span class="hljs-number">20</span>
+    ppu.cycle = <span class="hljs-number">3</span>
+    ppu.set_sprite_zero_hit_position((<span class="hljs-number">3</span>, <span class="hljs-number">20</span>))
+
+    ppu.step(<span class="hljs-number">1</span>)
+
+    <span class="hljs-keyword">assert</span> ppu.scanline == <span class="hljs-number">20</span>
+    <span class="hljs-keyword">assert</span> ppu.cycle == <span class="hljs-number">4</span>
+    <span class="hljs-keyword">assert</span> (ppu.status &amp; SPRITE_ZERO_HIT) != <span class="hljs-number">0</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_screen_x_zero_maps_to_ppu_cycle_one</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Verify the origin conversion explicitly: the first framebuffer pixel maps to
+    visible PPU cycle 1.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+    ppu.scanline = <span class="hljs-number">8</span>
+    ppu.cycle = <span class="hljs-number">0</span>
+    ppu.set_sprite_zero_hit_position((<span class="hljs-number">0</span>, <span class="hljs-number">8</span>))
+
+    ppu.step(<span class="hljs-number">1</span>)
+
+    <span class="hljs-keyword">assert</span> ppu.cycle == <span class="hljs-number">1</span>
+    <span class="hljs-keyword">assert</span> (ppu.status &amp; SPRITE_ZERO_HIT) != <span class="hljs-number">0</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_matching_cycle_on_wrong_scanline_does_not_set_hit</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Both timing coordinates must match. Reaching x+1 on a different scanline is not
+    the scheduled event.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+    ppu.scanline = <span class="hljs-number">19</span>
+    ppu.cycle = <span class="hljs-number">3</span>
+    ppu.set_sprite_zero_hit_position((<span class="hljs-number">3</span>, <span class="hljs-number">20</span>))
+
+    ppu.step(<span class="hljs-number">1</span>)
+
+    <span class="hljs-keyword">assert</span> (ppu.status &amp; SPRITE_ZERO_HIT) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> ppu.sprite_zero_hit_position == (<span class="hljs-number">3</span>, <span class="hljs-number">20</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_sprite_zero_hit_position_is_consumed_after_it_fires</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    One scheduled position represents one timing event and should be removed after
+    setting the status flag.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+    ppu.scanline = <span class="hljs-number">20</span>
+    ppu.cycle = <span class="hljs-number">3</span>
+    ppu.set_sprite_zero_hit_position((<span class="hljs-number">3</span>, <span class="hljs-number">20</span>))
+
+    ppu.step(<span class="hljs-number">1</span>)
+
+    <span class="hljs-keyword">assert</span> (ppu.status &amp; SPRITE_ZERO_HIT) != <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> ppu.sprite_zero_hit_position <span class="hljs-keyword">is</span> <span class="hljs-literal">None</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_consumed_position_does_not_fire_again</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Consuming the position prevents a stale event from setting the flag in a later
+    frame unless the caller schedules a new overlap.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+    ppu.scanline = <span class="hljs-number">20</span>
+    ppu.cycle = <span class="hljs-number">3</span>
+    ppu.set_sprite_zero_hit_position((<span class="hljs-number">3</span>, <span class="hljs-number">20</span>))
+    ppu.step(<span class="hljs-number">1</span>)
+    <span class="hljs-keyword">assert</span> ppu.sprite_zero_hit_position <span class="hljs-keyword">is</span> <span class="hljs-literal">None</span>
+
+    ppu.status &amp;= ~SPRITE_ZERO_HIT
+    ppu.scanline = <span class="hljs-number">20</span>
+    ppu.cycle = <span class="hljs-number">3</span>
+    ppu.step(<span class="hljs-number">1</span>)
+
+    <span class="hljs-keyword">assert</span> (ppu.status &amp; SPRITE_ZERO_HIT) == <span class="hljs-number">0</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_ppu_does_not_import_rendering_to_schedule_hit_position</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    PPU owns timing and status flags, but overlap detection remains in the pure
+    rendering helper. Keep this dependency direction explicit.
+    &quot;&quot;&quot;</span>
+    source = Path(<span class="hljs-string">&quot;emulator/ppu/ppu.py&quot;</span>).read_text()
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;from emulator.rendering&quot;</span> <span class="hljs-keyword">not</span> <span class="hljs-keyword">in</span> source
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;import emulator.rendering&quot;</span> <span class="hljs-keyword">not</span> <span class="hljs-keyword">in</span> source2e:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+2b:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","Ver código del test",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_321_ppu_sets_scheduled_sprite_zero_hit",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$2c"}}]}]}],"$L2d"]}]
+2d:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["Funciones de test"," (",11,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_sprite_zero_hit_position_type_alias_has_screen_coordinate_shape",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_sprite_zero_hit_position_type_alias_has_screen_coordinate_shape"}]}],["$","li","test_ppu_starts_without_a_scheduled_sprite_zero_hit_position",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_ppu_starts_without_a_scheduled_sprite_zero_hit_position"}]}],["$","li","test_set_sprite_zero_hit_position_stores_future_event_without_setting_status",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_set_sprite_zero_hit_position_stores_future_event_without_setting_status"}]}],["$","li","test_setting_none_represents_no_sprite_zero_hit_this_frame",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_setting_none_represents_no_sprite_zero_hit_this_frame"}]}],["$","li","test_sprite_zero_hit_is_not_set_one_cycle_before_scheduled_pixel",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_sprite_zero_hit_is_not_set_one_cycle_before_scheduled_pixel"}]}],["$","li","test_sprite_zero_hit_is_set_at_screen_x_plus_one_cycle",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_sprite_zero_hit_is_set_at_screen_x_plus_one_cycle"}]}],["$","li","test_screen_x_zero_maps_to_ppu_cycle_one",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_screen_x_zero_maps_to_ppu_cycle_one"}]}],["$","li","test_matching_cycle_on_wrong_scanline_does_not_set_hit",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_matching_cycle_on_wrong_scanline_does_not_set_hit"}]}],["$","li","test_sprite_zero_hit_position_is_consumed_after_it_fires",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_sprite_zero_hit_position_is_consumed_after_it_fires"}]}],["$","li","test_consumed_position_does_not_fire_again",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_consumed_position_does_not_fire_again"}]}],["$","li","test_ppu_does_not_import_rendering_to_schedule_hit_position",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_ppu_does_not_import_rendering_to_schedule_hit_position"}]}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"Lección 321 — El PPU establece el sprite zero hit programado · Emulador NES por TDD"}],["$","meta","1",{"name":"description","content":"Permitir que el timing del PPU establezca el sprite 0 hit en una posición de pantalla detectada previamente."}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L2e","11",{}]]

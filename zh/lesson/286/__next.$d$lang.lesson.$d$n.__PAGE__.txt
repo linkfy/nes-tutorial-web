@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+3:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+f:X
+14:X
+14:C
+0:{"buildId":"hgWai9pUCnx8MOLhHyXVO","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L2",null,{"href":"/zh","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"用 TDD 编写 NES 模拟器"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L3",null,{"lang":"zh","current":286}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["第"," ","05"," · ","渲染管线"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"在我的学院从零开始学习 Python（仅提供西班牙语）","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","我的学院"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"语言","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L2",null,{"href":"/en/lesson/286","hrefLang":"en","lang":"en","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],"$L4","$L5","$L6"]}]]}]]}]}],"$L7","$L8","$L9"]}],["$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$f","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$f","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+39:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+3a:"$Sreact.suspense"
+3c:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+3d:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+3e:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+3f:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+40:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+41:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+4:["$","li","es",{"children":["$","$L2",null,{"href":"/es/lesson/286","hrefLang":"es","lang":"es","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Español"}]}]
+5:["$","li","zh",{"children":["$","$L2",null,{"href":"/zh/lesson/286","hrefLang":"zh","lang":"zh","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"中文"}]}]
+6:["$","li","ru",{"children":["$","$L2",null,{"href":"/ru/lesson/286","hrefLang":"ru","lang":"ru","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+7:["$","$L1d",null,{"prevHref":"/zh/lesson/285","nextHref":"/zh/lesson/287"}]
+8:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L2",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/zh#chapters","className":"hover:text-heading","children":["第"," ","05",": ","渲染管线"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["第"," ","286"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["286","."]}]," ","手动 pygame 主循环"]}],["$","p",null,{"className":"mt-2 text-heading","children":"为帧缓冲冒烟运行器添加手动 pygame 主循环。"}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["第"," ",286," ","/"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_05_rendering_pipeline/test_286_manual_pygame_main_loop.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"上一课 / 下一课","children":[["$","$L2",null,{"href":"/zh/lesson/285","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"285"," ",""]}]]}],["$","$L2",null,{"href":"/zh/lesson/287","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"287"," ",""]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"待更新/创建的文件"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"tools/show_framebuffer.py"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"为什么需要这一步"}],["$","p","3",{"className":"mt-3","children":[["$","span","0",{"children":"上一步添加了可以把 Framebuffer 绘制到 pygame Surface 上的辅助函数。这一步添加了手动窗口循环，使开发者可以用肉眼确认这些纯 Framebuffer 数据可以被显示出来。"}]]}],["$","h3","4",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"重要提示"}],["$","p","5",{"className":"mt-3","children":[["$","span","0",{"children":"这是一个手动的冒烟运行器，不是自动化渲染测试。自动化测试不得打开真正的 pygame 窗口。"}]]}],["$","h3","6",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"以 Python 模块的方式运行这个工具"}],["$","pre","7",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run python -m tools.show_framebuffer"}}]}],["$","p","8",{"className":"mt-3","children":[["$","span","0",{"children":"Python 的 -m 参数期望的是模块名，而不是文件路径。模块名使用点号："}]]}],["$","pre","9",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":"$L1e"}],"$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35"]}],"$L36","$L37"]}],"$L38"]}]}]
+9:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"教程由 linkfy 制作 · 静态站点根据仓库中的 356 个测试生成。"}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L2",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","$L2",null,{"href":"/zh/lesson/1","className":"hover:text-heading","children":"开始学习"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true}]
+c:["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true}]
+d:["$","$L39",null,{"children":["$","$3a",null,{"name":"Next.MetadataOutlet","children":"$@3b"}]}]
+10:["$","$1","h",{"children":[null,["$","$L3c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3d",null,{"children":["$","$3a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"第 286 — 手动 pygame 主循环 · 用 TDD 编写 NES 模拟器"}],["$","meta","1",{"name":"description","content":"为帧缓冲冒烟运行器添加手动 pygame 主循环。"}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L3e","11",{}]]}]}]}],null]}]
+12:["$","$1","c",{"children":[null,["$","$L3f",null,{"parallelRouterKey":"children","template":["$","$L40",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L3f",null,{"parallelRouterKey":"children","template":["$","$L40",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L3f",null,{"parallelRouterKey":"children","template":["$","$L40",null,{}]}]]}]
+19:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L3f",null,{"parallelRouterKey":"children","template":["$","$L40",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L41",null,{}]]}]]}]]}]
+1e:["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"tools.show_framebuffer"}}]
+1f:["$","p","10",{"className":"mt-3","children":[["$","span","0",{"children":"而不是用文件路径的方式："}]]}]
+20:["$","pre","11",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"tools/show_framebuffer.py"}}]}]
+21:["$","p","12",{"className":"mt-3","children":[["$","span","0",{"children":"现代 Python 将这种项目布局支持为命名空间包，因此本课不需要 "}],["$","code","1",{"translate":"no","className":"notranslate","children":"__init__.py"}],["$","span","2",{"children":" 文件。"}]]}]
+22:["$","h3","13",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"手动命令"}]
+23:["$","pre","14",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"Correct:\n    uv run python -m tools.show_framebuffer\n\nIncorrect:\n    uv run python -m tools/show_framebuffer.py\n    uv run python -m tools.show_framebuffer.py"}}]}]
+24:["$","p","15",{"className":"mt-3","children":[["$","span","0",{"children":"什么是 pygame 主循环？"}]]}]
+25:["$","h3","16",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"pygame 主循环通过反复执行以下操作使窗口保持存活"}]
+26:["$","pre","17",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"1. reading events\n2. drawing to the window surface\n3. presenting the drawn image"}}]}]
+27:["$","h3","18",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"最小形态"}]
+28:["$","pre","19",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"running = <span class=\"hljs-literal\">True</span>\n<span class=\"hljs-keyword\">while</span> running:\n    <span class=\"hljs-keyword\">for</span> event <span class=\"hljs-keyword\">in</span> pygame.event.get():\n        <span class=\"hljs-keyword\">if</span> event.<span class=\"hljs-built_in\">type</span> == pygame.QUIT:\n            running = <span class=\"hljs-literal\">False</span>\n\n    draw_framebuffer(window, framebuffer, SCALE)\n    pygame.display.flip()"}}]}]
+29:["$","p","20",{"className":"mt-3","children":[["$","span","0",{"children":"什么是 pygame.display.flip()？它把窗口 surface 的当前内容呈现到显示器上。简单来说："}]]}]
+2a:["$","pre","21",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"draw pixels -&gt; flip -&gt; user sees pixels"}}]}]
+2b:["$","h3","22",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"预期的手动视觉结果"}]
+2c:["$","p","23",{"className":"mt-3","children":[["$","span","0",{"children":"棋盘格帧缓冲应该显示出类似这样的黑/白或深色/白色图案："}]]}]
+2d:["$","pre","24",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"+----------------+\n| ██  ██  ██  ██ |\n| ██  ██  ██  ██ |\n|   ██  ██  ██   |\n|   ██  ██  ██   |\n| ██  ██  ██  ██ |\n| ██  ██  ██  ██ |\n+----------------+"}}]}]
+2e:["$","p","25",{"className":"mt-3","children":[["$","span","0",{"children":"确切的方块大小取决于帧缓冲尺寸和 SCALE，但重要的视觉检查点是："}]]}]
+2f:["$","pre","26",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"alternating light and dark squares are visible\nclosing the window exits cleanly"}}]}]
+30:["$","h3","27",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"建议的实现示例"}]
+42:T4b4,SCALE = <span class="hljs-number">3</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">main</span>() -&gt; <span class="hljs-literal">None</span>:
+    framebuffer = make_checkerboard_framebuffer()
+
+    pygame.init()
+    <span class="hljs-keyword">try</span>:
+        window = pygame.display.set_mode(
+            (framebuffer.width * SCALE, framebuffer.height * SCALE)
+        )
+        pygame.display.set_caption(<span class="hljs-string">&quot;Framebuffer Smoke Test&quot;</span>)
+
+        running = <span class="hljs-literal">True</span>
+        <span class="hljs-keyword">while</span> running:
+            <span class="hljs-keyword">for</span> event <span class="hljs-keyword">in</span> pygame.event.get():
+                <span class="hljs-keyword">if</span> event.<span class="hljs-built_in">type</span> == pygame.QUIT:
+                    running = <span class="hljs-literal">False</span>
+
+            draw_framebuffer(window, framebuffer, SCALE)
+            pygame.display.flip()
+    <span class="hljs-keyword">finally</span>:
+        pygame.quit()
+
+
+<span class="hljs-keyword">if</span> __name__ == <span class="hljs-string">&quot;__main__&quot;</span>:
+    main()31:["$","pre","28",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$42"}}]}]
+32:["$","h3","29",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"架构规则"}]
+33:["$","p","30",{"className":"mt-3","children":[["$","span","0",{"children":"pygame 仍然位于模拟器核心之外。这个文件之所以可以导入 pygame，是因为它位于 tools/ 目录下。不要在 emulator/rendering、emulator/ppu 或 emulator/console 中导入 pygame。"}]]}]
+34:["$","h3","31",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"范围之外"}]
+35:["$","ul","32",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"在 pytest 中测试真实的 pygame 窗口"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"加载 ROM"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"渲染实时的 Console 输出"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"手柄输入"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"精灵"}]]}]]}]
+36:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","运行本课"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_05_rendering_pipeline/test_286_manual_pygame_main_loop.py -v"}}]}]]}]
+37:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"上一课 / 下一课","children":[["$","$L2",null,{"href":"/zh/lesson/285","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"285"," ","手动帧缓冲显示辅助函数"]}]]}],["$","$L2",null,{"href":"/zh/lesson/287","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"287"," ","Console 步进到下一帧"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+43:T4b4,SCALE = <span class="hljs-number">3</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">main</span>() -&gt; <span class="hljs-literal">None</span>:
+    framebuffer = make_checkerboard_framebuffer()
+
+    pygame.init()
+    <span class="hljs-keyword">try</span>:
+        window = pygame.display.set_mode(
+            (framebuffer.width * SCALE, framebuffer.height * SCALE)
+        )
+        pygame.display.set_caption(<span class="hljs-string">&quot;Framebuffer Smoke Test&quot;</span>)
+
+        running = <span class="hljs-literal">True</span>
+        <span class="hljs-keyword">while</span> running:
+            <span class="hljs-keyword">for</span> event <span class="hljs-keyword">in</span> pygame.event.get():
+                <span class="hljs-keyword">if</span> event.<span class="hljs-built_in">type</span> == pygame.QUIT:
+                    running = <span class="hljs-literal">False</span>
+
+            draw_framebuffer(window, framebuffer, SCALE)
+            pygame.display.flip()
+    <span class="hljs-keyword">finally</span>:
+        pygame.quit()
+
+
+<span class="hljs-keyword">if</span> __name__ == <span class="hljs-string">&quot;__main__&quot;</span>:
+    main()38:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","示例实现"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"最小形态"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"running = <span class=\"hljs-literal\">True</span>\n<span class=\"hljs-keyword\">while</span> running:\n    <span class=\"hljs-keyword\">for</span> event <span class=\"hljs-keyword\">in</span> pygame.event.get():\n        <span class=\"hljs-keyword\">if</span> event.<span class=\"hljs-built_in\">type</span> == pygame.QUIT:\n            running = <span class=\"hljs-literal\">False</span>\n\n    draw_framebuffer(window, framebuffer, SCALE)\n    pygame.display.flip()"}}]}]]}],["$","div","1",{"className":"border-t border-border","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"建议的实现示例"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$43"}}]}]]}]]}],["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":["$L44"," ","查看测试代码","$L45"]}],"$L46","$L47"]}]]}]}]
+3b:null
+1c:true
+f:300
+44:["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]
+45:["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_286_manual_pygame_main_loop",".py"]}]
+48:T13e7,<span class="hljs-keyword">import</span> inspect
+<span class="hljs-keyword">from</span> pathlib <span class="hljs-keyword">import</span> Path
+
+<span class="hljs-keyword">from</span> tools <span class="hljs-keyword">import</span> show_framebuffer
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_show_framebuffer_declares_scale_constant</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    SCALE controls how large each framebuffer pixel appears in the pygame window.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">hasattr</span>(show_framebuffer, <span class="hljs-string">&quot;SCALE&quot;</span>)
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">isinstance</span>(show_framebuffer.SCALE, <span class="hljs-built_in">int</span>)
+    <span class="hljs-keyword">assert</span> show_framebuffer.SCALE &gt;= <span class="hljs-number">1</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_show_framebuffer_declares_main_function_but_test_does_not_call_it</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The manual runner exposes main(), but automated tests must not call it because
+    it opens a real pygame window and waits for events.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">hasattr</span>(show_framebuffer, <span class="hljs-string">&quot;main&quot;</span>)
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">callable</span>(show_framebuffer.main)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_main_function_uses_pygame_window_loop_concepts</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    main() should include the important pygame window-loop operations:
+
+        pygame.init()
+        pygame.display.set_mode(...)
+        pygame.event.get()
+        pygame.display.flip()
+        pygame.quit()
+
+    This checks source shape instead of opening a window.
+    &quot;&quot;&quot;</span>
+    source = inspect.getsource(show_framebuffer.main)
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;pygame.init()&quot;</span> <span class="hljs-keyword">in</span> source
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;pygame.display.set_mode&quot;</span> <span class="hljs-keyword">in</span> source
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;pygame.event.get()&quot;</span> <span class="hljs-keyword">in</span> source
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;pygame.display.flip()&quot;</span> <span class="hljs-keyword">in</span> source
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;pygame.quit()&quot;</span> <span class="hljs-keyword">in</span> source
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_show_framebuffer_has_main_guard_for_direct_execution</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The tool should be runnable directly or with module execution while avoiding
+    accidental main-loop execution during import.
+
+    Expected guard:
+        if __name__ == &quot;__main__&quot;:
+            main()
+    &quot;&quot;&quot;</span>
+    source = Path(<span class="hljs-string">&quot;tools/show_framebuffer.py&quot;</span>).read_text()
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&#x27;if __name__ == &quot;__main__&quot;&#x27;</span> <span class="hljs-keyword">in</span> source
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;main()&quot;</span> <span class="hljs-keyword">in</span> source
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_manual_runner_keeps_pygame_outside_emulator_core</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Document the architectural boundary. Pygame belongs in tools/frontend code, not
+    in emulator core rendering modules.
+    &quot;&quot;&quot;</span>
+    core_files = [
+        Path(<span class="hljs-string">&quot;emulator/rendering/framebuffer.py&quot;</span>),
+        Path(<span class="hljs-string">&quot;emulator/rendering/color_index_renderer.py&quot;</span>),
+        Path(<span class="hljs-string">&quot;emulator/rendering/pattern_table_renderer.py&quot;</span>),
+        Path(<span class="hljs-string">&quot;emulator/rendering/nametable_renderer.py&quot;</span>),
+        Path(<span class="hljs-string">&quot;emulator/rendering/ppu_background_renderer.py&quot;</span>),
+        Path(<span class="hljs-string">&quot;emulator/console.py&quot;</span>),
+    ]
+
+    <span class="hljs-keyword">for</span> file_path <span class="hljs-keyword">in</span> core_files:
+        <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;import pygame&quot;</span> <span class="hljs-keyword">not</span> <span class="hljs-keyword">in</span> file_path.read_text()46:["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$48"}}]}]}]
+47:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["测试函数"," (",5,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_show_framebuffer_declares_scale_constant",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_show_framebuffer_declares_scale_constant"}]}],["$","li","test_show_framebuffer_declares_main_function_but_test_does_not_call_it",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_show_framebuffer_declares_main_function_but_test_does_not_call_it"}]}],["$","li","test_main_function_uses_pygame_window_loop_concepts",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_main_function_uses_pygame_window_loop_concepts"}]}],["$","li","test_show_framebuffer_has_main_guard_for_direct_execution",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_show_framebuffer_has_main_guard_for_direct_execution"}]}],["$","li","test_manual_runner_keeps_pygame_outside_emulator_core",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_manual_runner_keeps_pygame_outside_emulator_core"}]}]]}]]}]
+f:C
+1b:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+18:"$undefined"
+1a:"$undefined"
+e:"$undefined"

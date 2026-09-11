@@ -1,0 +1,397 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+3:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+f:X
+14:X
+14:C
+0:{"buildId":"hgWai9pUCnx8MOLhHyXVO","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L2",null,{"href":"/es","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"Emulador NES por TDD"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L3",null,{"lang":"es","current":351}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["Capítulo"," ","13"," · ","Scrolling"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"Aprende Python desde cero en mi academia (solo en español)","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","Mi academia"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"Idioma","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L2",null,{"href":"/en/lesson/351","hrefLang":"en","lang":"en","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],"$L4","$L5","$L6"]}]]}]]}]}],"$L7","$L8","$L9"]}],["$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$f","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$f","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+34:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+35:"$Sreact.suspense"
+37:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+38:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+39:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+3a:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+3b:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+3c:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+4:["$","li","es",{"children":["$","$L2",null,{"href":"/es/lesson/351","hrefLang":"es","lang":"es","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"Español"}]}]
+5:["$","li","zh",{"children":["$","$L2",null,{"href":"/zh/lesson/351","hrefLang":"zh","lang":"zh","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"中文"}]}]
+6:["$","li","ru",{"children":["$","$L2",null,{"href":"/ru/lesson/351","hrefLang":"ru","lang":"ru","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+7:["$","$L1d",null,{"prevHref":"/es/lesson/350","nextHref":"/es/lesson/352"}]
+8:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L2",null,{"href":"/es","className":"hover:text-heading","children":"Inicio"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/es#chapters","className":"hover:text-heading","children":["Capítulo"," ","13",": ","Scrolling"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["Lección"," ","351"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["351","."]}]," ","De scanlines temporizadas a máscara opaca"]}],["$","p",null,{"className":"mt-2 text-heading","children":"Componer una máscara de opacidad de fondo a partir de 240 estados de scanline completados."}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["Lección"," ",351," ","de"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_13_scrolling/test_351_timed_scanlines_to_opaque_mask.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"Anterior / Siguiente","children":[["$","$L2",null,{"href":"/es/lesson/350","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Anterior",": "]}],"350"," ",""]}]]}],["$","$L2",null,{"href":"/es/lesson/352","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Siguiente",": "]}],"352"," ",""]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Archivo a actualizar"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/rendering/ppu_background_renderer.py"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Referencias"}],["$","pre","3",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"https://www.nesdev.org/wiki/PPU_rendering\nhttps://www.nesdev.org/wiki/PPU_scrolling"}}]}],["$","h3","4",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Por qué existe este paso"}],["$","p","5",{"className":"mt-3","children":[["$","span","0",{"children":"Las filas de framebuffer temporizadas pueden mostrar un área de estado fija y un área de juego desplazada de forma distinta en un mismo fotograma. Las decisiones de prioridad de sprites y de sprite-zero-hit también necesitan la opacidad del fondo en esas mismas coordenadas de pantalla exactas. Si los píxeles RGB usan estados temporizados mientras que la opacidad usa una única instantánea final de t, los sprites pueden aparecer delante de tiles sólidos que deberían ocultarlos."}]]}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}],"$L31","$L32"]}],"$L33"]}]}]
+9:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"Tutorial creado por linkfy · Sitio estático generado a partir de los 356 tests del repositorio."}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L2",null,{"href":"/es","className":"hover:text-heading","children":"Inicio"}],["$","$L2",null,{"href":"/es/lesson/1","className":"hover:text-heading","children":"Empezar el curso"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true}]
+c:["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true}]
+d:["$","$L34",null,{"children":["$","$35",null,{"name":"Next.MetadataOutlet","children":"$@36"}]}]
+10:["$","$1","h",{"children":[null,["$","$L37",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L38",null,{"children":["$","$35",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lección 351 — De scanlines temporizadas a máscara opaca · Emulador NES por TDD"}],["$","meta","1",{"name":"description","content":"Componer una máscara de opacidad de fondo a partir de 240 estados de scanline completados."}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L39","11",{}]]}]}]}],null]}]
+12:["$","$1","c",{"children":[null,["$","$L3a",null,{"parallelRouterKey":"children","template":["$","$L3b",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L3a",null,{"parallelRouterKey":"children","template":["$","$L3b",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L3a",null,{"parallelRouterKey":"children","template":["$","$L3b",null,{}]}]]}]
+19:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L3a",null,{"parallelRouterKey":"children","template":["$","$L3b",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L3c",null,{}]]}]]}]]}]
+1e:["$","h3","6",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Un BackgroundOpaqueMask es una lista plana de 256x240 valores booleanos"}]
+1f:["$","pre","7",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"True:  the decoded background pattern pixel is nonzero\nFalse: the decoded background pattern pixel is transparent"}}]}]
+20:["$","p","8",{"className":"mt-3","children":[["$","span","0",{"children":"La opacidad es información de patrón, no una prueba de color RGB. Un píxel de patrón visible puede usar un color de paleta negro, mientras que un píxel de patrón transparente muestra el color de fondo universal."}]]}]
+21:["$","p","9",{"className":"mt-3","children":[["$","span","0",{"children":"El compositor de la máscara debe reflejar exactamente la selección de coordenadas del framebuffer:"}]]}]
+22:["$","pre","10",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"state = completed_scanline_scroll_states[screen_y]\nlogical_x = (viewport_x + screen_x) % <span class=\"hljs-number\">512</span>\n\nlogical X <span class=\"hljs-number\">0</span>-<span class=\"hljs-number\">255</span>:   read the left source mask\nlogical X <span class=\"hljs-number\">256</span>-<span class=\"hljs-number\">511</span>: read the right source mask after subtracting <span class=\"hljs-number\">256</span>"}}]}]
+23:["$","p","11",{"className":"mt-3","children":[["$","span","0",{"children":"Para este hito horizontal, la Y de origen sigue siendo screen_y."}]]}]
+24:["$","p","12",{"className":"mt-3","children":[["$","span","0",{"children":"¿Por qué cachear máscaras de origen? El viewport X puede cambiar en cada scanline sin que cambie el par de origen lógico."}]]}]
+25:["$","h3","13",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"La caché local construye cada par una sola vez por composición"}]
+26:["$","pre","14",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$$<span class=\"hljs-number\">2000</span> key -&gt; masks <span class=\"hljs-keyword\">for</span> ($<span class=\"hljs-number\">2000</span>, $<span class=\"hljs-number\">2400</span>)\n$<span class=\"hljs-number\">2800</span> key -&gt; masks <span class=\"hljs-keyword\">for</span> ($<span class=\"hljs-number\">2800</span>, $2C00)"}}]}]
+27:["$","h3","15",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Invariantes importantes"}]
+28:["$","ul","16",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"la entrada contiene exactamente 240 estados completados"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"la salida contiene exactamente 256 * 240 entradas booleanas"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"el índice de estado, la fila de origen y la fila de destino usan el mismo screen_y"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"las coordenadas horizontales dan la vuelta a lo largo del par completo de 512 píxeles"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"cada par lógico se construye como máximo una vez por composición"}]]}],["$","li","5",{"children":[["$","span","0",{"children":"los cambios de viewport-X reutilizan el par de origen existente"}]]}],["$","li","6",{"children":[["$","span","0",{"children":"el código de la máscara de opacidad nunca llama al renderizado del framebuffer"}]]}],["$","li","7",{"children":[["$","span","0",{"children":"las correspondencias de coordenadas del framebuffer y de la máscara de opacidad permanecen idénticas"}]]}]]}]
+29:["$","h3","17",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Concepto erróneo habitual"}]
+2a:["$","p","18",{"className":"mt-3","children":[["$","span","0",{"children":"No derives esta máscara a partir de valores RGB ya renderizados. La prioridad de sprites depende de si el valor original del patrón de fondo era cero, algo que no puede reconstruirse de forma fiable a partir de su color de paleta final."}]]}]
+2b:["$","h3","19",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Estrategia de pruebas"}]
+2c:["$","p","20",{"className":"mt-3","children":[["$","span","0",{"children":"Estas pruebas sustituyen la construcción de máscaras respaldada por la PPU por máscaras sintéticas. Cada valor booleano es una función determinista de la dirección base lógica, la X de origen y la Y de origen. Eso hace observables la selección incorrecta de pares, el indexado incorrecto de filas y los errores de ajuste horizontal sin involucrar la decodificación de CHR, las paletas ni el mirroring del cartucho."}]]}]
+2d:["$","h3","21",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Fuera de alcance"}]
+2e:["$","ul","22",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"activar este helper en el adaptador público de la máscara de opacidad"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"selección de reserva para fotogramas de inicio o incompletos"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"integración con sprite-zero-hit"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"desplazamiento vertical completo de la fila de origen"}]]}]]}]
+2f:["$","p","23",{"className":"mt-3","children":[["$","span","0",{"children":"Implementación de ejemplo completa (lógica muy similar a _timed_scanlines_to_framebuffer):"}]]}]
+3d:Tab6,<span class="hljs-comment"># emulator/rendering/ppu_background_renderer.py</span>
+
+<span class="hljs-comment"># --- NEW BLOCK: COMPOSE COMPLETED TIMED OPACITY ROWS ---</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">_timed_scanlines_to_opaque_mask</span>(<span class="hljs-params">
+    ppu: PPU,
+</span>) -&gt; BackgroundOpaqueMask:
+    states = ppu.completed_scanline_scroll_states
+
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(states) != NAMETABLE_PIXEL_HEIGHT:
+        <span class="hljs-keyword">raise</span> ValueError(
+            <span class="hljs-string">&quot;Timed opacity mask requires exactly 240 scanline states&quot;</span>
+        )
+
+    result: BackgroundOpaqueMask = [<span class="hljs-literal">False</span>] * (
+        NAMETABLE_PIXEL_WIDTH * NAMETABLE_PIXEL_HEIGHT
+    )
+    pair_cache: <span class="hljs-built_in">dict</span>[
+        <span class="hljs-built_in">int</span>,
+        <span class="hljs-built_in">tuple</span>[BackgroundOpaqueMask, BackgroundOpaqueMask],
+    ] = {}
+    logical_width = NAMETABLE_PIXEL_WIDTH * <span class="hljs-number">2</span>
+
+    <span class="hljs-keyword">for</span> screen_y, state <span class="hljs-keyword">in</span> <span class="hljs-built_in">enumerate</span>(states):
+        left_base, right_base = _scanline_horizontal_pair(state)
+
+        <span class="hljs-keyword">if</span> left_base <span class="hljs-keyword">not</span> <span class="hljs-keyword">in</span> pair_cache:
+            pair_cache[left_base] = (
+                ppu_background_to_opaque_mask(
+                    ppu,
+                    base_nametable_addr=left_base,
+                ),
+                ppu_background_to_opaque_mask(
+                    ppu,
+                    base_nametable_addr=right_base,
+                ),
+            )
+
+        left, right = pair_cache[left_base]
+        viewport_x = _scanline_viewport_x(state)
+        destination_row = screen_y * NAMETABLE_PIXEL_WIDTH
+
+        <span class="hljs-keyword">for</span> screen_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_WIDTH):
+            logical_x = (viewport_x + screen_x) % logical_width
+
+            <span class="hljs-keyword">if</span> logical_x &lt; NAMETABLE_PIXEL_WIDTH:
+                source = left
+                source_x = logical_x
+            <span class="hljs-keyword">else</span>:
+                source = right
+                source_x = logical_x - NAMETABLE_PIXEL_WIDTH
+
+            destination_index = destination_row + screen_x
+            source_index = destination_row + source_x
+            result[destination_index] = source[source_index]
+
+    <span class="hljs-keyword">return</span> result30:["$","pre","24",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+31:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","Ejecutar esta lección"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_13_scrolling/test_351_timed_scanlines_to_opaque_mask.py -v"}}]}]]}]
+32:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"Anterior / Siguiente","children":[["$","$L2",null,{"href":"/es/lesson/350","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Anterior",": "]}],"350"," ","Seleccionar la ruta de framebuffer temporizado"]}]]}],["$","$L2",null,{"href":"/es/lesson/352","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Siguiente",": "]}],"352"," ","Seleccionar la ruta de máscara opaca temporizada"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+3e:Tab6,<span class="hljs-comment"># emulator/rendering/ppu_background_renderer.py</span>
+
+<span class="hljs-comment"># --- NEW BLOCK: COMPOSE COMPLETED TIMED OPACITY ROWS ---</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">_timed_scanlines_to_opaque_mask</span>(<span class="hljs-params">
+    ppu: PPU,
+</span>) -&gt; BackgroundOpaqueMask:
+    states = ppu.completed_scanline_scroll_states
+
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(states) != NAMETABLE_PIXEL_HEIGHT:
+        <span class="hljs-keyword">raise</span> ValueError(
+            <span class="hljs-string">&quot;Timed opacity mask requires exactly 240 scanline states&quot;</span>
+        )
+
+    result: BackgroundOpaqueMask = [<span class="hljs-literal">False</span>] * (
+        NAMETABLE_PIXEL_WIDTH * NAMETABLE_PIXEL_HEIGHT
+    )
+    pair_cache: <span class="hljs-built_in">dict</span>[
+        <span class="hljs-built_in">int</span>,
+        <span class="hljs-built_in">tuple</span>[BackgroundOpaqueMask, BackgroundOpaqueMask],
+    ] = {}
+    logical_width = NAMETABLE_PIXEL_WIDTH * <span class="hljs-number">2</span>
+
+    <span class="hljs-keyword">for</span> screen_y, state <span class="hljs-keyword">in</span> <span class="hljs-built_in">enumerate</span>(states):
+        left_base, right_base = _scanline_horizontal_pair(state)
+
+        <span class="hljs-keyword">if</span> left_base <span class="hljs-keyword">not</span> <span class="hljs-keyword">in</span> pair_cache:
+            pair_cache[left_base] = (
+                ppu_background_to_opaque_mask(
+                    ppu,
+                    base_nametable_addr=left_base,
+                ),
+                ppu_background_to_opaque_mask(
+                    ppu,
+                    base_nametable_addr=right_base,
+                ),
+            )
+
+        left, right = pair_cache[left_base]
+        viewport_x = _scanline_viewport_x(state)
+        destination_row = screen_y * NAMETABLE_PIXEL_WIDTH
+
+        <span class="hljs-keyword">for</span> screen_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_WIDTH):
+            logical_x = (viewport_x + screen_x) % logical_width
+
+            <span class="hljs-keyword">if</span> logical_x &lt; NAMETABLE_PIXEL_WIDTH:
+                source = left
+                source_x = logical_x
+            <span class="hljs-keyword">else</span>:
+                source = right
+                source_x = logical_x - NAMETABLE_PIXEL_WIDTH
+
+            destination_index = destination_row + screen_x
+            source_index = destination_row + source_x
+            result[destination_index] = source[source_index]
+
+    <span class="hljs-keyword">return</span> result33:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","Implementación de ejemplo"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"Un BackgroundOpaqueMask es una lista plana de 256x240 valores booleanos"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"state = completed_scanline_scroll_states[screen_y]\nlogical_x = (viewport_x + screen_x) % <span class=\"hljs-number\">512</span>\n\nlogical X <span class=\"hljs-number\">0</span>-<span class=\"hljs-number\">255</span>:   read the left source mask\nlogical X <span class=\"hljs-number\">256</span>-<span class=\"hljs-number\">511</span>: read the right source mask after subtracting <span class=\"hljs-number\">256</span>"}}]}]]}],["$","div","1",{"className":"border-t border-border","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"Fuera de alcance"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$3e"}}]}]]}]]}],"$L3f"]}]}]
+36:null
+1c:true
+f:300
+40:T3a86,<span class="hljs-keyword">from</span> collections <span class="hljs-keyword">import</span> Counter
+
+<span class="hljs-keyword">import</span> pytest
+
+<span class="hljs-keyword">from</span> emulator.ppu.ppu <span class="hljs-keyword">import</span> BackgroundScanlineState, PPU
+<span class="hljs-keyword">from</span> emulator.rendering.background_viewport <span class="hljs-keyword">import</span> (
+    NAMETABLE_PIXEL_HEIGHT,
+    NAMETABLE_PIXEL_WIDTH,
+)
+<span class="hljs-keyword">from</span> emulator.rendering <span class="hljs-keyword">import</span> ppu_background_renderer
+<span class="hljs-keyword">from</span> emulator.rendering.ppu_background_renderer <span class="hljs-keyword">import</span> (
+    _timed_scanlines_to_opaque_mask,
+)
+
+
+SOURCE_PHASES = {
+    <span class="hljs-number">0x2000</span>: <span class="hljs-number">0</span>,
+    <span class="hljs-number">0x2400</span>: <span class="hljs-number">1</span>,
+    <span class="hljs-number">0x2800</span>: <span class="hljs-number">2</span>,
+    <span class="hljs-number">0x2C00</span>: <span class="hljs-number">3</span>,
+}
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_state</span>(<span class="hljs-params">
+    viewport_x: <span class="hljs-built_in">int</span>,
+    *,
+    nametable_y: <span class="hljs-built_in">int</span> = <span class="hljs-number">0</span>,
+</span>) -&gt; BackgroundScanlineState:
+    <span class="hljs-string">&quot;&quot;&quot;Encode horizontal pixel X and vertical pair selection into one state.&quot;&quot;&quot;</span>
+    nametable_x, pair_x = <span class="hljs-built_in">divmod</span>(viewport_x, NAMETABLE_PIXEL_WIDTH)
+    coarse_x, fine_x = <span class="hljs-built_in">divmod</span>(pair_x, <span class="hljs-number">8</span>)
+    vram_addr = (
+        coarse_x
+        | ((nametable_x &amp; <span class="hljs-number">1</span>) &lt;&lt; <span class="hljs-number">10</span>)
+        | ((nametable_y &amp; <span class="hljs-number">1</span>) &lt;&lt; <span class="hljs-number">11</span>)
+    )
+    <span class="hljs-keyword">return</span> BackgroundScanlineState(vram_addr=vram_addr, fine_x=fine_x)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">source_value</span>(<span class="hljs-params">
+    base_nametable_addr: <span class="hljs-built_in">int</span>,
+    source_x: <span class="hljs-built_in">int</span>,
+    source_y: <span class="hljs-built_in">int</span>,
+</span>) -&gt; <span class="hljs-built_in">bool</span>:
+    <span class="hljs-string">&quot;&quot;&quot;Produce distinguishable Boolean patterns for logical source coordinates.&quot;&quot;&quot;</span>
+    phase = SOURCE_PHASES[base_nametable_addr]
+    <span class="hljs-keyword">return</span> (phase + source_x + source_y) % <span class="hljs-number">5</span> <span class="hljs-keyword">in</span> (<span class="hljs-number">0</span>, <span class="hljs-number">1</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_source_mask</span>(<span class="hljs-params">base_nametable_addr: <span class="hljs-built_in">int</span></span>) -&gt; <span class="hljs-built_in">list</span>[<span class="hljs-built_in">bool</span>]:
+    <span class="hljs-string">&quot;&quot;&quot;Build one synthetic logical nametable mask.&quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> [
+        source_value(base_nametable_addr, source_x, source_y)
+        <span class="hljs-keyword">for</span> source_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+        <span class="hljs-keyword">for</span> source_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_WIDTH)
+    ]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">install_fake_mask_renderer</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;Replace PPU-backed mask construction and return its logical-address call log.&quot;&quot;&quot;</span>
+    calls: <span class="hljs-built_in">list</span>[<span class="hljs-built_in">int</span>] = []
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">fake_renderer</span>(<span class="hljs-params">ppu, base_nametable_addr=<span class="hljs-number">0x2000</span></span>):
+        calls.append(base_nametable_addr)
+        <span class="hljs-keyword">return</span> make_source_mask(base_nametable_addr)
+
+    monkeypatch.<span class="hljs-built_in">setattr</span>(
+        ppu_background_renderer,
+        <span class="hljs-string">&quot;ppu_background_to_opaque_mask&quot;</span>,
+        fake_renderer,
+    )
+    <span class="hljs-keyword">return</span> calls
+
+
+<span class="hljs-meta">@pytest.mark.parametrize(<span class="hljs-params"><span class="hljs-string">&quot;wrong_length&quot;</span>, [<span class="hljs-number">0</span>, <span class="hljs-number">1</span>, <span class="hljs-number">239</span>, <span class="hljs-number">241</span>]</span>)</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_timed_mask_compositor_requires_exactly_240_states</span>(<span class="hljs-params">wrong_length</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Reject missing or oversized coordinate evidence instead of producing a partial mask.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(<span class="hljs-number">0</span>)
+        <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(wrong_length)
+    )
+
+    <span class="hljs-keyword">with</span> pytest.raises(
+        ValueError,
+        <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;exactly 240 scanline states&quot;</span>,
+    ):
+        _timed_scanlines_to_opaque_mask(ppu)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_result_contains_one_boolean_for_every_screen_pixel</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Preserve the flat mask contract expected by sprite-priority consumers.
+    &quot;&quot;&quot;</span>
+    install_fake_mask_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(<span class="hljs-number">0</span>)
+        <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    result = _timed_scanlines_to_opaque_mask(ppu)
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">len</span>(result) == NAMETABLE_PIXEL_WIDTH * NAMETABLE_PIXEL_HEIGHT
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">all</span>(<span class="hljs-built_in">isinstance</span>(value, <span class="hljs-built_in">bool</span>) <span class="hljs-keyword">for</span> value <span class="hljs-keyword">in</span> result)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_each_mask_row_uses_its_matching_recorded_state</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Align opacity with a fixed upper area and a differently scrolled lower area.
+    &quot;&quot;&quot;</span>
+    install_fake_mask_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(<span class="hljs-number">0</span> <span class="hljs-keyword">if</span> screen_y &lt; <span class="hljs-number">32</span> <span class="hljs-keyword">else</span> <span class="hljs-number">40</span>)
+        <span class="hljs-keyword">for</span> screen_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    result = _timed_scanlines_to_opaque_mask(ppu)
+
+    <span class="hljs-keyword">assert</span> result[<span class="hljs-number">0</span> * NAMETABLE_PIXEL_WIDTH] == source_value(<span class="hljs-number">0x2000</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)
+    <span class="hljs-keyword">assert</span> result[<span class="hljs-number">31</span> * NAMETABLE_PIXEL_WIDTH] == source_value(<span class="hljs-number">0x2000</span>, <span class="hljs-number">0</span>, <span class="hljs-number">31</span>)
+    <span class="hljs-keyword">assert</span> result[<span class="hljs-number">32</span> * NAMETABLE_PIXEL_WIDTH] == source_value(<span class="hljs-number">0x2000</span>, <span class="hljs-number">40</span>, <span class="hljs-number">32</span>)
+    <span class="hljs-keyword">assert</span> result[<span class="hljs-number">239</span> * NAMETABLE_PIXEL_WIDTH] == source_value(<span class="hljs-number">0x2000</span>, <span class="hljs-number">40</span>, <span class="hljs-number">239</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_mask_selection_wraps_from_right_source_to_left</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Match framebuffer wrapping across logical positions 510, 511, then 0.
+    &quot;&quot;&quot;</span>
+    install_fake_mask_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(<span class="hljs-number">510</span>)
+        <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    result = _timed_scanlines_to_opaque_mask(ppu)
+    row = <span class="hljs-number">17</span> * NAMETABLE_PIXEL_WIDTH
+
+    <span class="hljs-keyword">assert</span> result[row] == source_value(<span class="hljs-number">0x2400</span>, <span class="hljs-number">254</span>, <span class="hljs-number">17</span>)
+    <span class="hljs-keyword">assert</span> result[row + <span class="hljs-number">1</span>] == source_value(<span class="hljs-number">0x2400</span>, <span class="hljs-number">255</span>, <span class="hljs-number">17</span>)
+    <span class="hljs-keyword">assert</span> result[row + <span class="hljs-number">2</span>] == source_value(<span class="hljs-number">0x2000</span>, <span class="hljs-number">0</span>, <span class="hljs-number">17</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_different_viewport_x_values_reuse_one_mask_pair</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Keep per-row pixel selection independent from expensive source-mask construction.
+    &quot;&quot;&quot;</span>
+    calls = install_fake_mask_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state((screen_y * <span class="hljs-number">3</span>) % <span class="hljs-number">512</span>)
+        <span class="hljs-keyword">for</span> screen_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    _timed_scanlines_to_opaque_mask(ppu)
+
+    <span class="hljs-keyword">assert</span> Counter(calls) == Counter({<span class="hljs-number">0x2000</span>: <span class="hljs-number">1</span>, <span class="hljs-number">0x2400</span>: <span class="hljs-number">1</span>})
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_each_logical_mask_pair_is_built_once_when_both_are_used</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Bound source work while preserving vertical logical-pair selection per row.
+    &quot;&quot;&quot;</span>
+    calls = install_fake_mask_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(
+            viewport_x=<span class="hljs-number">0</span>,
+            nametable_y=<span class="hljs-number">0</span> <span class="hljs-keyword">if</span> screen_y &lt; <span class="hljs-number">120</span> <span class="hljs-keyword">else</span> <span class="hljs-number">1</span>,
+        )
+        <span class="hljs-keyword">for</span> screen_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    result = _timed_scanlines_to_opaque_mask(ppu)
+
+    <span class="hljs-keyword">assert</span> Counter(calls) == Counter(
+        {
+            <span class="hljs-number">0x2000</span>: <span class="hljs-number">1</span>,
+            <span class="hljs-number">0x2400</span>: <span class="hljs-number">1</span>,
+            <span class="hljs-number">0x2800</span>: <span class="hljs-number">1</span>,
+            <span class="hljs-number">0x2C00</span>: <span class="hljs-number">1</span>,
+        }
+    )
+    <span class="hljs-keyword">assert</span> result[<span class="hljs-number">119</span> * NAMETABLE_PIXEL_WIDTH] == source_value(<span class="hljs-number">0x2000</span>, <span class="hljs-number">0</span>, <span class="hljs-number">119</span>)
+    <span class="hljs-keyword">assert</span> result[<span class="hljs-number">120</span> * NAMETABLE_PIXEL_WIDTH] == source_value(<span class="hljs-number">0x2800</span>, <span class="hljs-number">0</span>, <span class="hljs-number">120</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_timed_mask_composition_never_renders_rgb_framebuffers</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Keep Boolean opacity production independent from RGB rendering and palette colors.
+    &quot;&quot;&quot;</span>
+    install_fake_mask_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(<span class="hljs-number">0</span>)
+        <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">forbidden_framebuffer_call</span>(<span class="hljs-params">*args, **kwargs</span>):
+        <span class="hljs-keyword">raise</span> AssertionError(<span class="hljs-string">&quot;Opacity composition must not render RGB framebuffers&quot;</span>)
+
+    monkeypatch.<span class="hljs-built_in">setattr</span>(
+        ppu_background_renderer,
+        <span class="hljs-string">&quot;ppu_background_to_framebuffer&quot;</span>,
+        forbidden_framebuffer_call,
+    )
+
+    result = _timed_scanlines_to_opaque_mask(ppu)
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">len</span>(result) == NAMETABLE_PIXEL_WIDTH * NAMETABLE_PIXEL_HEIGHT3f:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","Ver código del test",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_351_timed_scanlines_to_opaque_mask",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$40"}}]}]}],"$L41"]}]
+f:C
+41:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["Funciones de test"," (",7,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_timed_mask_compositor_requires_exactly_240_states",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_timed_mask_compositor_requires_exactly_240_states"}]}],["$","li","test_result_contains_one_boolean_for_every_screen_pixel",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_result_contains_one_boolean_for_every_screen_pixel"}]}],["$","li","test_each_mask_row_uses_its_matching_recorded_state",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_each_mask_row_uses_its_matching_recorded_state"}]}],["$","li","test_mask_selection_wraps_from_right_source_to_left",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_mask_selection_wraps_from_right_source_to_left"}]}],["$","li","test_different_viewport_x_values_reuse_one_mask_pair",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_different_viewport_x_values_reuse_one_mask_pair"}]}],["$","li","test_each_logical_mask_pair_is_built_once_when_both_are_used",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_each_logical_mask_pair_is_built_once_when_both_are_used"}]}],["$","li","test_timed_mask_composition_never_renders_rgb_framebuffers",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_timed_mask_composition_never_renders_rgb_framebuffers"}]}]]}]]}]
+1b:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+18:"$undefined"
+1a:"$undefined"
+e:"$undefined"

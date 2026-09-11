@@ -1,0 +1,285 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+3:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+4:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+7:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+f:I[68027,["/_next/static/chunks/32tg-glwpcf8-.js"],"default",1]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+a:X
+0:{"P":null,"c":["","zh","lesson","280",""],"q":"","i":false,"f":[[["",{"children":[["lang","zh","d",[]],{"children":["lesson",{"children":[["n","280","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"hgWai9pUCnx8MOLhHyXVO"}
+10:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+11:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+a:C
+5:["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]
+6:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L10",null,{"href":"/zh","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"用 TDD 编写 NES 模拟器"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L11",null,{"lang":"zh","current":280}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["第"," ","05"," · ","渲染管线"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"在我的学院从零开始学习 Python（仅提供西班牙语）","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","我的学院"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"语言","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L10",null,{"href":"/en/lesson/280","hrefLang":"en","lang":"en","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],["$","li","es",{"children":["$","$L10",null,{"href":"/es/lesson/280","hrefLang":"es","lang":"es","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Español"}]}],"$L12","$L13"]}]]}]]}]}],"$L14","$L15","$L16"]}]
+17:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+12:["$","li","zh",{"children":["$","$L10",null,{"href":"/zh/lesson/280","hrefLang":"zh","lang":"zh","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"中文"}]}]
+13:["$","li","ru",{"children":["$","$L10",null,{"href":"/ru/lesson/280","hrefLang":"ru","lang":"ru","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+14:["$","$L17",null,{"prevHref":"/zh/lesson/279","nextHref":"/zh/lesson/281"}]
+15:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L10",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","span",null,{"children":"/"}],["$","$L10",null,{"href":"/zh#chapters","className":"hover:text-heading","children":["第"," ","05",": ","渲染管线"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["第"," ","280"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["280","."]}]," ","从调色板 RAM 生成背景调色板"]}],["$","p",null,{"className":"mt-2 text-heading","children":"根据 PPU 调色板 RAM 字节构建 RGB 背景调色板。"}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["第"," ",280," ","/"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_05_rendering_pipeline/test_280_background_palettes_from_palette_ram.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"上一课 / 下一课","children":[["$","$L10",null,{"href":"/zh/lesson/279","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"279"," ",""]}]]}],["$","$L10",null,{"href":"/zh/lesson/281","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"281"," ",""]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"参考"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"https://www.nesdev.org/wiki/PPU_palettes<span class=\"hljs-comment\">#Palette_RAM</span>"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"待创建的文件"}],["$","pre","3",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/rendering/palette_ram.py"}}]}],["$","h3","4",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"为什么需要这一步"}],["$","p","5",{"className":"mt-3","children":[["$","span","0",{"children":"支持属性表的名称表渲染器需要四个已经解析好的 RGB 背景调色板:"}]]}],["$","pre","6",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"background_palettes[palette_id][color_index]"}}]}],["$","p","7",{"className":"mt-3","children":[["$","span","0",{"children":"但真实的 NES 游戏并不会把 RGB 颜色存储在名称表或属性表中，而是把 NES 颜色索引写入 PPU 调色板 RAM。"}]]}],"$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d"]}],"$L2e","$L2f"]}],"$L30"]}]}]
+16:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"教程由 linkfy 制作 · 静态站点根据仓库中的 356 个测试生成。"}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L10",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","$L10",null,{"href":"/zh/lesson/1","className":"hover:text-heading","children":"开始学习"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+18:["$","h3","8",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"这个辅助函数把"}]
+19:["$","pre","9",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"PPU palette RAM bytes -&gt; RGB background palettes"}}]}]
+1a:["$","p","10",{"className":"mt-3","children":[["$","span","0",{"children":"什么是 PPU 调色板 RAM？"}]]}]
+1b:["$","h3","11",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"PPU 调色板 RAM 是一块映射在以下位置的 32 字节小区域"}]
+1c:["$","pre","12",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$$3F00-$3F1F"}}]}]
+1d:["$","h3","13",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"本步骤中我们只使用前 16 个字节"}]
+1e:["$","pre","14",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$$3F00-$3F0F = background palette area"}}]}]
+1f:["$","p","15",{"className":"mt-3","children":[["$","span","0",{"children":"这些字节存储的是 NES 颜色索引 $00-$3F，而不是 RGB 值。"}]]}]
+20:["$","h3","16",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"流程"}]
+21:["$","pre","17",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"palette RAM byte\n    -&gt; NES color index $00-$3F\n    -&gt; get_nes_rgb_color(index)\n    -&gt; RGB tuple"}}]}]
+22:["$","h3","18",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"背景底色/通用背景色"}]
+23:["$","p","19",{"className":"mt-3","children":[["$","span","0",{"children":"对于背景渲染，颜色索引 0 使用 $3F00 处的共享底色。"}]]}]
+24:["$","h3","20",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"因此每个返回的背景调色板都使用相同的第一个 RGB 颜色"}]
+25:["$","pre","21",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"background_palettes[<span class=\"hljs-number\">0</span>][<span class=\"hljs-number\">0</span>] == backdrop\nbackground_palettes[<span class=\"hljs-number\">1</span>][<span class=\"hljs-number\">0</span>] == backdrop\nbackground_palettes[<span class=\"hljs-number\">2</span>][<span class=\"hljs-number\">0</span>] == backdrop\nbackground_palettes[<span class=\"hljs-number\">3</span>][<span class=\"hljs-number\">0</span>] == backdrop"}}]}]
+26:["$","p","22",{"className":"mt-3","children":[["$","span","0",{"children":"$$3F00-$3F0F 对应的背景调色板布局:"}]]}]
+27:["$","pre","23",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$$3F00 -&gt; backdrop / universal background color\n\npalette 0:\n    entry 0 -&gt; $3F00\n    entry 1 -&gt; $3F01\n    entry 2 -&gt; $3F02\n    entry 3 -&gt; $3F03\n\npalette 1:\n    entry 0 -&gt; $3F00\n    entry 1 -&gt; $3F05\n    entry 2 -&gt; $3F06\n    entry 3 -&gt; $3F07\n\npalette 2:\n    entry 0 -&gt; $3F00\n    entry 1 -&gt; $3F09\n    entry 2 -&gt; $3F0A\n    entry 3 -&gt; $3F0B\n\npalette 3:\n    entry 0 -&gt; $3F00\n    entry 1 -&gt; $3F0D\n    entry 2 -&gt; $3F0E\n    entry 3 -&gt; $3F0F"}}]}]
+28:["$","h3","24",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"请注意"}]
+29:["$","pre","25",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$$3F04, $3F08, and $3F0C are not used as independent background color-0\nentries in this simplified helper. Color index 0 uses the shared backdrop."}}]}]
+2a:["$","h3","26",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"建议的实现示例"}]
+31:T720,<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> RGBColor
+<span class="hljs-keyword">from</span> emulator.rendering.nes_palette <span class="hljs-keyword">import</span> get_nes_rgb_color
+
+PALETTE_RAM_SIZE = <span class="hljs-number">16</span>
+TOTAL_PALETTES = <span class="hljs-number">4</span>
+COLORS_PER_PALETTE = <span class="hljs-number">4</span>
+
+BackgroundPalettes = <span class="hljs-built_in">list</span>[<span class="hljs-built_in">list</span>[RGBColor]]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">build_background_palettes_from_palette_ram</span>(<span class="hljs-params">
+    palette_ram: <span class="hljs-built_in">bytes</span>,
+</span>) -&gt; BackgroundPalettes:
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(palette_ram) != PALETTE_RAM_SIZE:
+        <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">f&quot;Background palette RAM must be <span class="hljs-subst">{PALETTE_RAM_SIZE}</span> bytes&quot;</span>)
+
+    backdrop_color = get_nes_rgb_color(palette_ram[<span class="hljs-number">0</span>])
+    background_palettes = []
+
+    <span class="hljs-keyword">for</span> palette_id <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(TOTAL_PALETTES):
+        base = palette_id * COLORS_PER_PALETTE
+
+        palette = [
+            backdrop_color,
+            get_nes_rgb_color(palette_ram[base + <span class="hljs-number">1</span>]),
+            get_nes_rgb_color(palette_ram[base + <span class="hljs-number">2</span>]),
+            get_nes_rgb_color(palette_ram[base + <span class="hljs-number">3</span>]),
+        ]
+
+        background_palettes.append(palette)
+
+    <span class="hljs-keyword">return</span> background_palettes2b:["$","pre","27",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$31"}}]}]
+2c:["$","h3","28",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"本步骤不涉及"}]
+2d:["$","ul","29",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"精灵调色板"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"精灵透明度行为"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"调色板 RAM 镜像"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"直接从 PPU 总线读取"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"PPUMASK 强调颜色"}]]}],["$","li","5",{"children":[["$","span","0",{"children":"pygame 显示"}]]}]]}]
+2e:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","运行本课"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_05_rendering_pipeline/test_280_background_palettes_from_palette_ram.py -v"}}]}]]}]
+2f:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"上一课 / 下一课","children":[["$","$L10",null,{"href":"/zh/lesson/279","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"279"," ","带属性的名称表"]}]]}],["$","$L10",null,{"href":"/zh/lesson/281","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"281"," ","带调色板 RAM 的名称表"]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+32:T720,<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> RGBColor
+<span class="hljs-keyword">from</span> emulator.rendering.nes_palette <span class="hljs-keyword">import</span> get_nes_rgb_color
+
+PALETTE_RAM_SIZE = <span class="hljs-number">16</span>
+TOTAL_PALETTES = <span class="hljs-number">4</span>
+COLORS_PER_PALETTE = <span class="hljs-number">4</span>
+
+BackgroundPalettes = <span class="hljs-built_in">list</span>[<span class="hljs-built_in">list</span>[RGBColor]]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">build_background_palettes_from_palette_ram</span>(<span class="hljs-params">
+    palette_ram: <span class="hljs-built_in">bytes</span>,
+</span>) -&gt; BackgroundPalettes:
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(palette_ram) != PALETTE_RAM_SIZE:
+        <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">f&quot;Background palette RAM must be <span class="hljs-subst">{PALETTE_RAM_SIZE}</span> bytes&quot;</span>)
+
+    backdrop_color = get_nes_rgb_color(palette_ram[<span class="hljs-number">0</span>])
+    background_palettes = []
+
+    <span class="hljs-keyword">for</span> palette_id <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(TOTAL_PALETTES):
+        base = palette_id * COLORS_PER_PALETTE
+
+        palette = [
+            backdrop_color,
+            get_nes_rgb_color(palette_ram[base + <span class="hljs-number">1</span>]),
+            get_nes_rgb_color(palette_ram[base + <span class="hljs-number">2</span>]),
+            get_nes_rgb_color(palette_ram[base + <span class="hljs-number">3</span>]),
+        ]
+
+        background_palettes.append(palette)
+
+    <span class="hljs-keyword">return</span> background_palettes30:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","示例实现"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"因此每个返回的背景调色板都使用相同的第一个 RGB 颜色"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"background_palettes[<span class=\"hljs-number\">0</span>][<span class=\"hljs-number\">0</span>] == backdrop\nbackground_palettes[<span class=\"hljs-number\">1</span>][<span class=\"hljs-number\">0</span>] == backdrop\nbackground_palettes[<span class=\"hljs-number\">2</span>][<span class=\"hljs-number\">0</span>] == backdrop\nbackground_palettes[<span class=\"hljs-number\">3</span>][<span class=\"hljs-number\">0</span>] == backdrop"}}]}]]}],["$","div","1",{"className":"border-t border-border","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"建议的实现示例"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$32"}}]}]]}]]}],"$L33"]}]}]
+34:T2a21,<span class="hljs-keyword">from</span> pathlib <span class="hljs-keyword">import</span> Path
+
+<span class="hljs-keyword">import</span> pytest
+
+<span class="hljs-keyword">from</span> emulator.rendering.nes_palette <span class="hljs-keyword">import</span> get_nes_rgb_color
+<span class="hljs-keyword">from</span> emulator.rendering.palette_ram <span class="hljs-keyword">import</span> (
+    BackgroundPalettes,
+    COLORS_PER_PALETTE,
+    PALETTE_RAM_SIZE,
+    TOTAL_PALETTES,
+    build_background_palettes_from_palette_ram,
+)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_background_palette_ram</span>() -&gt; <span class="hljs-built_in">bytes</span>:
+    <span class="hljs-string">&quot;&quot;&quot;
+    Create synthetic $3F00-$3F0F background palette RAM bytes.
+
+    Values are NES color indexes, not RGB colors.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bytes</span>([
+        <span class="hljs-number">0x0F</span>, <span class="hljs-number">0x01</span>, <span class="hljs-number">0x02</span>, <span class="hljs-number">0x03</span>,
+        <span class="hljs-number">0x04</span>, <span class="hljs-number">0x11</span>, <span class="hljs-number">0x12</span>, <span class="hljs-number">0x13</span>,
+        <span class="hljs-number">0x08</span>, <span class="hljs-number">0x21</span>, <span class="hljs-number">0x22</span>, <span class="hljs-number">0x23</span>,
+        <span class="hljs-number">0x0C</span>, <span class="hljs-number">0x31</span>, <span class="hljs-number">0x32</span>, <span class="hljs-number">0x33</span>,
+    ])
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_palette_ram_file_exists</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Keep palette RAM conversion separate from nametable rendering and framebuffer
+    storage.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> Path(<span class="hljs-string">&quot;emulator/rendering/palette_ram.py&quot;</span>).exists()
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_palette_ram_declares_background_palette_constants</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Name the simplified background palette RAM shape used by this helper.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> PALETTE_RAM_SIZE == <span class="hljs-number">16</span>
+    <span class="hljs-keyword">assert</span> TOTAL_PALETTES == <span class="hljs-number">4</span>
+    <span class="hljs-keyword">assert</span> COLORS_PER_PALETTE == <span class="hljs-number">4</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_background_palettes_type_alias_and_builder_exist</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Expose a builder that converts palette RAM bytes into four RGB palettes.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> BackgroundPalettes == <span class="hljs-built_in">list</span>[<span class="hljs-built_in">list</span>[<span class="hljs-built_in">tuple</span>[<span class="hljs-built_in">int</span>, <span class="hljs-built_in">int</span>, <span class="hljs-built_in">int</span>]]]
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">callable</span>(build_background_palettes_from_palette_ram)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_build_background_palettes_requires_16_bytes</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    This helper expects only the background palette RAM area $3F00-$3F0F.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">with</span> pytest.raises(ValueError, <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;Background palette RAM must be 16 bytes&quot;</span>):
+        build_background_palettes_from_palette_ram(<span class="hljs-built_in">bytes</span>([<span class="hljs-number">0x00</span>] * <span class="hljs-number">15</span>))
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_build_background_palettes_returns_four_palettes_with_four_colors_each</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Convert 16 background palette RAM bytes into 4 RGB background palettes.
+    &quot;&quot;&quot;</span>
+    background_palettes = build_background_palettes_from_palette_ram(
+        make_background_palette_ram()
+    )
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">len</span>(background_palettes) == <span class="hljs-number">4</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">all</span>(<span class="hljs-built_in">len</span>(palette) == <span class="hljs-number">4</span> <span class="hljs-keyword">for</span> palette <span class="hljs-keyword">in</span> background_palettes)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_all_background_palettes_share_backdrop_color_as_entry_zero</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    For background rendering, color index 0 uses the shared backdrop color from
+    palette RAM entry $3F00.
+    &quot;&quot;&quot;</span>
+    palette_ram = make_background_palette_ram()
+    background_palettes = build_background_palettes_from_palette_ram(palette_ram)
+
+    backdrop = get_nes_rgb_color(<span class="hljs-number">0x0F</span>)
+
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">0</span>][<span class="hljs-number">0</span>] == backdrop
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">1</span>][<span class="hljs-number">0</span>] == backdrop
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">2</span>][<span class="hljs-number">0</span>] == backdrop
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">3</span>][<span class="hljs-number">0</span>] == backdrop
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_palette_zero_uses_offsets_1_2_and_3_after_backdrop</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Background palette 0 uses $3F01-$3F03 for color indexes 1-3.
+    &quot;&quot;&quot;</span>
+    palette_ram = make_background_palette_ram()
+    background_palettes = build_background_palettes_from_palette_ram(palette_ram)
+
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">0</span>] == [
+        get_nes_rgb_color(<span class="hljs-number">0x0F</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x01</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x02</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x03</span>),
+    ]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_palette_one_uses_offsets_5_6_and_7_after_backdrop</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Background palette 1 uses $3F05-$3F07 for color indexes 1-3. Offset $3F04 is
+    not used as an independent background color-0 entry by this helper.
+    &quot;&quot;&quot;</span>
+    palette_ram = make_background_palette_ram()
+    background_palettes = build_background_palettes_from_palette_ram(palette_ram)
+
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">1</span>] == [
+        get_nes_rgb_color(<span class="hljs-number">0x0F</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x11</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x12</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x13</span>),
+    ]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_palette_two_and_three_use_expected_palette_ram_offsets</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Background palettes 2 and 3 use offsets 9-11 and 13-15 respectively.
+    &quot;&quot;&quot;</span>
+    palette_ram = make_background_palette_ram()
+    background_palettes = build_background_palettes_from_palette_ram(palette_ram)
+
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">2</span>] == [
+        get_nes_rgb_color(<span class="hljs-number">0x0F</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x21</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x22</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x23</span>),
+    ]
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">3</span>] == [
+        get_nes_rgb_color(<span class="hljs-number">0x0F</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x31</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x32</span>),
+        get_nes_rgb_color(<span class="hljs-number">0x33</span>),
+    ]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_palette_ram_values_are_mapped_through_nes_rgb_lookup_with_masking</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Palette RAM stores NES color indexes. get_nes_rgb_color owns the $3F masking.
+
+    Example:
+        0x41 masks to 0x01.
+    &quot;&quot;&quot;</span>
+    palette_ram = <span class="hljs-built_in">bytes</span>([
+        <span class="hljs-number">0x40</span>, <span class="hljs-number">0x41</span>, <span class="hljs-number">0x42</span>, <span class="hljs-number">0x43</span>,
+        <span class="hljs-number">0x44</span>, <span class="hljs-number">0x45</span>, <span class="hljs-number">0x46</span>, <span class="hljs-number">0x47</span>,
+        <span class="hljs-number">0x48</span>, <span class="hljs-number">0x49</span>, <span class="hljs-number">0x4A</span>, <span class="hljs-number">0x4B</span>,
+        <span class="hljs-number">0x4C</span>, <span class="hljs-number">0x4D</span>, <span class="hljs-number">0x4E</span>, <span class="hljs-number">0x4F</span>,
+    ])
+
+    background_palettes = build_background_palettes_from_palette_ram(palette_ram)
+
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">0</span>][<span class="hljs-number">0</span>] == get_nes_rgb_color(<span class="hljs-number">0x00</span>)
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">0</span>][<span class="hljs-number">1</span>] == get_nes_rgb_color(<span class="hljs-number">0x01</span>)
+    <span class="hljs-keyword">assert</span> background_palettes[<span class="hljs-number">3</span>][<span class="hljs-number">3</span>] == get_nes_rgb_color(<span class="hljs-number">0x0F</span>)36:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+33:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","查看测试代码",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_280_background_palettes_from_palette_ram",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$34"}}]}]}],"$L35"]}]
+35:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["测试函数"," (",10,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_palette_ram_file_exists",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_palette_ram_file_exists"}]}],["$","li","test_palette_ram_declares_background_palette_constants",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_palette_ram_declares_background_palette_constants"}]}],["$","li","test_background_palettes_type_alias_and_builder_exist",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_background_palettes_type_alias_and_builder_exist"}]}],["$","li","test_build_background_palettes_requires_16_bytes",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_build_background_palettes_requires_16_bytes"}]}],["$","li","test_build_background_palettes_returns_four_palettes_with_four_colors_each",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_build_background_palettes_returns_four_palettes_with_four_colors_each"}]}],["$","li","test_all_background_palettes_share_backdrop_color_as_entry_zero",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_all_background_palettes_share_backdrop_color_as_entry_zero"}]}],["$","li","test_palette_zero_uses_offsets_1_2_and_3_after_backdrop",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_palette_zero_uses_offsets_1_2_and_3_after_backdrop"}]}],["$","li","test_palette_one_uses_offsets_5_6_and_7_after_backdrop",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_palette_one_uses_offsets_5_6_and_7_after_backdrop"}]}],["$","li","test_palette_two_and_three_use_expected_palette_ram_offsets",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_palette_two_and_three_use_expected_palette_ram_offsets"}]}],["$","li","test_palette_ram_values_are_mapped_through_nes_rgb_lookup_with_masking",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_palette_ram_values_are_mapped_through_nes_rgb_lookup_with_masking"}]}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"第 280 — 从调色板 RAM 生成背景调色板 · 用 TDD 编写 NES 模拟器"}],["$","meta","1",{"name":"description","content":"根据 PPU 调色板 RAM 字节构建 RGB 背景调色板。"}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L36","11",{}]]

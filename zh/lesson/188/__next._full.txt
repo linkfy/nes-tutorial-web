@@ -1,0 +1,297 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+3:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+4:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+7:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+f:I[68027,["/_next/static/chunks/32tg-glwpcf8-.js"],"default",1]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+a:X
+0:{"P":null,"c":["","zh","lesson","188",""],"q":"","i":false,"f":[[["",{"children":[["lang","zh","d",[]],{"children":["lesson",{"children":[["n","188","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"hgWai9pUCnx8MOLhHyXVO"}
+10:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+11:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+a:C
+5:["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]
+6:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L10",null,{"href":"/zh","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"用 TDD 编写 NES 模拟器"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L11",null,{"lang":"zh","current":188}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["第"," ","01"," · ","CPU"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"在我的学院从零开始学习 Python（仅提供西班牙语）","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","我的学院"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"语言","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L10",null,{"href":"/en/lesson/188","hrefLang":"en","lang":"en","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],["$","li","es",{"children":["$","$L10",null,{"href":"/es/lesson/188","hrefLang":"es","lang":"es","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Español"}]}],"$L12","$L13"]}]]}]]}]}],"$L14","$L15","$L16"]}]
+17:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+12:["$","li","zh",{"children":["$","$L10",null,{"href":"/zh/lesson/188","hrefLang":"zh","lang":"zh","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"中文"}]}]
+13:["$","li","ru",{"children":["$","$L10",null,{"href":"/ru/lesson/188","hrefLang":"ru","lang":"ru","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+14:["$","$L17",null,{"prevHref":"/zh/lesson/187","nextHref":"/zh/lesson/189"}]
+18:Ta49,INTERRUPT_FLAG = <span class="hljs-number">1</span> &lt;&lt; <span class="hljs-number">2</span>
+B_FLAG = <span class="hljs-number">1</span> &lt;&lt; <span class="hljs-number">4</span>
+ONE_FLAG = <span class="hljs-number">1</span> &lt;&lt; <span class="hljs-number">5</span>
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">set_interrupt_disable_flag</span>(<span class="hljs-params">self, enabled: <span class="hljs-built_in">bool</span></span>):
+    <span class="hljs-keyword">if</span> enabled:
+        <span class="hljs-variable language_">self</span>.cpu.p |= INTERRUPT_FLAG
+    <span class="hljs-keyword">else</span>:
+        <span class="hljs-variable language_">self</span>.cpu.p &amp;= ~INTERRUPT_FLAG
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">set_break_flag</span>(<span class="hljs-params">self, enabled: <span class="hljs-built_in">bool</span></span>):
+    <span class="hljs-keyword">if</span> enabled:
+        <span class="hljs-variable language_">self</span>.cpu.p |= B_FLAG
+    <span class="hljs-keyword">else</span>:
+        <span class="hljs-variable language_">self</span>.cpu.p &amp;= ~B_FLAG
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">set_one_flag</span>(<span class="hljs-params">self, enabled: <span class="hljs-built_in">bool</span></span>):
+    <span class="hljs-keyword">if</span> enabled:
+        <span class="hljs-variable language_">self</span>.cpu.p |= ONE_FLAG
+    <span class="hljs-keyword">else</span>:
+        <span class="hljs-variable language_">self</span>.cpu.p &amp;= ~ONE_FLAG
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_interrupt_disable_flag</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">bool</span>:
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bool</span>(<span class="hljs-variable language_">self</span>.cpu.p &amp; INTERRUPT_FLAG)
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_break_flag</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">bool</span>:
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bool</span>(<span class="hljs-variable language_">self</span>.cpu.p &amp; B_FLAG)
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_one_flag</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">bool</span>:
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bool</span>(<span class="hljs-variable language_">self</span>.cpu.p &amp; ONE_FLAG)15:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L10",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","span",null,{"children":"/"}],["$","$L10",null,{"href":"/zh#chapters","className":"hover:text-heading","children":["第"," ","01",": ","CPU"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["第"," ","188"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["188","."]}]," ","标志位处理:中断标志与 Break 标志"]}],["$","p",null,{"className":"mt-2 text-heading","children":"添加 I、B 以及未使用位的标志位辅助函数。"}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["第"," ",188," ","/"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_01_cpu/test_188_flags_handler_interrupt_and_break_flags.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"上一课 / 下一课","children":[["$","$L10",null,{"href":"/zh/lesson/187","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"187"," ",""]}]]}],["$","$L10",null,{"href":"/zh/lesson/189","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"189"," ",""]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","p","0",{"className":"mt-3","children":[["$","span","0",{"children":"在本步骤中,将 Break 定义为第 4 位,将压栈状态字中未使用的位定义为第 5 位。向 `"}],["$","code","1",{"translate":"no","className":"notranslate","children":"emulator/cpu/flags_handler.py"}],["$","span","2",{"children":"` 添加:"}]]}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$18"}}]}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}],"$L28","$L29"]}],"$L2a"]}]}]
+16:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"教程由 linkfy 制作 · 静态站点根据仓库中的 356 个测试生成。"}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L10",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","$L10",null,{"href":"/zh/lesson/1","className":"hover:text-heading","children":"开始学习"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+19:["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"本步骤存在的原因"}]
+1a:["$","p","3",{"className":"mt-3","children":[["$","span","0",{"children":"我们正在为实现 BRK 做准备。"}]]}]
+1b:["$","p","4",{"className":"mt-3","children":[["$","span","0",{"children":"BRK 是一条软件中断指令。为了清晰地实现它,CPU 需要针对两个状态标志位提供辅助函数:"}]]}]
+1c:["$","pre","5",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"I flag -&gt; Interrupt Disable, bit 2\nB flag -&gt; Break, bit 4\nONE flag -&gt; unused/status bit 5 used in pushed status bytes"}}]}]
+1d:["$","h3","6",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"BRK 需要它们,原因是"}]
+1e:["$","ul","7",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"进入中断处理程序后,它会设置中断禁止标志"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"它会压入一个已设置 Break 标志的状态字节"}]]}]]}]
+1f:["$","h3","8",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"设计目标"}]
+20:["$","p","9",{"className":"mt-3","children":[["$","span","0",{"children":"把位操作集中封装在 FlagsHandler 内部,而不是把对 cpu.p 的原始位操作分散到各条指令代码中。"}]]}]
+21:["$","h3","10",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"重要术语"}]
+22:["$","pre","11",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"Interrupt Disable flag:\n    When <span class=\"hljs-built_in\">set</span>, maskable IRQ interrupts are disabled.\n\nBreak flag:\n    Used to mark that the pushed status byte came <span class=\"hljs-keyword\">from</span> BRK."}}]}]
+23:["$","h3","12",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"常见错误"}]
+24:["$","p","13",{"className":"mt-3","children":[["$","span","0",{"children":"不要把 BRK 操作码与 Break 标志混淆。"}]]}]
+25:["$","pre","14",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"BRK opcode: 0x00, the instruction byte in memory\nB flag:     bit 4 inside the status byte pushed to the stack\nONE flag:   bit 5, usually set in pushed status bytes"}}]}]
+26:["$","p","15",{"className":"mt-3","children":[["$","span","0",{"children":"设计依据:具名的设置函数把对 P 的独立读-改-写操作集中起来,取值函数则以布尔值形式对外暴露。不变量:每个设置函数只改变各自对应的位;I、B、ONE 以及所有已有标志位彼此独立。常见误解:B 与压栈状态字中始终为一的那一位并不是同一位,操作码 $00 也不是它们中的任何一个。"}]]}]
+27:["$","p","16",{"className":"mt-3","children":[["$","span","0",{"children":"本步骤范围之外:本步骤不实现 BRK,也不决定这些位何时被设置,那属于第 189-190 步。RTI/PHP/PLP、NMI 行为以及 CPU 栈辅助函数仍属于后续工作。"}]]}]
+28:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","运行本课"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_01_cpu/test_188_flags_handler_interrupt_and_break_flags.py -v"}}]}]]}]
+29:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"上一课 / 下一课","children":[["$","$L10",null,{"href":"/zh/lesson/187","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"187"," ","RTS 隐含寻址"]}]]}],["$","$L10",null,{"href":"/zh/lesson/189","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"189"," ","brk 指令"]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+2b:Ta49,INTERRUPT_FLAG = <span class="hljs-number">1</span> &lt;&lt; <span class="hljs-number">2</span>
+B_FLAG = <span class="hljs-number">1</span> &lt;&lt; <span class="hljs-number">4</span>
+ONE_FLAG = <span class="hljs-number">1</span> &lt;&lt; <span class="hljs-number">5</span>
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">set_interrupt_disable_flag</span>(<span class="hljs-params">self, enabled: <span class="hljs-built_in">bool</span></span>):
+    <span class="hljs-keyword">if</span> enabled:
+        <span class="hljs-variable language_">self</span>.cpu.p |= INTERRUPT_FLAG
+    <span class="hljs-keyword">else</span>:
+        <span class="hljs-variable language_">self</span>.cpu.p &amp;= ~INTERRUPT_FLAG
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">set_break_flag</span>(<span class="hljs-params">self, enabled: <span class="hljs-built_in">bool</span></span>):
+    <span class="hljs-keyword">if</span> enabled:
+        <span class="hljs-variable language_">self</span>.cpu.p |= B_FLAG
+    <span class="hljs-keyword">else</span>:
+        <span class="hljs-variable language_">self</span>.cpu.p &amp;= ~B_FLAG
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">set_one_flag</span>(<span class="hljs-params">self, enabled: <span class="hljs-built_in">bool</span></span>):
+    <span class="hljs-keyword">if</span> enabled:
+        <span class="hljs-variable language_">self</span>.cpu.p |= ONE_FLAG
+    <span class="hljs-keyword">else</span>:
+        <span class="hljs-variable language_">self</span>.cpu.p &amp;= ~ONE_FLAG
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_interrupt_disable_flag</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">bool</span>:
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bool</span>(<span class="hljs-variable language_">self</span>.cpu.p &amp; INTERRUPT_FLAG)
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_break_flag</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">bool</span>:
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bool</span>(<span class="hljs-variable language_">self</span>.cpu.p &amp; B_FLAG)
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_one_flag</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">bool</span>:
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bool</span>(<span class="hljs-variable language_">self</span>.cpu.p &amp; ONE_FLAG)2a:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","示例实现"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[null,["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$2b"}}]}]]}]]}],"$L2c"]}]}]
+2d:T2b07,<span class="hljs-keyword">import</span> inspect
+
+<span class="hljs-keyword">from</span> emulator.cpu.flags_handler <span class="hljs-keyword">import</span> FlagsHandler
+<span class="hljs-keyword">from</span> tests.helpers <span class="hljs-keyword">import</span> make_cpu
+
+
+INTERRUPT_DISABLE_FLAG = <span class="hljs-number">1</span> &lt;&lt; <span class="hljs-number">2</span>
+BREAK_FLAG = <span class="hljs-number">1</span> &lt;&lt; <span class="hljs-number">4</span>
+ONE_FLAG = <span class="hljs-number">1</span> &lt;&lt; <span class="hljs-number">5</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_flags_handler_has_interrupt_disable_helpers</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Add helpers for the Interrupt Disable flag.
+
+    Required API:
+        set_interrupt_disable_flag(enabled: bool)
+        get_interrupt_disable_flag() -&gt; bool
+
+    Why:
+    BRK must set the Interrupt Disable flag after it begins interrupt handling.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">hasattr</span>(FlagsHandler, <span class="hljs-string">&quot;set_interrupt_disable_flag&quot;</span>)
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">hasattr</span>(FlagsHandler, <span class="hljs-string">&quot;get_interrupt_disable_flag&quot;</span>)
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">list</span>(inspect.signature(FlagsHandler.set_interrupt_disable_flag).parameters) == [
+        <span class="hljs-string">&quot;self&quot;</span>,
+        <span class="hljs-string">&quot;enabled&quot;</span>,
+    ]
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">list</span>(inspect.signature(FlagsHandler.get_interrupt_disable_flag).parameters) == [
+        <span class="hljs-string">&quot;self&quot;</span>
+    ]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_flags_handler_has_break_flag_helpers</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Add helpers for the Break flag.
+
+    Required API:
+        set_break_flag(enabled: bool)
+        get_break_flag() -&gt; bool
+
+    Why:
+    BRK pushes a status byte with the Break flag set.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">hasattr</span>(FlagsHandler, <span class="hljs-string">&quot;set_break_flag&quot;</span>)
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">hasattr</span>(FlagsHandler, <span class="hljs-string">&quot;get_break_flag&quot;</span>)
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">list</span>(inspect.signature(FlagsHandler.set_break_flag).parameters) == [
+        <span class="hljs-string">&quot;self&quot;</span>,
+        <span class="hljs-string">&quot;enabled&quot;</span>,
+    ]
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">list</span>(inspect.signature(FlagsHandler.get_break_flag).parameters) == [<span class="hljs-string">&quot;self&quot;</span>]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_flags_handler_has_one_flag_helpers</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Add helpers for the ONE/unused status bit.
+
+    Required API:
+        set_one_flag(enabled: bool)
+        get_one_flag() -&gt; bool
+
+    Why:
+    BRK/PHP/NMI pushed status bytes should have bit 5 set even though this bit has
+    no normal CPU behavior effect.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">hasattr</span>(FlagsHandler, <span class="hljs-string">&quot;set_one_flag&quot;</span>)
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">hasattr</span>(FlagsHandler, <span class="hljs-string">&quot;get_one_flag&quot;</span>)
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">list</span>(inspect.signature(FlagsHandler.set_one_flag).parameters) == [
+        <span class="hljs-string">&quot;self&quot;</span>,
+        <span class="hljs-string">&quot;enabled&quot;</span>,
+    ]
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">list</span>(inspect.signature(FlagsHandler.get_one_flag).parameters) == [<span class="hljs-string">&quot;self&quot;</span>]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_flags_handler_sets_and_clears_interrupt_disable_flag</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    set_interrupt_disable_flag(True) sets bit 2.
+    set_interrupt_disable_flag(False) clears bit 2.
+
+    Mental model:
+    The flag helper does not decide when interrupts should be disabled.
+    Instructions decide the condition. The helper only changes the bit.
+    &quot;&quot;&quot;</span>
+    cpu = make_cpu()
+
+    cpu.flags.set_interrupt_disable_flag(<span class="hljs-literal">True</span>)
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; INTERRUPT_DISABLE_FLAG) != <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> cpu.flags.get_interrupt_disable_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">True</span>
+
+    cpu.flags.set_interrupt_disable_flag(<span class="hljs-literal">False</span>)
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; INTERRUPT_DISABLE_FLAG) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> cpu.flags.get_interrupt_disable_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">False</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_flags_handler_sets_and_clears_break_flag</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    set_break_flag(True) sets bit 4.
+    set_break_flag(False) clears bit 4.
+
+    Why this matters for BRK:
+    The pushed status byte must indicate that the interrupt came from BRK.
+    &quot;&quot;&quot;</span>
+    cpu = make_cpu()
+
+    cpu.flags.set_break_flag(<span class="hljs-literal">True</span>)
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; BREAK_FLAG) != <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> cpu.flags.get_break_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">True</span>
+
+    cpu.flags.set_break_flag(<span class="hljs-literal">False</span>)
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; BREAK_FLAG) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> cpu.flags.get_break_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">False</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_flags_handler_sets_and_clears_one_flag</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    set_one_flag(True) sets bit 5.
+    set_one_flag(False) clears bit 5.
+
+    Why this matters:
+    Bit 5 is forced into pushed status bytes, but it is distinct from the Break
+    flag at bit 4.
+    &quot;&quot;&quot;</span>
+    cpu = make_cpu()
+
+    cpu.flags.set_one_flag(<span class="hljs-literal">True</span>)
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; ONE_FLAG) != <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> cpu.flags.get_one_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">True</span>
+
+    cpu.flags.set_one_flag(<span class="hljs-literal">False</span>)
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; ONE_FLAG) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> cpu.flags.get_one_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">False</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_interrupt_disable_and_break_helpers_preserve_other_flags</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Changing I or B must not accidentally damage other status flags.
+
+    Failure mode this catches:
+    A setter that assigns cpu.p directly, like cpu.p = INTERRUPT_DISABLE_FLAG,
+    would erase existing flags such as Carry, Zero, Overflow, or Negative.
+    &quot;&quot;&quot;</span>
+    cpu = make_cpu()
+    other_flags = <span class="hljs-number">0b1100_0011</span>
+    cpu.p = other_flags
+
+    cpu.flags.set_interrupt_disable_flag(<span class="hljs-literal">True</span>)
+    cpu.flags.set_break_flag(<span class="hljs-literal">True</span>)
+
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; other_flags) == other_flags
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; INTERRUPT_DISABLE_FLAG) != <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; BREAK_FLAG) != <span class="hljs-number">0</span>
+
+    cpu.flags.set_interrupt_disable_flag(<span class="hljs-literal">False</span>)
+    cpu.flags.set_break_flag(<span class="hljs-literal">False</span>)
+
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; other_flags) == other_flags
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; INTERRUPT_DISABLE_FLAG) == <span class="hljs-number">0</span>
+    <span class="hljs-keyword">assert</span> (cpu.p &amp; BREAK_FLAG) == <span class="hljs-number">0</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_interrupt_disable_and_break_flags_are_independent</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The I flag and B flag are different bits and must not toggle each other.
+
+    Why:
+    BRK needs both concepts, but they mean different things:
+        I flag: disables maskable IRQ interrupts
+        B flag: marks BRK in the pushed status byte
+    &quot;&quot;&quot;</span>
+    cpu = make_cpu()
+
+    cpu.flags.set_interrupt_disable_flag(<span class="hljs-literal">True</span>)
+    <span class="hljs-keyword">assert</span> cpu.flags.get_interrupt_disable_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">True</span>
+    <span class="hljs-keyword">assert</span> cpu.flags.get_break_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">False</span>
+
+    cpu.flags.set_break_flag(<span class="hljs-literal">True</span>)
+    <span class="hljs-keyword">assert</span> cpu.flags.get_interrupt_disable_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">True</span>
+    <span class="hljs-keyword">assert</span> cpu.flags.get_break_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">True</span>
+
+    cpu.flags.set_interrupt_disable_flag(<span class="hljs-literal">False</span>)
+    <span class="hljs-keyword">assert</span> cpu.flags.get_interrupt_disable_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">False</span>
+    <span class="hljs-keyword">assert</span> cpu.flags.get_break_flag() <span class="hljs-keyword">is</span> <span class="hljs-literal">True</span>2f:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+2c:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","查看测试代码",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_188_flags_handler_interrupt_and_break_flags",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$2d"}}]}]}],"$L2e"]}]
+2e:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["测试函数"," (",8,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_flags_handler_has_interrupt_disable_helpers",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_flags_handler_has_interrupt_disable_helpers"}]}],["$","li","test_flags_handler_has_break_flag_helpers",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_flags_handler_has_break_flag_helpers"}]}],["$","li","test_flags_handler_has_one_flag_helpers",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_flags_handler_has_one_flag_helpers"}]}],["$","li","test_flags_handler_sets_and_clears_interrupt_disable_flag",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_flags_handler_sets_and_clears_interrupt_disable_flag"}]}],["$","li","test_flags_handler_sets_and_clears_break_flag",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_flags_handler_sets_and_clears_break_flag"}]}],["$","li","test_flags_handler_sets_and_clears_one_flag",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_flags_handler_sets_and_clears_one_flag"}]}],["$","li","test_interrupt_disable_and_break_helpers_preserve_other_flags",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_interrupt_disable_and_break_helpers_preserve_other_flags"}]}],["$","li","test_interrupt_disable_and_break_flags_are_independent",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_interrupt_disable_and_break_flags_are_independent"}]}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"第 188 — 标志位处理:中断标志与 Break 标志 · 用 TDD 编写 NES 模拟器"}],["$","meta","1",{"name":"description","content":"添加 I、B 以及未使用位的标志位辅助函数。"}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L2f","11",{}]]

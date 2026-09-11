@@ -1,0 +1,320 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+3:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+4:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+7:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+f:I[68027,["/_next/static/chunks/32tg-glwpcf8-.js"],"default",1]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+a:X
+0:{"P":null,"c":["","zh","lesson","276",""],"q":"","i":false,"f":[[["",{"children":[["lang","zh","d",[]],{"children":["lesson",{"children":[["n","276","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"hgWai9pUCnx8MOLhHyXVO"}
+10:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+11:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+a:C
+5:["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]
+6:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L10",null,{"href":"/zh","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"用 TDD 编写 NES 模拟器"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L11",null,{"lang":"zh","current":276}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["第"," ","05"," · ","渲染管线"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"在我的学院从零开始学习 Python（仅提供西班牙语）","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","我的学院"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"语言","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L10",null,{"href":"/en/lesson/276","hrefLang":"en","lang":"en","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],["$","li","es",{"children":["$","$L10",null,{"href":"/es/lesson/276","hrefLang":"es","lang":"es","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Español"}]}],"$L12","$L13"]}]]}]]}]}],"$L14","$L15","$L16"]}]
+17:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+12:["$","li","zh",{"children":["$","$L10",null,{"href":"/zh/lesson/276","hrefLang":"zh","lang":"zh","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"中文"}]}]
+13:["$","li","ru",{"children":["$","$L10",null,{"href":"/ru/lesson/276","hrefLang":"ru","lang":"ru","aria-current":"$undefined","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+14:["$","$L17",null,{"prevHref":"/zh/lesson/275","nextHref":"/zh/lesson/277"}]
+15:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L10",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","span",null,{"children":"/"}],["$","$L10",null,{"href":"/zh#chapters","className":"hover:text-heading","children":["第"," ","05",": ","渲染管线"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["第"," ","276"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["276","."]}]," ","名称表转帧缓冲"]}],["$","p",null,{"className":"mt-2 text-heading","children":"将简化的名称表背景渲染为帧缓冲数据。"}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["第"," ",276," ","/"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_05_rendering_pipeline/test_276_nametable_to_framebuffer.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"上一课 / 下一课","children":[["$","$L10",null,{"href":"/zh/lesson/275","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"275"," ",""]}]]}],["$","$L10",null,{"href":"/zh/lesson/277","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"277"," ",""]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"参考"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"https://www.nesdev.org/wiki/PPU_nametables"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"待创建的文件"}],["$","pre","3",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/rendering/nametable_renderer.py"}}]}],["$","h3","4",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"为什么需要这一步"}],["$","p","5",{"className":"mt-3","children":[["$","span","0",{"children":"图案表包含图块图形，但并不描述背景布局，而名称表提供了这种布局。"}]]}],["$","p","6",{"className":"mt-3","children":[["$","span","0",{"children":"什么是名称表？名称表是 PPU 内存的一部分，用来存储屏幕上每个图块单元应该显示哪个背景图块。"}]]}],["$","h3","7",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"最小示例"}],["$","pre","8",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"nametable[<span class=\"hljs-number\">0</span>] = <span class=\"hljs-number\">5</span>"}}]}],"$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}],"$L2b","$L2c"]}],"$L2d"]}]}]
+16:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"教程由 linkfy 制作 · 静态站点根据仓库中的 356 个测试生成。"}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L10",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","$L10",null,{"href":"/zh/lesson/1","className":"hover:text-heading","children":"开始学习"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+18:["$","h3","9",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"这意味着"}]
+19:["$","pre","10",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"top-left 8x8 background cell uses pattern table tile <span class=\"hljs-comment\">#5</span>"}}]}]
+1a:["$","h3","11",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"重要的区别"}]
+1b:["$","pre","12",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"pattern table = tile graphics dictionary\nnametable     = tile layout/<span class=\"hljs-built_in\">map</span>\npalette       = colors used by tile pixels"}}]}]
+1c:["$","h3","13",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"本步骤所使用的简化渲染模型"}]
+1d:["$","pre","14",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"nametable tile ID\n    -&gt; decoded_tiles[tile_id]\n    -&gt; tile pixel color index 0-3\n    -&gt; same shared 4-color palette[color_index]\n    -&gt; framebuffer pixel"}}]}]
+1e:["$","h3","15",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"真实的 NES 名称表内存"}]
+1f:["$","pre","16",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"960 bytes tile IDs\n64 bytes attribute table"}}]}]
+20:["$","p","17",{"className":"mt-3","children":[["$","span","0",{"children":"本步骤有意只使用 960 个可见图块字节，并对所有图块使用同一个共享的 4 色调色板。属性表调色板选择是之后的步骤。"}]]}]
+21:["$","h3","18",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"重要的简化"}]
+22:["$","p","19",{"className":"mt-3","children":[["$","span","0",{"children":"这个初版名称表渲染器只是一个基础起点，每个图块都使用相同的 4 色调色板。后面的测试会添加一个支持属性表的渲染器，让屏幕的不同区域可以选择不同的背景调色板。"}]]}]
+23:["$","h3","20",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"根据名称表几何结构得到屏幕尺寸"}]
+24:["$","pre","21",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-number\">32</span> tiles across * <span class=\"hljs-number\">8</span> pixels = <span class=\"hljs-number\">256</span> pixels\n<span class=\"hljs-number\">30</span> tiles down   * <span class=\"hljs-number\">8</span> pixels = <span class=\"hljs-number\">240</span> pixels"}}]}]
+25:["$","h3","22",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"建议的实现示例"}]
+2e:Tae3,<span class="hljs-keyword">from</span> emulator.ppu.chr_decoder <span class="hljs-keyword">import</span> (
+    CHR_TILE_HEIGHT,
+    CHR_TILE_WIDTH,
+    decode_pattern_table,
+)
+<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> Framebuffer, RGBColor
+
+NAMETABLE_ROWS = <span class="hljs-number">30</span>
+NAMETABLE_TILES_PER_ROW = <span class="hljs-number">32</span>
+NAMETABLE_SIZE = NAMETABLE_TILES_PER_ROW * NAMETABLE_ROWS
+
+BACKGROUND_WIDTH = NAMETABLE_TILES_PER_ROW * CHR_TILE_WIDTH
+BACKGROUND_HEIGHT = NAMETABLE_ROWS * CHR_TILE_HEIGHT
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">nametable_to_framebuffer</span>(<span class="hljs-params">
+    nametable_bytes: <span class="hljs-built_in">bytes</span>,
+    pattern_table_bytes: <span class="hljs-built_in">bytes</span>,
+    palette: <span class="hljs-built_in">list</span>[RGBColor],
+</span>) -&gt; Framebuffer:
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(nametable_bytes) != NAMETABLE_SIZE:
+        <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">&quot;Nametable visible tile area must be 960 bytes&quot;</span>)
+
+    decoded_tiles = decode_pattern_table(pattern_table_bytes)
+
+    framebuffer = Framebuffer(width=BACKGROUND_WIDTH, height=BACKGROUND_HEIGHT)
+
+    <span class="hljs-keyword">for</span> tile_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_ROWS):
+        <span class="hljs-keyword">for</span> tile_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_TILES_PER_ROW):
+            nametable_index = tile_y * NAMETABLE_TILES_PER_ROW + tile_x
+            tile_id = nametable_bytes[nametable_index]
+            tile = decoded_tiles[tile_id]
+
+            <span class="hljs-keyword">for</span> row <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(CHR_TILE_HEIGHT):
+                <span class="hljs-keyword">for</span> col <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(CHR_TILE_WIDTH):
+                    <span class="hljs-comment"># Basic starting point: every tile uses the same</span>
+                    <span class="hljs-comment"># 4-color palette. A later renderer will use the</span>
+                    <span class="hljs-comment"># attribute table to select different palettes.</span>
+                    color_index = tile[row][col]
+                    rgb = palette[color_index]
+
+                    pixel_x = tile_x * CHR_TILE_WIDTH + col
+                    pixel_y = tile_y * CHR_TILE_HEIGHT + row
+                    framebuffer.set_pixel(pixel_x, pixel_y, rgb)
+
+    <span class="hljs-keyword">return</span> framebuffer26:["$","pre","23",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
+27:["$","h3","24",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"架构规则"}]
+28:["$","p","25",{"className":"mt-3","children":[["$","span","0",{"children":"不要在这里重复实现 CHR 解码逻辑，请复用 decode_pattern_table()。"}]]}]
+29:["$","h3","26",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"本步骤不涉及"}]
+2a:["$","ul","27",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"属性表解码"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"逐图块调色板选择"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"滚动"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"名称表镜像"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"直接从 PPU 总线读取"}]]}],["$","li","5",{"children":[["$","span","0",{"children":"精灵"}]]}],["$","li","6",{"children":[["$","span","0",{"children":"OAMDMA"}]]}],["$","li","7",{"children":[["$","span","0",{"children":"pygame 显示"}]]}]]}]
+2b:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","运行本课"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_05_rendering_pipeline/test_276_nametable_to_framebuffer.py -v"}}]}]]}]
+2c:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"上一课 / 下一课","children":[["$","$L10",null,{"href":"/zh/lesson/275","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"275"," ","使用 NES 调色板的图案表"]}]]}],["$","$L10",null,{"href":"/zh/lesson/277","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"277"," ","使用 NES 调色板的名称表"]}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+2f:Tae3,<span class="hljs-keyword">from</span> emulator.ppu.chr_decoder <span class="hljs-keyword">import</span> (
+    CHR_TILE_HEIGHT,
+    CHR_TILE_WIDTH,
+    decode_pattern_table,
+)
+<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> Framebuffer, RGBColor
+
+NAMETABLE_ROWS = <span class="hljs-number">30</span>
+NAMETABLE_TILES_PER_ROW = <span class="hljs-number">32</span>
+NAMETABLE_SIZE = NAMETABLE_TILES_PER_ROW * NAMETABLE_ROWS
+
+BACKGROUND_WIDTH = NAMETABLE_TILES_PER_ROW * CHR_TILE_WIDTH
+BACKGROUND_HEIGHT = NAMETABLE_ROWS * CHR_TILE_HEIGHT
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">nametable_to_framebuffer</span>(<span class="hljs-params">
+    nametable_bytes: <span class="hljs-built_in">bytes</span>,
+    pattern_table_bytes: <span class="hljs-built_in">bytes</span>,
+    palette: <span class="hljs-built_in">list</span>[RGBColor],
+</span>) -&gt; Framebuffer:
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(nametable_bytes) != NAMETABLE_SIZE:
+        <span class="hljs-keyword">raise</span> ValueError(<span class="hljs-string">&quot;Nametable visible tile area must be 960 bytes&quot;</span>)
+
+    decoded_tiles = decode_pattern_table(pattern_table_bytes)
+
+    framebuffer = Framebuffer(width=BACKGROUND_WIDTH, height=BACKGROUND_HEIGHT)
+
+    <span class="hljs-keyword">for</span> tile_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_ROWS):
+        <span class="hljs-keyword">for</span> tile_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_TILES_PER_ROW):
+            nametable_index = tile_y * NAMETABLE_TILES_PER_ROW + tile_x
+            tile_id = nametable_bytes[nametable_index]
+            tile = decoded_tiles[tile_id]
+
+            <span class="hljs-keyword">for</span> row <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(CHR_TILE_HEIGHT):
+                <span class="hljs-keyword">for</span> col <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(CHR_TILE_WIDTH):
+                    <span class="hljs-comment"># Basic starting point: every tile uses the same</span>
+                    <span class="hljs-comment"># 4-color palette. A later renderer will use the</span>
+                    <span class="hljs-comment"># attribute table to select different palettes.</span>
+                    color_index = tile[row][col]
+                    rgb = palette[color_index]
+
+                    pixel_x = tile_x * CHR_TILE_WIDTH + col
+                    pixel_y = tile_y * CHR_TILE_HEIGHT + row
+                    framebuffer.set_pixel(pixel_x, pixel_y, rgb)
+
+    <span class="hljs-keyword">return</span> framebuffer2d:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","示例实现"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"重要的区别"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"pattern table = tile graphics dictionary\nnametable     = tile layout/<span class=\"hljs-built_in\">map</span>\npalette       = colors used by tile pixels"}}]}]]}],["$","div","1",{"className":"border-t border-border","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"建议的实现示例"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$2f"}}]}]]}]]}],"$L30"]}]}]
+31:T2f83,<span class="hljs-keyword">from</span> pathlib <span class="hljs-keyword">import</span> Path
+
+<span class="hljs-keyword">import</span> pytest
+
+<span class="hljs-keyword">from</span> emulator.ppu.chr_decoder <span class="hljs-keyword">import</span> PATTERN_TABLE_SIZE
+<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> Framebuffer
+<span class="hljs-keyword">from</span> emulator.rendering.nametable_renderer <span class="hljs-keyword">import</span> (
+    BACKGROUND_HEIGHT,
+    BACKGROUND_WIDTH,
+    NAMETABLE_ROWS,
+    NAMETABLE_SIZE,
+    NAMETABLE_TILES_PER_ROW,
+    nametable_to_framebuffer,
+)
+
+
+TEST_PALETTE = [
+    (<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>),
+    (<span class="hljs-number">10</span>, <span class="hljs-number">10</span>, <span class="hljs-number">10</span>),
+    (<span class="hljs-number">20</span>, <span class="hljs-number">20</span>, <span class="hljs-number">20</span>),
+    (<span class="hljs-number">30</span>, <span class="hljs-number">30</span>, <span class="hljs-number">30</span>),
+]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_empty_pattern_table</span>() -&gt; <span class="hljs-built_in">bytearray</span>:
+    <span class="hljs-string">&quot;&quot;&quot;Create one synthetic 4096-byte pattern table.&quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bytearray</span>(PATTERN_TABLE_SIZE)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_empty_nametable</span>() -&gt; <span class="hljs-built_in">bytearray</span>:
+    <span class="hljs-string">&quot;&quot;&quot;Create the visible 960-byte nametable tile-ID area.&quot;&quot;&quot;</span>
+    <span class="hljs-keyword">return</span> <span class="hljs-built_in">bytearray</span>(NAMETABLE_SIZE)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_nametable_renderer_file_exists</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Keep nametable/background rendering separate from framebuffer storage and CHR
+    decoding.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> Path(<span class="hljs-string">&quot;emulator/rendering/nametable_renderer.py&quot;</span>).exists()
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_nametable_renderer_declares_geometry_constants</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Name the simplified visible nametable geometry.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> NAMETABLE_TILES_PER_ROW == <span class="hljs-number">32</span>
+    <span class="hljs-keyword">assert</span> NAMETABLE_ROWS == <span class="hljs-number">30</span>
+    <span class="hljs-keyword">assert</span> NAMETABLE_SIZE == <span class="hljs-number">960</span>
+    <span class="hljs-keyword">assert</span> BACKGROUND_WIDTH == <span class="hljs-number">256</span>
+    <span class="hljs-keyword">assert</span> BACKGROUND_HEIGHT == <span class="hljs-number">240</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_nametable_to_framebuffer_function_exists</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Expose one pure helper for rendering a simplified background framebuffer.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">callable</span>(nametable_to_framebuffer)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_empty_nametable_and_empty_pattern_table_render_256_by_240_framebuffer</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    A 32x30 tile layout renders to the NES visible background size: 256x240.
+    &quot;&quot;&quot;</span>
+    nametable = <span class="hljs-built_in">bytes</span>(make_empty_nametable())
+    pattern_table = <span class="hljs-built_in">bytes</span>(make_empty_pattern_table())
+
+    framebuffer = nametable_to_framebuffer(nametable, pattern_table, TEST_PALETTE)
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">isinstance</span>(framebuffer, Framebuffer)
+    <span class="hljs-keyword">assert</span> framebuffer.width == <span class="hljs-number">256</span>
+    <span class="hljs-keyword">assert</span> framebuffer.height == <span class="hljs-number">240</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">len</span>(framebuffer.pixels) == <span class="hljs-number">256</span> * <span class="hljs-number">240</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_empty_nametable_and_empty_pattern_table_use_palette_color_zero</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    If every nametable byte is tile 0 and tile 0 is blank, every pixel should map
+    to palette[0].
+    &quot;&quot;&quot;</span>
+    nametable = <span class="hljs-built_in">bytes</span>(make_empty_nametable())
+    pattern_table = <span class="hljs-built_in">bytes</span>(make_empty_pattern_table())
+
+    framebuffer = nametable_to_framebuffer(nametable, pattern_table, TEST_PALETTE)
+
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>) == TEST_PALETTE[<span class="hljs-number">0</span>]
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">255</span>, <span class="hljs-number">239</span>) == TEST_PALETTE[<span class="hljs-number">0</span>]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_top_left_nametable_tile_id_selects_pattern_table_tile</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    nametable[0] selects the pattern tile rendered at the top-left 8x8 pixel area.
+
+    Example:
+        nametable[0] = 1
+        pattern tile #1 row 0 decodes to color index 3
+        framebuffer pixels x=0..7, y=0 become palette[3]
+    &quot;&quot;&quot;</span>
+    nametable = make_empty_nametable()
+    nametable[<span class="hljs-number">0</span>] = <span class="hljs-number">1</span>
+
+    pattern_table = make_empty_pattern_table()
+    tile_1_offset = <span class="hljs-number">16</span>
+    pattern_table[tile_1_offset + <span class="hljs-number">0</span>] = <span class="hljs-number">0xFF</span>
+    pattern_table[tile_1_offset + <span class="hljs-number">8</span>] = <span class="hljs-number">0xFF</span>
+
+    framebuffer = nametable_to_framebuffer(<span class="hljs-built_in">bytes</span>(nametable), <span class="hljs-built_in">bytes</span>(pattern_table), TEST_PALETTE)
+
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>) == TEST_PALETTE[<span class="hljs-number">3</span>]
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">7</span>, <span class="hljs-number">0</span>) == TEST_PALETTE[<span class="hljs-number">3</span>]
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">1</span>) == TEST_PALETTE[<span class="hljs-number">0</span>]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_nametable_tile_at_x_one_starts_at_pixel_x_eight</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Tile coordinate (1, 0) starts at pixel x=8 because each tile is 8 pixels wide.
+    &quot;&quot;&quot;</span>
+    nametable = make_empty_nametable()
+    nametable[<span class="hljs-number">1</span>] = <span class="hljs-number">2</span>
+
+    pattern_table = make_empty_pattern_table()
+    tile_2_offset = <span class="hljs-number">2</span> * <span class="hljs-number">16</span>
+    pattern_table[tile_2_offset + <span class="hljs-number">0</span>] = <span class="hljs-number">0xFF</span>
+    pattern_table[tile_2_offset + <span class="hljs-number">8</span>] = <span class="hljs-number">0x00</span>
+
+    framebuffer = nametable_to_framebuffer(<span class="hljs-built_in">bytes</span>(nametable), <span class="hljs-built_in">bytes</span>(pattern_table), TEST_PALETTE)
+
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">7</span>, <span class="hljs-number">0</span>) == TEST_PALETTE[<span class="hljs-number">0</span>]
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">8</span>, <span class="hljs-number">0</span>) == TEST_PALETTE[<span class="hljs-number">1</span>]
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">15</span>, <span class="hljs-number">0</span>) == TEST_PALETTE[<span class="hljs-number">1</span>]
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">16</span>, <span class="hljs-number">0</span>) == TEST_PALETTE[<span class="hljs-number">0</span>]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_nametable_tile_on_second_row_starts_at_pixel_y_eight</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Tile coordinate (0, 1) starts at pixel y=8 because each tile is 8 pixels high.
+    &quot;&quot;&quot;</span>
+    nametable = make_empty_nametable()
+    nametable[NAMETABLE_TILES_PER_ROW] = <span class="hljs-number">3</span>
+
+    pattern_table = make_empty_pattern_table()
+    tile_3_offset = <span class="hljs-number">3</span> * <span class="hljs-number">16</span>
+    pattern_table[tile_3_offset + <span class="hljs-number">0</span>] = <span class="hljs-number">0x00</span>
+    pattern_table[tile_3_offset + <span class="hljs-number">8</span>] = <span class="hljs-number">0xFF</span>
+
+    framebuffer = nametable_to_framebuffer(<span class="hljs-built_in">bytes</span>(nametable), <span class="hljs-built_in">bytes</span>(pattern_table), TEST_PALETTE)
+
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">7</span>) == TEST_PALETTE[<span class="hljs-number">0</span>]
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">8</span>) == TEST_PALETTE[<span class="hljs-number">2</span>]
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">7</span>, <span class="hljs-number">8</span>) == TEST_PALETTE[<span class="hljs-number">2</span>]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_nametable_to_framebuffer_rejects_wrong_nametable_size</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The simplified renderer expects exactly 960 visible tile bytes.
+    &quot;&quot;&quot;</span>
+    pattern_table = <span class="hljs-built_in">bytes</span>(make_empty_pattern_table())
+
+    <span class="hljs-keyword">with</span> pytest.raises(ValueError, <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;Nametable visible tile area must be 960 bytes&quot;</span>):
+        nametable_to_framebuffer(<span class="hljs-built_in">bytes</span>([<span class="hljs-number">0x00</span>] * <span class="hljs-number">959</span>), pattern_table, TEST_PALETTE)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_nametable_to_framebuffer_propagates_invalid_pattern_table_size_error</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Pattern table size validation remains owned by the CHR decoder.
+    &quot;&quot;&quot;</span>
+    nametable = <span class="hljs-built_in">bytes</span>(make_empty_nametable())
+
+    <span class="hljs-keyword">with</span> pytest.raises(ValueError, <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;Pattern table must be 4096 bytes&quot;</span>):
+        nametable_to_framebuffer(nametable, <span class="hljs-built_in">bytes</span>([<span class="hljs-number">0x00</span>] * <span class="hljs-number">16</span>), TEST_PALETTE)33:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+30:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","查看测试代码",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_276_nametable_to_framebuffer",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$31"}}]}]}],"$L32"]}]
+32:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["测试函数"," (",10,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_nametable_renderer_file_exists",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_nametable_renderer_file_exists"}]}],["$","li","test_nametable_renderer_declares_geometry_constants",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_nametable_renderer_declares_geometry_constants"}]}],["$","li","test_nametable_to_framebuffer_function_exists",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_nametable_to_framebuffer_function_exists"}]}],["$","li","test_empty_nametable_and_empty_pattern_table_render_256_by_240_framebuffer",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_empty_nametable_and_empty_pattern_table_render_256_by_240_framebuffer"}]}],["$","li","test_empty_nametable_and_empty_pattern_table_use_palette_color_zero",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_empty_nametable_and_empty_pattern_table_use_palette_color_zero"}]}],["$","li","test_top_left_nametable_tile_id_selects_pattern_table_tile",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_top_left_nametable_tile_id_selects_pattern_table_tile"}]}],["$","li","test_nametable_tile_at_x_one_starts_at_pixel_x_eight",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_nametable_tile_at_x_one_starts_at_pixel_x_eight"}]}],["$","li","test_nametable_tile_on_second_row_starts_at_pixel_y_eight",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_nametable_tile_on_second_row_starts_at_pixel_y_eight"}]}],["$","li","test_nametable_to_framebuffer_rejects_wrong_nametable_size",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_nametable_to_framebuffer_rejects_wrong_nametable_size"}]}],["$","li","test_nametable_to_framebuffer_propagates_invalid_pattern_table_size_error",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_nametable_to_framebuffer_propagates_invalid_pattern_table_size_error"}]}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"第 276 — 名称表转帧缓冲 · 用 TDD 编写 NES 模拟器"}],["$","meta","1",{"name":"description","content":"将简化的名称表背景渲染为帧缓冲数据。"}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L33","11",{}]]

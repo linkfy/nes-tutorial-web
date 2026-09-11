@@ -1,0 +1,372 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+3:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+f:X
+14:X
+14:C
+0:{"buildId":"hgWai9pUCnx8MOLhHyXVO","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L2",null,{"href":"/zh","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"用 TDD 编写 NES 模拟器"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L3",null,{"lang":"zh","current":349}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["第"," ","13"," · ","滚动"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"在我的学院从零开始学习 Python（仅提供西班牙语）","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","我的学院"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"语言","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L2",null,{"href":"/en/lesson/349","hrefLang":"en","lang":"en","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],["$","li","es",{"children":"$L4"}],"$L5","$L6"]}]]}]]}]}],"$L7","$L8","$L9"]}],["$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$f","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$f","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+31:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+32:"$Sreact.suspense"
+34:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+35:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+36:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+37:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+38:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+39:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+4:["$","$L2",null,{"href":"/es/lesson/349","hrefLang":"es","lang":"es","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Español"}]
+5:["$","li","zh",{"children":["$","$L2",null,{"href":"/zh/lesson/349","hrefLang":"zh","lang":"zh","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"中文"}]}]
+6:["$","li","ru",{"children":["$","$L2",null,{"href":"/ru/lesson/349","hrefLang":"ru","lang":"ru","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Русский"}]}]
+7:["$","$L1d",null,{"prevHref":"/zh/lesson/348","nextHref":"/zh/lesson/350"}]
+8:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L2",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/zh#chapters","className":"hover:text-heading","children":["第"," ","13",": ","滚动"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["第"," ","349"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["349","."]}]," ","由定时扫描线合成帧缓冲"]}],["$","p",null,{"className":"mt-2 text-heading","children":"用 240 条已完成的定时扫描线状态合成一个帧缓冲。"}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["第"," ",349," ","/"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_13_scrolling/test_349_timed_scanlines_to_framebuffer.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"上一课 / 下一课","children":[["$","$L2",null,{"href":"/zh/lesson/348","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"348"," ",""]}]]}],["$","$L2",null,{"href":"/zh/lesson/350","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"350"," ",""]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"要更新的文件"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/rendering/ppu_background_renderer.py"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"参考资料"}],["$","pre","3",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"https://www.nesdev.org/wiki/PPU_rendering\nhttps://www.nesdev.org/wiki/PPU_scrolling"}}]}],["$","h3","4",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"为什么需要这一步"}],["$","p","5",{"className":"mt-3","children":[["$","span","0",{"children":"在已完成的帧中，每个可见行都可能包含不同的水平视口位置。单个帧末的 t 快照无法同时表示固定的状态栏区域和移动的游戏区域，因此高层渲染器必须用与每行匹配的 BackgroundScanlineState 来合成每一行。"}]]}],["$","h3","6",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"对于每个目标行"}],["$","pre","7",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"state = completed_scanline_scroll_states[screen_y]\nleft_base, right_base = logical pair selected by state\nviewport_x = horizontal pixel position decoded <span class=\"hljs-keyword\">from</span> state"}}]}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d"]}],"$L2e","$L2f"]}],"$L30"]}]}]
+9:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"教程由 linkfy 制作 · 静态站点根据仓库中的 356 个测试生成。"}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L2",null,{"href":"/zh","className":"hover:text-heading","children":"首页"}],["$","$L2",null,{"href":"/zh/lesson/1","className":"hover:text-heading","children":"开始学习"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true}]
+c:["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true}]
+d:["$","$L31",null,{"children":["$","$32",null,{"name":"Next.MetadataOutlet","children":"$@33"}]}]
+10:["$","$1","h",{"children":[null,["$","$L34",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L35",null,{"children":["$","$32",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"第 349 — 由定时扫描线合成帧缓冲 · 用 TDD 编写 NES 模拟器"}],["$","meta","1",{"name":"description","content":"用 240 条已完成的定时扫描线状态合成一个帧缓冲。"}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L36","11",{}]]}]}]}],null]}]
+12:["$","$1","c",{"children":[null,["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}]}]]}]
+19:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L39",null,{}]]}]]}]]}]
+1e:["$","h3","8",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"对于每个目标像素"}]
+1f:["$","pre","9",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"logical_x = (viewport_x + screen_x) % <span class=\"hljs-number\">512</span>\n\nlogical X <span class=\"hljs-number\">0</span>-<span class=\"hljs-number\">255</span>:   read the left source framebuffer\nlogical X <span class=\"hljs-number\">256</span>-<span class=\"hljs-number\">511</span>: read the right source framebuffer after subtracting <span class=\"hljs-number\">256</span>"}}]}]
+20:["$","p","10",{"className":"mt-3","children":[["$","span","0",{"children":"在这个水平里程碑中，源行仍然是 screen_y。完整的垂直源行选择属于另外的后续工作。"}]]}]
+21:["$","p","11",{"className":"mt-3","children":[["$","span","0",{"children":"为什么要缓存源对？各行可能有着不同的视口X值，却读取相同的两个命名表。如果为每一行都重新渲染两个完整的源命名表，最多会执行 480 次源渲染。改为使用一个局部字典，在本次合成中把每个逻辑对只存储一次："}]]}]
+22:["$","pre","12",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$$2000 key -&gt; rendered ($2000, $2400) pair\n$2800 key -&gt; rendered ($2800, $2C00) pair"}}]}]
+23:["$","p","13",{"className":"mt-3","children":[["$","span","0",{"children":"该缓存有意设计为局部缓存。命名表、图案、属性或调色板数据可能在后续帧之前发生变化，因此跨帧缓存将需要显式且容易出错的失效规则。"}]]}]
+24:["$","h3","14",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"重要不变量"}]
+25:["$","ul","15",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"输入恰好包含 240 个已完成的状态"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"输出尺寸恰好为 256x240"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"状态索引、目标行和源行是同一个 screen_y"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"每个目标行恰好接收 256 个像素"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"水平选择在 512 像素的逻辑对上回绕"}]]}],["$","li","5",{"children":[["$","span","0",{"children":"每个逻辑源对在每次合成中至多渲染一次"}]]}],["$","li","6",{"children":[["$","span","0",{"children":"视口X的变化不会使已缓存的对失效或重复"}]]}],["$","li","7",{"children":[["$","span","0",{"children":"在源渲染内部，卡带镜像仍属于 PpuBus 的行为"}]]}]]}]
+26:["$","h3","16",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"常见误解"}]
+27:["$","p","17",{"className":"mt-3","children":[["$","span","0",{"children":"不要对每一行调用一次现有的全帧水平视口合成器。那会构造 240 个临时的 256x240 帧缓冲，却只保留每个帧缓冲中的一行。该辅助函数把每个目标行直接写入一个结果帧缓冲。"}]]}]
+28:["$","h3","18",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"测试策略"}]
+29:["$","p","19",{"className":"mt-3","children":[["$","span","0",{"children":"这些测试用合成的源帧缓冲替代命名表渲染，其 RGB 元组编码了逻辑基址、源X和源Y。这样可以把行合成机制与图案解码、调色板选择、PPU 内存和镜像隔离开来。"}]]}]
+2a:["$","h3","20",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"超出范围"}]
+2b:["$","ul","21",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"更改公共视口适配器"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"定时帧不可用时的备用行为"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"不透明度掩码合成"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"完整的垂直源行滚动"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"持久化渲染缓存"}]]}]]}]
+2c:["$","h3","22",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"完整示例实现"}]
+3a:Tb79,<span class="hljs-comment"># emulator/rendering/ppu_background_renderer.py</span>
+
+<span class="hljs-comment"># --- UPDATED LINES: IMPORT FRAMEBUFFER DIMENSIONS ---</span>
+<span class="hljs-keyword">from</span> emulator.rendering.background_viewport <span class="hljs-keyword">import</span> (
+    NAMETABLE_PIXEL_HEIGHT,
+    NAMETABLE_PIXEL_WIDTH,
+    ...
+)
+
+<span class="hljs-comment"># --- NEW BLOCK: COMPOSE COMPLETED TIMED SCANLINES ---</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">_timed_scanlines_to_framebuffer</span>(<span class="hljs-params">ppu: PPU</span>) -&gt; Framebuffer:
+    states = ppu.completed_scanline_scroll_states
+
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(states) != NAMETABLE_PIXEL_HEIGHT:
+        <span class="hljs-keyword">raise</span> ValueError(
+            <span class="hljs-string">&quot;Timed framebuffer requires exactly 240 scanline states&quot;</span>
+        )
+
+    result = Framebuffer(
+        width=NAMETABLE_PIXEL_WIDTH,
+        height=NAMETABLE_PIXEL_HEIGHT,
+    )
+    pair_cache: <span class="hljs-built_in">dict</span>[<span class="hljs-built_in">int</span>, <span class="hljs-built_in">tuple</span>[Framebuffer, Framebuffer]] = {}
+    logical_width = NAMETABLE_PIXEL_WIDTH * <span class="hljs-number">2</span>
+
+    <span class="hljs-keyword">for</span> screen_y, state <span class="hljs-keyword">in</span> <span class="hljs-built_in">enumerate</span>(states):
+        left_base, right_base = _scanline_horizontal_pair(state)
+
+        <span class="hljs-keyword">if</span> left_base <span class="hljs-keyword">not</span> <span class="hljs-keyword">in</span> pair_cache:
+            pair_cache[left_base] = (
+                ppu_background_to_framebuffer(
+                    ppu,
+                    base_nametable_addr=left_base,
+                ),
+                ppu_background_to_framebuffer(
+                    ppu,
+                    base_nametable_addr=right_base,
+                ),
+            )
+
+        left, right = pair_cache[left_base]
+        viewport_x = _scanline_viewport_x(state)
+        destination_row = screen_y * NAMETABLE_PIXEL_WIDTH
+
+        <span class="hljs-keyword">for</span> screen_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_WIDTH):
+            logical_x = (viewport_x + screen_x) % logical_width
+
+            <span class="hljs-keyword">if</span> logical_x &lt; NAMETABLE_PIXEL_WIDTH:
+                source = left
+                source_x = logical_x
+            <span class="hljs-keyword">else</span>:
+                source = right
+                source_x = logical_x - NAMETABLE_PIXEL_WIDTH
+
+            destination_index = destination_row + screen_x
+            source_index = destination_row + source_x
+            result.pixels[destination_index] = source.pixels[source_index]
+
+    <span class="hljs-keyword">return</span> result2d:["$","pre","23",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
+2e:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","运行本课"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_13_scrolling/test_349_timed_scanlines_to_framebuffer.py -v"}}]}]]}]
+2f:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"上一课 / 下一课","children":[["$","$L2",null,{"href":"/zh/lesson/348","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["上一课",": "]}],"348"," ","扫描线视口 x"]}]]}],["$","$L2",null,{"href":"/zh/lesson/350","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["下一课",": "]}],"350"," ","选择定时帧缓冲路径"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+3b:Tb79,<span class="hljs-comment"># emulator/rendering/ppu_background_renderer.py</span>
+
+<span class="hljs-comment"># --- UPDATED LINES: IMPORT FRAMEBUFFER DIMENSIONS ---</span>
+<span class="hljs-keyword">from</span> emulator.rendering.background_viewport <span class="hljs-keyword">import</span> (
+    NAMETABLE_PIXEL_HEIGHT,
+    NAMETABLE_PIXEL_WIDTH,
+    ...
+)
+
+<span class="hljs-comment"># --- NEW BLOCK: COMPOSE COMPLETED TIMED SCANLINES ---</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">_timed_scanlines_to_framebuffer</span>(<span class="hljs-params">ppu: PPU</span>) -&gt; Framebuffer:
+    states = ppu.completed_scanline_scroll_states
+
+    <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(states) != NAMETABLE_PIXEL_HEIGHT:
+        <span class="hljs-keyword">raise</span> ValueError(
+            <span class="hljs-string">&quot;Timed framebuffer requires exactly 240 scanline states&quot;</span>
+        )
+
+    result = Framebuffer(
+        width=NAMETABLE_PIXEL_WIDTH,
+        height=NAMETABLE_PIXEL_HEIGHT,
+    )
+    pair_cache: <span class="hljs-built_in">dict</span>[<span class="hljs-built_in">int</span>, <span class="hljs-built_in">tuple</span>[Framebuffer, Framebuffer]] = {}
+    logical_width = NAMETABLE_PIXEL_WIDTH * <span class="hljs-number">2</span>
+
+    <span class="hljs-keyword">for</span> screen_y, state <span class="hljs-keyword">in</span> <span class="hljs-built_in">enumerate</span>(states):
+        left_base, right_base = _scanline_horizontal_pair(state)
+
+        <span class="hljs-keyword">if</span> left_base <span class="hljs-keyword">not</span> <span class="hljs-keyword">in</span> pair_cache:
+            pair_cache[left_base] = (
+                ppu_background_to_framebuffer(
+                    ppu,
+                    base_nametable_addr=left_base,
+                ),
+                ppu_background_to_framebuffer(
+                    ppu,
+                    base_nametable_addr=right_base,
+                ),
+            )
+
+        left, right = pair_cache[left_base]
+        viewport_x = _scanline_viewport_x(state)
+        destination_row = screen_y * NAMETABLE_PIXEL_WIDTH
+
+        <span class="hljs-keyword">for</span> screen_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_WIDTH):
+            logical_x = (viewport_x + screen_x) % logical_width
+
+            <span class="hljs-keyword">if</span> logical_x &lt; NAMETABLE_PIXEL_WIDTH:
+                source = left
+                source_x = logical_x
+            <span class="hljs-keyword">else</span>:
+                source = right
+                source_x = logical_x - NAMETABLE_PIXEL_WIDTH
+
+            destination_index = destination_row + screen_x
+            source_index = destination_row + source_x
+            result.pixels[destination_index] = source.pixels[source_index]
+
+    <span class="hljs-keyword">return</span> result30:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","示例实现"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"对于每个目标行"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"state = completed_scanline_scroll_states[screen_y]\nleft_base, right_base = logical pair selected by state\nviewport_x = horizontal pixel position decoded <span class=\"hljs-keyword\">from</span> state"}}]}]]}],["$","div","1",{"className":"border-t border-border","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"对于每个目标像素"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"logical_x = (viewport_x + screen_x) % <span class=\"hljs-number\">512</span>\n\nlogical X <span class=\"hljs-number\">0</span>-<span class=\"hljs-number\">255</span>:   read the left source framebuffer\nlogical X <span class=\"hljs-number\">256</span>-<span class=\"hljs-number\">511</span>: read the right source framebuffer after subtracting <span class=\"hljs-number\">256</span>"}}]}]]}],["$","div","2",{"className":"border-t border-border","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"完整示例实现"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$3b"}}]}]]}]]}],"$L3c"]}]}]
+33:null
+1c:true
+f:300
+3d:T336c,<span class="hljs-keyword">from</span> collections <span class="hljs-keyword">import</span> Counter
+
+<span class="hljs-keyword">import</span> pytest
+
+<span class="hljs-keyword">from</span> emulator.ppu.ppu <span class="hljs-keyword">import</span> BackgroundScanlineState, PPU
+<span class="hljs-keyword">from</span> emulator.rendering.background_viewport <span class="hljs-keyword">import</span> (
+    NAMETABLE_PIXEL_HEIGHT,
+    NAMETABLE_PIXEL_WIDTH,
+)
+<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> BLACK, Framebuffer
+<span class="hljs-keyword">from</span> emulator.rendering <span class="hljs-keyword">import</span> ppu_background_renderer
+<span class="hljs-keyword">from</span> emulator.rendering.ppu_background_renderer <span class="hljs-keyword">import</span> (
+    _timed_scanlines_to_framebuffer,
+)
+
+
+SOURCE_TAGS = {
+    <span class="hljs-number">0x2000</span>: <span class="hljs-number">1</span>,
+    <span class="hljs-number">0x2400</span>: <span class="hljs-number">2</span>,
+    <span class="hljs-number">0x2800</span>: <span class="hljs-number">3</span>,
+    <span class="hljs-number">0x2C00</span>: <span class="hljs-number">4</span>,
+}
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_state</span>(<span class="hljs-params">
+    viewport_x: <span class="hljs-built_in">int</span>,
+    *,
+    nametable_y: <span class="hljs-built_in">int</span> = <span class="hljs-number">0</span>,
+</span>) -&gt; BackgroundScanlineState:
+    <span class="hljs-string">&quot;&quot;&quot;Encode horizontal pixel X and vertical pair selection into one state.&quot;&quot;&quot;</span>
+    nametable_x, pair_x = <span class="hljs-built_in">divmod</span>(viewport_x, NAMETABLE_PIXEL_WIDTH)
+    coarse_x, fine_x = <span class="hljs-built_in">divmod</span>(pair_x, <span class="hljs-number">8</span>)
+    vram_addr = (
+        coarse_x
+        | ((nametable_x &amp; <span class="hljs-number">1</span>) &lt;&lt; <span class="hljs-number">10</span>)
+        | ((nametable_y &amp; <span class="hljs-number">1</span>) &lt;&lt; <span class="hljs-number">11</span>)
+    )
+    <span class="hljs-keyword">return</span> BackgroundScanlineState(vram_addr=vram_addr, fine_x=fine_x)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_source_framebuffer</span>(<span class="hljs-params">base_nametable_addr: <span class="hljs-built_in">int</span></span>) -&gt; Framebuffer:
+    <span class="hljs-string">&quot;&quot;&quot;Encode source base, X, and Y in every synthetic RGB pixel.&quot;&quot;&quot;</span>
+    tag = SOURCE_TAGS[base_nametable_addr]
+    pixels = [
+        (tag, source_x, source_y)
+        <span class="hljs-keyword">for</span> source_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+        <span class="hljs-keyword">for</span> source_x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_WIDTH)
+    ]
+    <span class="hljs-keyword">return</span> Framebuffer(
+        width=NAMETABLE_PIXEL_WIDTH,
+        height=NAMETABLE_PIXEL_HEIGHT,
+        pixels=pixels,
+    )
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">install_fake_source_renderer</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;Return a call log while replacing PPU memory rendering with pure test data.&quot;&quot;&quot;</span>
+    calls: <span class="hljs-built_in">list</span>[<span class="hljs-built_in">int</span>] = []
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">fake_renderer</span>(<span class="hljs-params">ppu, base_nametable_addr=<span class="hljs-number">0x2000</span></span>):
+        calls.append(base_nametable_addr)
+        <span class="hljs-keyword">return</span> make_source_framebuffer(base_nametable_addr)
+
+    monkeypatch.<span class="hljs-built_in">setattr</span>(
+        ppu_background_renderer,
+        <span class="hljs-string">&quot;ppu_background_to_framebuffer&quot;</span>,
+        fake_renderer,
+    )
+    <span class="hljs-keyword">return</span> calls
+
+
+<span class="hljs-meta">@pytest.mark.parametrize(<span class="hljs-params"><span class="hljs-string">&quot;wrong_length&quot;</span>, [<span class="hljs-number">0</span>, <span class="hljs-number">1</span>, <span class="hljs-number">239</span>, <span class="hljs-number">241</span>]</span>)</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_timed_compositor_requires_exactly_240_states</span>(<span class="hljs-params">wrong_length</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Fail explicitly instead of returning a silently partial or oversized framebuffer.
+    &quot;&quot;&quot;</span>
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(<span class="hljs-number">0</span>)
+        <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(wrong_length)
+    )
+
+    <span class="hljs-keyword">with</span> pytest.raises(
+        ValueError,
+        <span class="hljs-keyword">match</span>=<span class="hljs-string">&quot;exactly 240 scanline states&quot;</span>,
+    ):
+        _timed_scanlines_to_framebuffer(ppu)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_result_has_nes_dimensions_and_populates_every_pixel</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Produce one complete framebuffer rather than sparse row fragments.
+    &quot;&quot;&quot;</span>
+    install_fake_source_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(<span class="hljs-number">0</span>)
+        <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    result = _timed_scanlines_to_framebuffer(ppu)
+
+    <span class="hljs-keyword">assert</span> result.width == NAMETABLE_PIXEL_WIDTH
+    <span class="hljs-keyword">assert</span> result.height == NAMETABLE_PIXEL_HEIGHT
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">len</span>(result.pixels) == NAMETABLE_PIXEL_WIDTH * NAMETABLE_PIXEL_HEIGHT
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">all</span>(pixel != BLACK <span class="hljs-keyword">for</span> pixel <span class="hljs-keyword">in</span> result.pixels)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_each_output_row_uses_its_matching_recorded_state</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Allow a fixed upper region and differently scrolled lower region in one frame.
+    &quot;&quot;&quot;</span>
+    install_fake_source_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(<span class="hljs-number">0</span> <span class="hljs-keyword">if</span> screen_y &lt; <span class="hljs-number">32</span> <span class="hljs-keyword">else</span> <span class="hljs-number">40</span>)
+        <span class="hljs-keyword">for</span> screen_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    result = _timed_scanlines_to_framebuffer(ppu)
+
+    <span class="hljs-keyword">assert</span> result.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>) == (<span class="hljs-number">1</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)
+    <span class="hljs-keyword">assert</span> result.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">31</span>) == (<span class="hljs-number">1</span>, <span class="hljs-number">0</span>, <span class="hljs-number">31</span>)
+    <span class="hljs-keyword">assert</span> result.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">32</span>) == (<span class="hljs-number">1</span>, <span class="hljs-number">40</span>, <span class="hljs-number">32</span>)
+    <span class="hljs-keyword">assert</span> result.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">239</span>) == (<span class="hljs-number">1</span>, <span class="hljs-number">40</span>, <span class="hljs-number">239</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_horizontal_selection_wraps_from_right_source_to_left</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Wrap logical positions 510, 511, then 0 across the pair boundary.
+    &quot;&quot;&quot;</span>
+    install_fake_source_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(<span class="hljs-number">510</span>)
+        <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    result = _timed_scanlines_to_framebuffer(ppu)
+
+    <span class="hljs-keyword">assert</span> result.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">17</span>) == (<span class="hljs-number">2</span>, <span class="hljs-number">254</span>, <span class="hljs-number">17</span>)
+    <span class="hljs-keyword">assert</span> result.get_pixel(<span class="hljs-number">1</span>, <span class="hljs-number">17</span>) == (<span class="hljs-number">2</span>, <span class="hljs-number">255</span>, <span class="hljs-number">17</span>)
+    <span class="hljs-keyword">assert</span> result.get_pixel(<span class="hljs-number">2</span>, <span class="hljs-number">17</span>) == (<span class="hljs-number">1</span>, <span class="hljs-number">0</span>, <span class="hljs-number">17</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_different_viewport_x_values_reuse_one_source_pair</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Cache source images independently from each row&#x27;s pixel-selection offset.
+    &quot;&quot;&quot;</span>
+    calls = install_fake_source_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state((screen_y * <span class="hljs-number">3</span>) % <span class="hljs-number">512</span>)
+        <span class="hljs-keyword">for</span> screen_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    _timed_scanlines_to_framebuffer(ppu)
+
+    <span class="hljs-keyword">assert</span> Counter(calls) == Counter({<span class="hljs-number">0x2000</span>: <span class="hljs-number">1</span>, <span class="hljs-number">0x2400</span>: <span class="hljs-number">1</span>})
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_each_logical_pair_is_rendered_once_when_both_are_used</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Bound source rendering to the two possible horizontal pairs in one composition.
+    &quot;&quot;&quot;</span>
+    calls = install_fake_source_renderer(monkeypatch)
+    ppu = PPU()
+    ppu.completed_scanline_scroll_states = <span class="hljs-built_in">tuple</span>(
+        make_state(
+            viewport_x=<span class="hljs-number">0</span>,
+            nametable_y=<span class="hljs-number">0</span> <span class="hljs-keyword">if</span> screen_y &lt; <span class="hljs-number">120</span> <span class="hljs-keyword">else</span> <span class="hljs-number">1</span>,
+        )
+        <span class="hljs-keyword">for</span> screen_y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(NAMETABLE_PIXEL_HEIGHT)
+    )
+
+    result = _timed_scanlines_to_framebuffer(ppu)
+
+    <span class="hljs-keyword">assert</span> Counter(calls) == Counter(
+        {
+            <span class="hljs-number">0x2000</span>: <span class="hljs-number">1</span>,
+            <span class="hljs-number">0x2400</span>: <span class="hljs-number">1</span>,
+            <span class="hljs-number">0x2800</span>: <span class="hljs-number">1</span>,
+            <span class="hljs-number">0x2C00</span>: <span class="hljs-number">1</span>,
+        }
+    )
+    <span class="hljs-keyword">assert</span> result.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">119</span>) == (<span class="hljs-number">1</span>, <span class="hljs-number">0</span>, <span class="hljs-number">119</span>)
+    <span class="hljs-keyword">assert</span> result.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">120</span>) == (<span class="hljs-number">3</span>, <span class="hljs-number">0</span>, <span class="hljs-number">120</span>)3c:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","查看测试代码",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_349_timed_scanlines_to_framebuffer",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$3d"}}]}]}],"$L3e"]}]
+f:C
+3e:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["测试函数"," (",6,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_timed_compositor_requires_exactly_240_states",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_timed_compositor_requires_exactly_240_states"}]}],["$","li","test_result_has_nes_dimensions_and_populates_every_pixel",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_result_has_nes_dimensions_and_populates_every_pixel"}]}],["$","li","test_each_output_row_uses_its_matching_recorded_state",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_each_output_row_uses_its_matching_recorded_state"}]}],["$","li","test_horizontal_selection_wraps_from_right_source_to_left",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_horizontal_selection_wraps_from_right_source_to_left"}]}],["$","li","test_different_viewport_x_values_reuse_one_source_pair",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_different_viewport_x_values_reuse_one_source_pair"}]}],["$","li","test_each_logical_pair_is_rendered_once_when_both_are_used",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_each_logical_pair_is_rendered_once_when_both_are_used"}]}]]}]]}]
+1b:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+18:"$undefined"
+1a:"$undefined"
+e:"$undefined"

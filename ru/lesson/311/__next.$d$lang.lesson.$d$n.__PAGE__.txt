@@ -1,0 +1,307 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+3:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+f:X
+14:X
+14:C
+0:{"buildId":"hgWai9pUCnx8MOLhHyXVO","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L2",null,{"href":"/ru","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"Эмулятор NES через TDD"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L3",null,{"lang":"ru","current":311}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["Глава"," ","09"," · ","Рендеринг спрайтов"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"Изучите Python с нуля в моей академии (только на испанском)","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","Моя академия"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"Язык","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L2",null,{"href":"/en/lesson/311","hrefLang":"en","lang":"en","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],"$L4","$L5","$L6"]}]]}]]}]}],"$L7","$L8","$L9"]}],["$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$f","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$f","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+2b:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+2c:"$Sreact.suspense"
+2e:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+2f:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+30:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+31:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+32:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+33:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+4:["$","li","es",{"children":["$","$L2",null,{"href":"/es/lesson/311","hrefLang":"es","lang":"es","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Español"}]}]
+5:["$","li","zh",{"children":["$","$L2",null,{"href":"/zh/lesson/311","hrefLang":"zh","lang":"zh","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"中文"}]}]
+6:["$","li","ru",{"children":["$","$L2",null,{"href":"/ru/lesson/311","hrefLang":"ru","lang":"ru","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"Русский"}]}]
+7:["$","$L1d",null,{"prevHref":"/ru/lesson/310","nextHref":"/ru/lesson/312"}]
+8:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L2",null,{"href":"/ru","className":"hover:text-heading","children":"Главная"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/ru#chapters","className":"hover:text-heading","children":["Глава"," ","09",": ","Рендеринг спрайтов"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["Урок"," ","311"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["311","."]}]," ","Прокидываем маску непрозрачности фона через конвейер спрайтов"]}],["$","p",null,{"className":"mt-2 text-heading","children":"Прокидываем маску непрозрачности фона через конвейер рендеринга спрайтов."}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["Урок"," ",311," ","из"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_09_sprite_rendering/test_311_thread_background_opaque_mask_through_sprite_pipeline.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"Назад / Далее","children":[["$","$L2",null,{"href":"/ru/lesson/310","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Назад",": "]}],"310"," ",""]}]]}],["$","$L2",null,{"href":"/ru/lesson/312","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Далее",": "]}],"312"," ",""]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Файлы для обновления"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/rendering/frame_compositor.py\nemulator/rendering/sprite_renderer.py"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Зачем нужен этот шаг"}],["$","p","3",{"className":"mt-3","children":[["$","span","0",{"children":"Шаг 310 создал BackgroundOpaqueMask. Прежде чем применять поведение приоритета спрайтов, мы сначала делаем так, чтобы соответствующие функции принимали эту маску и передавали её дальше."}]]}],["$","h3","4",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Это сохраняет постепенность курса"}],["$","pre","5",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"Step 310 -&gt; build the mask\nStep 311 -&gt; thread the mask through function signatures\nStep 312 -&gt; use the mask to enforce sprite priority bit 5"}}]}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}],"$L28","$L29"]}],"$L2a"]}]}]
+9:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"Руководство создано linkfy · Статический сайт сгенерирован из 356 тестов репозитория."}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L2",null,{"href":"/ru","className":"hover:text-heading","children":"Главная"}],["$","$L2",null,{"href":"/ru/lesson/1","className":"hover:text-heading","children":"Начать курс"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true}]
+c:["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true}]
+d:["$","$L2b",null,{"children":["$","$2c",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+10:["$","$1","h",{"children":[null,["$","$L2e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2f",null,{"children":["$","$2c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Урок 311 — Прокидываем маску непрозрачности фона через конвейер спрайтов · Эмулятор NES через TDD"}],["$","meta","1",{"name":"description","content":"Прокидываем маску непрозрачности фона через конвейер рендеринга спрайтов."}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L30","11",{}]]}]}]}],null]}]
+12:["$","$1","c",{"children":[null,["$","$L31",null,{"parallelRouterKey":"children","template":["$","$L32",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L31",null,{"parallelRouterKey":"children","template":["$","$L32",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L31",null,{"parallelRouterKey":"children","template":["$","$L32",null,{}]}]]}]
+19:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L31",null,{"parallelRouterKey":"children","template":["$","$L32",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L33",null,{}]]}]]}]]}]
+1e:["$","h3","6",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Требуемая форма API"}]
+34:T8cc,<span class="hljs-keyword">def</span> <span class="hljs-title function_">composite_background_and_sprites</span>(<span class="hljs-params">
+    background: Framebuffer,
+    oam: <span class="hljs-built_in">bytes</span> | <span class="hljs-built_in">bytearray</span>,
+    pattern_table: <span class="hljs-built_in">bytes</span>,
+    sprite_palettes: SpritePalettes,
+    <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+    background_opaque_mask: BackgroundOpaqueMask | <span class="hljs-literal">None</span> = <span class="hljs-literal">None</span>,
+</span>) -&gt; Framebuffer:
+    ...
+    render_oam_sprites_to_framebuffer(
+        framebuffer,
+        oam,
+        pattern_table,
+        sprite_palettes,
+        <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+        background_opaque_mask,
+    )
+    ...
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">render_oam_sprites_to_framebuffer</span>(<span class="hljs-params">
+    framebuffer: Framebuffer,
+    oam: <span class="hljs-built_in">bytes</span> | <span class="hljs-built_in">bytearray</span>,
+    pattern_table: <span class="hljs-built_in">bytes</span>,
+    sprite_palettes: SpritePalettes,
+    <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+    background_opaque_mask: BackgroundOpaqueMask | <span class="hljs-literal">None</span> = <span class="hljs-literal">None</span>,
+</span>) -&gt; <span class="hljs-literal">None</span>:
+    ...
+    render_sprite_8x8_to_framebuffer(
+        framebuffer,
+        sprite,
+        pattern_table,
+        sprite_palettes,
+        <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+        background_opaque_mask,
+    )
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">render_sprite_8x8_to_framebuffer</span>(<span class="hljs-params">
+    framebuffer: Framebuffer,
+    sprite: SpriteEntry,
+    pattern_table: <span class="hljs-built_in">bytes</span>,
+    sprite_palettes: SpritePalettes,
+    <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+    background_opaque_mask: BackgroundOpaqueMask | <span class="hljs-literal">None</span> = <span class="hljs-literal">None</span>,
+</span>) -&gt; <span class="hljs-literal">None</span>:
+    ...1f:["$","pre","7",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+20:["$","h3","8",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Также добавьте импорт типа там, где это нужно"}]
+21:["$","pre","9",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-comment\"># --- ADD THIS NEW LINE ---</span>\n<span class=\"hljs-keyword\">from</span> emulator.rendering.nametable_renderer <span class=\"hljs-keyword\">import</span> BackgroundOpaqueMask"}}]}]
+22:["$","h3","10",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Важно"}]
+23:["$","p","11",{"className":"mt-3","children":[["$","span","0",{"children":"На этом шаге маску использовать пока не требуется. Следующий шаг добавит правило:"}]]}]
+24:["$","pre","12",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-keyword\">if</span> sprite <span class=\"hljs-keyword\">is</span> behind background <span class=\"hljs-keyword\">and</span> background_opaque_mask[pixel] <span class=\"hljs-keyword\">is</span> <span class=\"hljs-literal\">True</span>:\n    skip drawing this sprite pixel"}}]}]
+25:["$","p","13",{"className":"mt-3","children":[["$","span","0",{"children":"Почему опциональный None? Более старые тесты и более ранние шаги курса уже вызывают эти вспомогательные функции рендеринга без маски фона. Сохранение аргумента опциональным сохраняет обратную совместимость, пока мы развиваем конвейер."}]]}]
+26:["$","h3","14",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Вне рамок"}]
+27:["$","ul","15",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"применение бита 5 приоритета спрайтов"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"изменение Console.render_framebuffer()"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"построение маски из состояния PPU"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"sprite 0 hit"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"переполнение спрайтов"}]]}],["$","li","5",{"children":[["$","span","0",{"children":"pygame"}]]}]]}]
+28:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","Запустить этот урок"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_09_sprite_rendering/test_311_thread_background_opaque_mask_through_sprite_pipeline.py -v"}}]}]]}]
+29:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"Назад / Далее","children":[["$","$L2",null,{"href":"/ru/lesson/310","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Назад",": "]}],"310"," ","Маска непрозрачности фона"]}]]}],["$","$L2",null,{"href":"/ru/lesson/312","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Далее",": "]}],"312"," ","Приоритет спрайтов использует маску непрозрачности фона"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+35:T8cc,<span class="hljs-keyword">def</span> <span class="hljs-title function_">composite_background_and_sprites</span>(<span class="hljs-params">
+    background: Framebuffer,
+    oam: <span class="hljs-built_in">bytes</span> | <span class="hljs-built_in">bytearray</span>,
+    pattern_table: <span class="hljs-built_in">bytes</span>,
+    sprite_palettes: SpritePalettes,
+    <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+    background_opaque_mask: BackgroundOpaqueMask | <span class="hljs-literal">None</span> = <span class="hljs-literal">None</span>,
+</span>) -&gt; Framebuffer:
+    ...
+    render_oam_sprites_to_framebuffer(
+        framebuffer,
+        oam,
+        pattern_table,
+        sprite_palettes,
+        <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+        background_opaque_mask,
+    )
+    ...
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">render_oam_sprites_to_framebuffer</span>(<span class="hljs-params">
+    framebuffer: Framebuffer,
+    oam: <span class="hljs-built_in">bytes</span> | <span class="hljs-built_in">bytearray</span>,
+    pattern_table: <span class="hljs-built_in">bytes</span>,
+    sprite_palettes: SpritePalettes,
+    <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+    background_opaque_mask: BackgroundOpaqueMask | <span class="hljs-literal">None</span> = <span class="hljs-literal">None</span>,
+</span>) -&gt; <span class="hljs-literal">None</span>:
+    ...
+    render_sprite_8x8_to_framebuffer(
+        framebuffer,
+        sprite,
+        pattern_table,
+        sprite_palettes,
+        <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+        background_opaque_mask,
+    )
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">render_sprite_8x8_to_framebuffer</span>(<span class="hljs-params">
+    framebuffer: Framebuffer,
+    sprite: SpriteEntry,
+    pattern_table: <span class="hljs-built_in">bytes</span>,
+    sprite_palettes: SpritePalettes,
+    <span class="hljs-comment"># --- ADD THIS NEW LINE ---</span>
+    background_opaque_mask: BackgroundOpaqueMask | <span class="hljs-literal">None</span> = <span class="hljs-literal">None</span>,
+</span>) -&gt; <span class="hljs-literal">None</span>:
+    ...2a:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","Пример реализации"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"Требуемая форма API"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$35"}}]}]]}]]}],"$L36"]}]}]
+2d:null
+1c:true
+f:300
+37:T25e2,<span class="hljs-keyword">import</span> inspect
+
+<span class="hljs-keyword">from</span> emulator.rendering <span class="hljs-keyword">import</span> frame_compositor
+<span class="hljs-keyword">from</span> emulator.rendering.frame_compositor <span class="hljs-keyword">import</span> composite_background_and_sprites
+<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> Framebuffer
+<span class="hljs-keyword">from</span> emulator.rendering.nametable_renderer <span class="hljs-keyword">import</span> BackgroundOpaqueMask
+<span class="hljs-keyword">from</span> emulator.rendering.sprite_renderer <span class="hljs-keyword">import</span> (
+    OAM_SIZE,
+    render_oam_sprites_to_framebuffer,
+    render_sprite_8x8_to_framebuffer,
+)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_compositor_accepts_optional_background_opaque_mask_parameter</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The top-level compositor can receive a background opacity mask without breaking
+    older calls that do not pass one.
+    &quot;&quot;&quot;</span>
+    signature = inspect.signature(composite_background_and_sprites)
+
+    parameter = signature.parameters[<span class="hljs-string">&quot;background_opaque_mask&quot;</span>]
+
+    <span class="hljs-keyword">assert</span> parameter.default <span class="hljs-keyword">is</span> <span class="hljs-literal">None</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_oam_sprite_renderer_accepts_optional_background_opaque_mask_parameter</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The all-OAM sprite renderer can receive the same optional mask and preserve old
+    callers.
+    &quot;&quot;&quot;</span>
+    signature = inspect.signature(render_oam_sprites_to_framebuffer)
+
+    parameter = signature.parameters[<span class="hljs-string">&quot;background_opaque_mask&quot;</span>]
+
+    <span class="hljs-keyword">assert</span> parameter.default <span class="hljs-keyword">is</span> <span class="hljs-literal">None</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_single_sprite_renderer_accepts_optional_background_opaque_mask_parameter</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The one-sprite renderer is the eventual pixel-level decision point, so it must
+    also accept the optional mask.
+    &quot;&quot;&quot;</span>
+    signature = inspect.signature(render_sprite_8x8_to_framebuffer)
+
+    parameter = signature.parameters[<span class="hljs-string">&quot;background_opaque_mask&quot;</span>]
+
+    <span class="hljs-keyword">assert</span> parameter.default <span class="hljs-keyword">is</span> <span class="hljs-literal">None</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_compositor_forwards_background_opaque_mask_to_oam_renderer</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The compositor should not swallow the mask. It should pass it down to the OAM
+    sprite renderer.
+    &quot;&quot;&quot;</span>
+    background = Framebuffer(width=<span class="hljs-number">2</span>, height=<span class="hljs-number">2</span>)
+    oam = <span class="hljs-built_in">bytes</span>([<span class="hljs-number">0</span>] * OAM_SIZE)
+    pattern_table = <span class="hljs-built_in">bytes</span>([<span class="hljs-number">0</span>] * <span class="hljs-number">0x1000</span>)
+    sprite_palettes = [[(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)] * <span class="hljs-number">4</span> <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">4</span>)]
+    mask: BackgroundOpaqueMask = [<span class="hljs-literal">False</span>, <span class="hljs-literal">True</span>, <span class="hljs-literal">False</span>, <span class="hljs-literal">True</span>]
+
+    captured = {}
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">fake_render_oam_sprites_to_framebuffer</span>(<span class="hljs-params">
+        framebuffer,
+        received_oam,
+        received_pattern_table,
+        received_sprite_palettes,
+        received_background_opaque_mask=<span class="hljs-literal">None</span>,
+    </span>):
+        captured[<span class="hljs-string">&quot;framebuffer&quot;</span>] = framebuffer
+        captured[<span class="hljs-string">&quot;oam&quot;</span>] = received_oam
+        captured[<span class="hljs-string">&quot;pattern_table&quot;</span>] = received_pattern_table
+        captured[<span class="hljs-string">&quot;sprite_palettes&quot;</span>] = received_sprite_palettes
+        captured[<span class="hljs-string">&quot;background_opaque_mask&quot;</span>] = received_background_opaque_mask
+
+    monkeypatch.<span class="hljs-built_in">setattr</span>(
+        frame_compositor,
+        <span class="hljs-string">&quot;render_oam_sprites_to_framebuffer&quot;</span>,
+        fake_render_oam_sprites_to_framebuffer,
+    )
+
+    result = composite_background_and_sprites(
+        background=background,
+        oam=oam,
+        pattern_table=pattern_table,
+        sprite_palettes=sprite_palettes,
+        background_opaque_mask=mask,
+    )
+
+    <span class="hljs-keyword">assert</span> result <span class="hljs-keyword">is</span> captured[<span class="hljs-string">&quot;framebuffer&quot;</span>]
+    <span class="hljs-keyword">assert</span> captured[<span class="hljs-string">&quot;oam&quot;</span>] <span class="hljs-keyword">is</span> oam
+    <span class="hljs-keyword">assert</span> captured[<span class="hljs-string">&quot;pattern_table&quot;</span>] <span class="hljs-keyword">is</span> pattern_table
+    <span class="hljs-keyword">assert</span> captured[<span class="hljs-string">&quot;sprite_palettes&quot;</span>] <span class="hljs-keyword">is</span> sprite_palettes
+    <span class="hljs-keyword">assert</span> captured[<span class="hljs-string">&quot;background_opaque_mask&quot;</span>] <span class="hljs-keyword">is</span> mask
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_oam_renderer_forwards_background_opaque_mask_to_single_sprite_renderer</span>(<span class="hljs-params">monkeypatch</span>):
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The OAM renderer should pass the mask to each individual sprite render call.
+    &quot;&quot;&quot;</span>
+    framebuffer = Framebuffer(width=<span class="hljs-number">8</span>, height=<span class="hljs-number">8</span>)
+    oam = <span class="hljs-built_in">bytes</span>([<span class="hljs-number">0</span>] * OAM_SIZE)
+    pattern_table = <span class="hljs-built_in">bytes</span>([<span class="hljs-number">0</span>] * <span class="hljs-number">0x1000</span>)
+    sprite_palettes = [[(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)] * <span class="hljs-number">4</span> <span class="hljs-keyword">for</span> _ <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">4</span>)]
+    mask: BackgroundOpaqueMask = [<span class="hljs-literal">False</span>] * (framebuffer.width * framebuffer.height)
+
+    captured_masks = []
+
+    <span class="hljs-keyword">import</span> emulator.rendering.sprite_renderer <span class="hljs-keyword">as</span> sprite_renderer_module
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">fake_render_sprite_8x8_to_framebuffer</span>(<span class="hljs-params">
+        received_framebuffer,
+        sprite,
+        received_pattern_table,
+        received_sprite_palettes,
+        received_background_opaque_mask=<span class="hljs-literal">None</span>,
+    </span>):
+        captured_masks.append(received_background_opaque_mask)
+
+    monkeypatch.<span class="hljs-built_in">setattr</span>(
+        sprite_renderer_module,
+        <span class="hljs-string">&quot;render_sprite_8x8_to_framebuffer&quot;</span>,
+        fake_render_sprite_8x8_to_framebuffer,
+    )
+
+    render_oam_sprites_to_framebuffer(
+        framebuffer=framebuffer,
+        oam=oam,
+        pattern_table=pattern_table,
+        sprite_palettes=sprite_palettes,
+        background_opaque_mask=mask,
+    )
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">len</span>(captured_masks) == <span class="hljs-number">64</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">all</span>(captured_mask <span class="hljs-keyword">is</span> mask <span class="hljs-keyword">for</span> captured_mask <span class="hljs-keyword">in</span> captured_masks)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_step_311_does_not_require_console_wiring_yet</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    This step is intentionally about API plumbing only. It should not require
+    Console.render_framebuffer() to build or pass a real background mask yet.
+
+    Later steps may use the mask inside the sprite renderer, so this older test must
+    not forbid that evolution.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">import</span> emulator.console <span class="hljs-keyword">as</span> console_module
+
+    source = inspect.getsource(console_module.Console.render_framebuffer)
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-string">&quot;build_background_opaque_mask&quot;</span> <span class="hljs-keyword">not</span> <span class="hljs-keyword">in</span> source36:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","Показать код теста",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_311_thread_background_opaque_mask_through_sprite_pipeline",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$37"}}]}]}],"$L38"]}]
+f:C
+38:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["Тестовые функции"," (",6,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_compositor_accepts_optional_background_opaque_mask_parameter",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_compositor_accepts_optional_background_opaque_mask_parameter"}]}],["$","li","test_oam_sprite_renderer_accepts_optional_background_opaque_mask_parameter",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_oam_sprite_renderer_accepts_optional_background_opaque_mask_parameter"}]}],["$","li","test_single_sprite_renderer_accepts_optional_background_opaque_mask_parameter",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_single_sprite_renderer_accepts_optional_background_opaque_mask_parameter"}]}],["$","li","test_compositor_forwards_background_opaque_mask_to_oam_renderer",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_compositor_forwards_background_opaque_mask_to_oam_renderer"}]}],["$","li","test_oam_renderer_forwards_background_opaque_mask_to_single_sprite_renderer",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_oam_renderer_forwards_background_opaque_mask_to_single_sprite_renderer"}]}],["$","li","test_step_311_does_not_require_console_wiring_yet",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_step_311_does_not_require_console_wiring_yet"}]}]]}]]}]
+1b:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+18:"$undefined"
+1a:"$undefined"
+e:"$undefined"

@@ -1,0 +1,224 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],""]
+3:I[35382,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"LessonNav"]
+f:X
+14:X
+14:C
+0:{"buildId":"hgWai9pUCnx8MOLhHyXVO","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 bg-[#212121]/90 backdrop-blur border-b border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 h-12 flex items-center gap-3","children":[["$","$L2",null,{"href":"/ru","className":"flex items-center gap-2 text-heading font-bold hover:text-primary transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-gamepad2 text-primary","children":[["$","line","1gktln",{"x1":"6","x2":"10","y1":"11","y2":"11"}],["$","line","qnk9ow",{"x1":"8","x2":"8","y1":"9","y2":"13"}],["$","line","krot7o",{"x1":"15","x2":"15.01","y1":"12","y2":"12"}],["$","line","1lcuu1",{"x1":"18","x2":"18.01","y1":"10","y2":"10"}],["$","path","mfqc10",{"d":"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"}],"$undefined"]}],["$","span",null,{"className":"hidden sm:inline","children":"Эмулятор NES через TDD"}],["$","span",null,{"className":"sm:hidden","children":"NES TDD"}]]}],["$","div",null,{"className":"flex-1 flex items-center gap-2 min-w-0","children":[["$","$L3",null,{"lang":"ru","current":272}],["$","span",null,{"className":"hidden lg:inline text-xs text-muted-foreground truncate","children":["Глава"," ","05"," · ","Конвейер рендеринга"]}]]}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","aria-label":"GitHub","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}],["$","a",null,{"href":"https://minigen.io/","target":"_blank","rel":"noreferrer","title":"Изучите Python с нуля в моей академии (только на испанском)","className":"hidden md:inline-flex items-center gap-1 text-sm hover:text-heading transition","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}]," ","Моя академия"]}],["$","nav",null,{"className":"flex items-center gap-1","aria-label":"Язык","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-languages text-primary shrink-0","aria-hidden":true,"children":[["$","path","1wu5hv",{"d":"m5 8 6 6"}],["$","path","1k1g8d",{"d":"m4 14 6-6 2-3"}],["$","path","or177f",{"d":"M2 5h12"}],["$","path","1t2jsx",{"d":"M7 2h1"}],["$","path","don7ne",{"d":"m22 22-5-10-5 10"}],["$","path","1m8k6r",{"d":"M14 18h6"}],"$undefined"]}],["$","ul",null,{"className":"flex items-center gap-0.5","children":[["$","li","en",{"children":["$","$L2",null,{"href":"/en/lesson/272","hrefLang":"en","lang":"en","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"English"}]}],"$L4","$L5","$L6"]}]]}]]}]}],"$L7","$L8","$L9"]}],["$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$f","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$f","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[32175,["/_next/static/chunks/32tg-glwpcf8-.js","/_next/static/chunks/22i43cg4l4-dq.js","/_next/static/chunks/050vsp-b6nzio.js","/_next/static/chunks/3tki9e5u7cl5k.js"],"KeyboardNav"]
+31:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"OutletBoundary"]
+32:"$Sreact.suspense"
+34:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"ViewportBoundary"]
+35:I[97367,["/_next/static/chunks/32tg-glwpcf8-.js"],"MetadataBoundary"]
+36:I[27201,["/_next/static/chunks/32tg-glwpcf8-.js"],"IconMark"]
+37:I[39756,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+38:I[37457,["/_next/static/chunks/32tg-glwpcf8-.js"],"default"]
+39:I[30518,["/_next/static/chunks/32tg-glwpcf8-.js"],"ChunkLoadErrorHandler"]
+:HL["/_next/static/chunks/0c95_li24x8au.css","style"]
+4:["$","li","es",{"children":["$","$L2",null,{"href":"/es/lesson/272","hrefLang":"es","lang":"es","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"Español"}]}]
+5:["$","li","zh",{"children":["$","$L2",null,{"href":"/zh/lesson/272","hrefLang":"zh","lang":"zh","className":"px-1.5 py-0.5 rounded-sm text-xs transition text-muted-foreground hover:text-heading hover:bg-card","children":"中文"}]}]
+6:["$","li","ru",{"children":["$","$L2",null,{"href":"/ru/lesson/272","hrefLang":"ru","lang":"ru","aria-current":"true","className":"px-1.5 py-0.5 rounded-sm text-xs transition bg-primary text-primary-foreground font-bold","children":"Русский"}]}]
+7:["$","$L1d",null,{"prevHref":"/ru/lesson/271","nextHref":"/ru/lesson/273"}]
+8:["$","main",null,{"className":"flex-1 w-full max-w-[1200px] mx-auto px-5 md:px-8 py-8","children":["$","div",null,{"className":"grid lg:grid-cols-[minmax(0,1fr)_minmax(0,46%)] gap-8","children":[["$","article",null,{"className":"min-w-0","children":[["$","nav",null,{"className":"text-xs text-muted-foreground flex flex-wrap items-center gap-1","children":[["$","$L2",null,{"href":"/ru","className":"hover:text-heading","children":"Главная"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/ru#chapters","className":"hover:text-heading","children":["Глава"," ","05",": ","Конвейер рендеринга"]}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"text-foreground","children":["Урок"," ","272"]}]]}],["$","h1",null,{"className":"mt-4 text-[26px] leading-tight","children":[["$","span",null,{"className":"text-primary","children":["272","."]}]," ","Сетка индексов цвета во фреймбуфер"]}],["$","p",null,{"className":"mt-2 text-heading","children":"Преобразование сеток индексов цвета в RGB-данные фреймбуфера."}],["$","p",null,{"className":"mt-1 text-xs text-muted-foreground","children":["Урок"," ",272," ","из"," ",356," · ",["$","span",null,{"className":"font-mono","children":"tests/chapter_05_rendering_pipeline/test_272_color_index_grid_to_framebuffer.py"}]]}],["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-5","aria-label":"Назад / Далее","children":[["$","$L2",null,{"href":"/ru/lesson/271","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Назад",": "]}],"271"," ",""]}]]}],["$","$L2",null,{"href":"/ru/lesson/273","className":"inline-flex items-center gap-2 rounded-sm transition px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Далее",": "]}],"273"," ",""]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"lesson-prose mt-6","children":[["$","h3","0",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Файл для создания"}],["$","pre","1",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"emulator/rendering/color_index_renderer.py"}}]}],["$","h3","2",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Почему этот шаг важен"}],["$","p","3",{"className":"mt-3","children":[["$","span","0",{"children":"Ранее написанные вспомогательные функции PPU/CHR выдают индексы цвета, а не RGB-пиксели. Например, decode_chr_tile() выдаёт значения вида:"}]]}],["$","pre","4",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"0, 1, 2, 3"}}]}],["$","p","5",{"className":"mt-3","children":[["$","span","0",{"children":"Эти значения — индексы палитры. Пока это ещё не отображаемые напрямую цвета."}]]}],["$","h3","6",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Этот шаг создаёт чистую вспомогательную функцию рендеринга, которая отображает"}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d"]}],"$L2e","$L2f"]}],"$L30"]}]}]
+9:["$","footer",null,{"className":"bg-[#212121] border-t border-border","children":["$","div",null,{"className":"max-w-[1200px] mx-auto px-5 md:px-8 py-6 text-xs flex flex-col md:flex-row gap-3 md:items-center md:justify-between","children":[["$","p",null,{"children":"Руководство создано linkfy · Статический сайт сгенерирован из 356 тестов репозитория."}],["$","nav",null,{"className":"flex gap-4","children":[["$","$L2",null,{"href":"/ru","className":"hover:text-heading","children":"Главная"}],["$","$L2",null,{"href":"/ru/lesson/1","className":"hover:text-heading","children":"Начать курс"}],["$","a",null,{"href":"https://github.com/linkfy/nes-emulator-tutorial-tdd","target":"_blank","rel":"noreferrer","className":"hover:text-heading","children":"GitHub"}]]}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/050vsp-b6nzio.js","async":true}]
+c:["$","script","script-2",{"src":"/_next/static/chunks/3tki9e5u7cl5k.js","async":true}]
+d:["$","$L31",null,{"children":["$","$32",null,{"name":"Next.MetadataOutlet","children":"$@33"}]}]
+10:["$","$1","h",{"children":[null,["$","$L34",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L35",null,{"children":["$","$32",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Урок 272 — Сетка индексов цвета во фреймбуфер · Эмулятор NES через TDD"}],["$","meta","1",{"name":"description","content":"Преобразование сеток индексов цвета в RGB-данные фреймбуфера."}],["$","meta","2",{"property":"og:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","3",{"property":"og:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"NES Emulator Tutorial — TDD"}],["$","meta","7",{"name":"twitter:description","content":"Build a NES emulator in Python, one test at a time. 356 lessons by linkfy."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","9",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L36","11",{}]]}]}]}],null]}]
+12:["$","$1","c",{"children":[null,["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}]}]]}]
+19:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c95_li24x8au.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/32tg-glwpcf8-.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"src":"https://apps.abacus.ai/chatllm/appllm-lib.js"}]}],["$","body",null,{"className":"font-mono min-h-screen","children":[["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L39",null,{}]]}]]}]]}]
+1e:["$","pre","7",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"color-index grid + RGB palette -&gt; Framebuffer"}}]}]
+1f:["$","p","8",{"className":"mt-3","children":[["$","span","0",{"children":"Что такое сетка индексов цвета? Сетка индексов цвета — это 2D-сетка, где каждое число указывает на элемент палитры."}]]}]
+20:["$","h3","9",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Минимальный пример"}]
+21:["$","pre","10",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"grid = [\n    [<span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">1</span>, <span class=\"hljs-number\">1</span>, <span class=\"hljs-number\">0</span>, ...],\n    [<span class=\"hljs-number\">2</span>, <span class=\"hljs-number\">3</span>, <span class=\"hljs-number\">3</span>, <span class=\"hljs-number\">0</span>, ...],\n    ...\n]\n\npalette = [\n    (<span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">0</span>),\n    (<span class=\"hljs-number\">85</span>, <span class=\"hljs-number\">85</span>, <span class=\"hljs-number\">85</span>),\n    (<span class=\"hljs-number\">170</span>, <span class=\"hljs-number\">170</span>, <span class=\"hljs-number\">170</span>),\n    (<span class=\"hljs-number\">255</span>, <span class=\"hljs-number\">255</span>, <span class=\"hljs-number\">255</span>),\n]"}}]}]
+22:["$","h3","11",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Ожидаемые пиксели фреймбуфера"}]
+23:["$","pre","12",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"(x=<span class=\"hljs-number\">0</span>, y=<span class=\"hljs-number\">0</span>) -&gt; palette[<span class=\"hljs-number\">0</span>] -&gt; (<span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">0</span>)\n(x=<span class=\"hljs-number\">1</span>, y=<span class=\"hljs-number\">0</span>) -&gt; palette[<span class=\"hljs-number\">1</span>] -&gt; (<span class=\"hljs-number\">85</span>, <span class=\"hljs-number\">85</span>, <span class=\"hljs-number\">85</span>)\n(x=<span class=\"hljs-number\">0</span>, y=<span class=\"hljs-number\">1</span>) -&gt; palette[<span class=\"hljs-number\">2</span>] -&gt; (<span class=\"hljs-number\">170</span>, <span class=\"hljs-number\">170</span>, <span class=\"hljs-number\">170</span>)\n(x=<span class=\"hljs-number\">1</span>, y=<span class=\"hljs-number\">1</span>) -&gt; palette[<span class=\"hljs-number\">3</span>] -&gt; (<span class=\"hljs-number\">255</span>, <span class=\"hljs-number\">255</span>, <span class=\"hljs-number\">255</span>)"}}]}]
+24:["$","h3","13",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Пример возможной реализации"}]
+3a:T468,<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> Framebuffer, RGBColor
+
+Grid = <span class="hljs-built_in">list</span>[<span class="hljs-built_in">list</span>[<span class="hljs-built_in">int</span>]]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">color_index_grid_to_framebuffer</span>(<span class="hljs-params">
+    grid: Grid,
+    palette: <span class="hljs-built_in">list</span>[RGBColor],
+</span>) -&gt; Framebuffer:
+    height = <span class="hljs-built_in">len</span>(grid)
+    width = <span class="hljs-built_in">len</span>(grid[<span class="hljs-number">0</span>])
+
+    framebuffer = Framebuffer(width=width, height=height)
+
+    <span class="hljs-keyword">for</span> y, row <span class="hljs-keyword">in</span> <span class="hljs-built_in">enumerate</span>(grid):
+        <span class="hljs-keyword">for</span> x, color_index <span class="hljs-keyword">in</span> <span class="hljs-built_in">enumerate</span>(row):
+            framebuffer.set_pixel(x, y, palette[color_index])
+
+    <span class="hljs-keyword">return</span> framebuffer25:["$","pre","14",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
+26:["$","h3","15",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Важное упрощение"}]
+27:["$","h3","16",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Пока считаем входные данные корректными"}]
+28:["$","pre","17",{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"grid is not empty\ngrid is rectangular\npalette contains every used index\ncolor indexes are valid"}}]}]
+29:["$","p","18",{"className":"mt-3","children":[["$","span","0",{"children":"Дополнительные проверки можно добавить позже, если это станет проблемой при отладке."}]]}]
+2a:["$","h3","19",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Архитектурное правило"}]
+2b:["$","p","20",{"className":"mt-3","children":[["$","span","0",{"children":"Эта вспомогательная функция выполняет чистое преобразование данных. Она не должна импортировать pygame, CPU, тайминг PPU, загрузку ROM или код фронтенда."}]]}]
+2c:["$","h3","21",{"className":"mt-7 mb-2 text-[15px] text-primary uppercase tracking-wide","children":"Вне рамок этого шага"}]
+2d:["$","ul","22",{"className":"mt-2 space-y-1 list-disc pl-6","children":[["$","li","0",{"children":[["$","span","0",{"children":"поиск в памяти палитры NES"}]]}],["$","li","1",{"children":[["$","span","0",{"children":"прямой рендеринг тайлов CHR"}]]}],["$","li","2",{"children":[["$","span","0",{"children":"прямой рендеринг таблиц шаблонов"}]]}],["$","li","3",{"children":[["$","span","0",{"children":"рендеринг таблиц имён/фонов"}]]}],["$","li","4",{"children":[["$","span","0",{"children":"отображение через pygame"}]]}]]}]
+2e:["$","div",null,{"className":"mt-8 bg-card rounded-sm p-4 shadow text-sm","children":[["$","p",null,{"className":"text-heading font-bold flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-terminal text-primary","children":[["$","polyline","akl6gq",{"points":"4 17 10 11 4 5"}],["$","line","q2wloq",{"x1":"12","x2":"20","y1":"19","y2":"19"}],"$undefined"]}]," ","Запустить этот урок"]}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed ","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"uv run pytest tests/chapter_05_rendering_pipeline/test_272_color_index_grid_to_framebuffer.py -v"}}]}]]}]
+2f:["$","nav",null,{"className":"flex items-stretch justify-between gap-3 mt-10 pt-6 border-t border-border","aria-label":"Назад / Далее","children":[["$","$L2",null,{"href":"/ru/lesson/271","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-card text-heading hover:bg-[#1a1a1a] shadow max-w-[48%]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left shrink-0","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"text-muted-foreground","children":["Назад",": "]}],"271"," ","Доступ к пикселям фреймбуфера"]}]]}],["$","$L2",null,{"href":"/ru/lesson/273","className":"inline-flex items-center gap-2 rounded-sm transition px-4 py-2 bg-primary text-primary-foreground hover:brightness-110 shadow max-w-[48%] text-right","children":[["$","span",null,{"className":"truncate","children":[["$","span",null,{"className":"opacity-80","children":["Далее",": "]}],"273"," ","Таблица шаблонов во фреймбуфер"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right shrink-0","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]
+3b:T468,<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> Framebuffer, RGBColor
+
+Grid = <span class="hljs-built_in">list</span>[<span class="hljs-built_in">list</span>[<span class="hljs-built_in">int</span>]]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">color_index_grid_to_framebuffer</span>(<span class="hljs-params">
+    grid: Grid,
+    palette: <span class="hljs-built_in">list</span>[RGBColor],
+</span>) -&gt; Framebuffer:
+    height = <span class="hljs-built_in">len</span>(grid)
+    width = <span class="hljs-built_in">len</span>(grid[<span class="hljs-number">0</span>])
+
+    framebuffer = Framebuffer(width=width, height=height)
+
+    <span class="hljs-keyword">for</span> y, row <span class="hljs-keyword">in</span> <span class="hljs-built_in">enumerate</span>(grid):
+        <span class="hljs-keyword">for</span> x, color_index <span class="hljs-keyword">in</span> <span class="hljs-built_in">enumerate</span>(row):
+            framebuffer.set_pixel(x, y, palette[color_index])
+
+    <span class="hljs-keyword">return</span> framebuffer30:["$","aside",null,{"className":"min-w-0","children":["$","div",null,{"className":"lg:sticky lg:top-16 bg-card rounded-sm shadow overflow-hidden","children":[["$","div",null,{"className":"px-4 py-2 border-b border-border flex items-center justify-between gap-2","children":[["$","span",null,{"className":"flex items-center gap-2 text-heading text-sm font-bold","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-code2 text-primary","children":[["$","path","1pf5j1",{"d":"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","oke12k",{"d":"m5 12-3 3 3 3"}],["$","path","112psh",{"d":"m9 18 3-3-3-3"}],"$undefined"]}]," ","Пример реализации"]}],null]}],["$","div",null,{"className":"code-scroll overflow-auto lg:max-h-[calc(100vh-9rem)]","children":[["$","div","0",{"className":"","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"Минимальный пример"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"grid = [\n    [<span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">1</span>, <span class=\"hljs-number\">1</span>, <span class=\"hljs-number\">0</span>, ...],\n    [<span class=\"hljs-number\">2</span>, <span class=\"hljs-number\">3</span>, <span class=\"hljs-number\">3</span>, <span class=\"hljs-number\">0</span>, ...],\n    ...\n]\n\npalette = [\n    (<span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">0</span>),\n    (<span class=\"hljs-number\">85</span>, <span class=\"hljs-number\">85</span>, <span class=\"hljs-number\">85</span>),\n    (<span class=\"hljs-number\">170</span>, <span class=\"hljs-number\">170</span>, <span class=\"hljs-number\">170</span>),\n    (<span class=\"hljs-number\">255</span>, <span class=\"hljs-number\">255</span>, <span class=\"hljs-number\">255</span>),\n]"}}]}]]}],["$","div","1",{"className":"border-t border-border","children":[["$","p",null,{"className":"px-4 pt-3 text-[11px] uppercase tracking-wide text-primary","children":"Пример возможной реализации"}],["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$3b"}}]}]]}]]}],"$L3c"]}]}]
+33:null
+1c:true
+f:300
+3d:T2235,<span class="hljs-keyword">from</span> pathlib <span class="hljs-keyword">import</span> Path
+
+<span class="hljs-keyword">from</span> emulator.rendering.color_index_renderer <span class="hljs-keyword">import</span> (
+    Grid,
+    color_index_grid_to_framebuffer,
+)
+<span class="hljs-keyword">from</span> emulator.rendering.framebuffer <span class="hljs-keyword">import</span> Framebuffer
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_color_index_renderer_file_exists</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Keep color-index conversion separate from framebuffer storage.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> Path(<span class="hljs-string">&quot;emulator/rendering/color_index_renderer.py&quot;</span>).exists()
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_color_index_renderer_declares_grid_alias_and_conversion_function</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Expose a small pure helper for converting indexed color grids to framebuffer
+    data.
+    &quot;&quot;&quot;</span>
+    <span class="hljs-keyword">assert</span> Grid == <span class="hljs-built_in">list</span>[<span class="hljs-built_in">list</span>[<span class="hljs-built_in">int</span>]]
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">callable</span>(color_index_grid_to_framebuffer)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_color_index_grid_to_framebuffer_sets_output_dimensions_from_grid</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The framebuffer size should match the input grid dimensions.
+    &quot;&quot;&quot;</span>
+    grid = [
+        [<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>],
+        [<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>],
+    ]
+    palette = [(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)]
+
+    framebuffer = color_index_grid_to_framebuffer(grid, palette)
+
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">isinstance</span>(framebuffer, Framebuffer)
+    <span class="hljs-keyword">assert</span> framebuffer.width == <span class="hljs-number">3</span>
+    <span class="hljs-keyword">assert</span> framebuffer.height == <span class="hljs-number">2</span>
+    <span class="hljs-keyword">assert</span> <span class="hljs-built_in">len</span>(framebuffer.pixels) == <span class="hljs-number">6</span>
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_color_index_grid_to_framebuffer_maps_2x2_indexes_to_rgb_pixels</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Convert a tiny 2x2 color-index grid into RGB framebuffer pixels.
+    &quot;&quot;&quot;</span>
+    grid = [
+        [<span class="hljs-number">0</span>, <span class="hljs-number">1</span>],
+        [<span class="hljs-number">2</span>, <span class="hljs-number">3</span>],
+    ]
+    palette = [
+        (<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>),
+        (<span class="hljs-number">85</span>, <span class="hljs-number">85</span>, <span class="hljs-number">85</span>),
+        (<span class="hljs-number">170</span>, <span class="hljs-number">170</span>, <span class="hljs-number">170</span>),
+        (<span class="hljs-number">255</span>, <span class="hljs-number">255</span>, <span class="hljs-number">255</span>),
+    ]
+
+    framebuffer = color_index_grid_to_framebuffer(grid, palette)
+
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>) == (<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">1</span>, <span class="hljs-number">0</span>) == (<span class="hljs-number">85</span>, <span class="hljs-number">85</span>, <span class="hljs-number">85</span>)
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">1</span>) == (<span class="hljs-number">170</span>, <span class="hljs-number">170</span>, <span class="hljs-number">170</span>)
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">1</span>, <span class="hljs-number">1</span>) == (<span class="hljs-number">255</span>, <span class="hljs-number">255</span>, <span class="hljs-number">255</span>)
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_color_index_grid_to_framebuffer_preserves_flat_pixel_order</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    The converted framebuffer should still use Framebuffer&#x27;s flat row-major pixel
+    order.
+
+    Example:
+        grid row 0 becomes pixels[0], pixels[1], pixels[2]
+        grid row 1 becomes pixels[3], pixels[4], pixels[5]
+    &quot;&quot;&quot;</span>
+    grid = [
+        [<span class="hljs-number">0</span>, <span class="hljs-number">1</span>, <span class="hljs-number">0</span>],
+        [<span class="hljs-number">1</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>],
+    ]
+    palette = [
+        (<span class="hljs-number">10</span>, <span class="hljs-number">10</span>, <span class="hljs-number">10</span>),
+        (<span class="hljs-number">200</span>, <span class="hljs-number">200</span>, <span class="hljs-number">200</span>),
+    ]
+
+    framebuffer = color_index_grid_to_framebuffer(grid, palette)
+
+    <span class="hljs-keyword">assert</span> framebuffer.pixels == [
+        (<span class="hljs-number">10</span>, <span class="hljs-number">10</span>, <span class="hljs-number">10</span>),
+        (<span class="hljs-number">200</span>, <span class="hljs-number">200</span>, <span class="hljs-number">200</span>),
+        (<span class="hljs-number">10</span>, <span class="hljs-number">10</span>, <span class="hljs-number">10</span>),
+        (<span class="hljs-number">200</span>, <span class="hljs-number">200</span>, <span class="hljs-number">200</span>),
+        (<span class="hljs-number">10</span>, <span class="hljs-number">10</span>, <span class="hljs-number">10</span>),
+        (<span class="hljs-number">200</span>, <span class="hljs-number">200</span>, <span class="hljs-number">200</span>),
+    ]
+
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">test_color_index_grid_to_framebuffer_checkerboard_example</span>():
+    <span class="hljs-string">&quot;&quot;&quot;
+    Objective:
+    Show a small pattern-like example that future CHR/pattern-table rendering can
+    reuse conceptually.
+    &quot;&quot;&quot;</span>
+    dark = (<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>)
+    light = (<span class="hljs-number">255</span>, <span class="hljs-number">255</span>, <span class="hljs-number">255</span>)
+    grid = [
+        [<span class="hljs-number">0</span>, <span class="hljs-number">1</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>],
+        [<span class="hljs-number">1</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>, <span class="hljs-number">0</span>],
+        [<span class="hljs-number">0</span>, <span class="hljs-number">1</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>],
+        [<span class="hljs-number">1</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>, <span class="hljs-number">0</span>],
+    ]
+    palette = [dark, light]
+
+    framebuffer = color_index_grid_to_framebuffer(grid, palette)
+
+    <span class="hljs-keyword">assert</span> framebuffer.width == <span class="hljs-number">4</span>
+    <span class="hljs-keyword">assert</span> framebuffer.height == <span class="hljs-number">4</span>
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>) == dark
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">1</span>, <span class="hljs-number">0</span>) == light
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">0</span>, <span class="hljs-number">1</span>) == light
+    <span class="hljs-keyword">assert</span> framebuffer.get_pixel(<span class="hljs-number">1</span>, <span class="hljs-number">1</span>) == dark3c:["$","details",null,{"className":"border-t border-border text-xs group","children":[["$","summary",null,{"className":"px-4 py-3 cursor-pointer flex items-center gap-2 text-heading font-bold hover:text-primary select-none","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flask-conical text-primary","children":[["$","path","pzvekw",{"d":"M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"}],["$","path","csnxdl",{"d":"M8.5 2h7"}],["$","path","wp8him",{"d":"M7 16h10"}],"$undefined"]}]," ","Показать код теста",["$","span",null,{"className":"text-muted-foreground font-normal truncate","children":["test_272_color_index_grid_to_framebuffer",".py"]}]]}],["$","div",null,{"className":"code-scroll overflow-auto max-h-[50vh]","children":["$","pre",null,{"translate":"no","className":"notranslate code-scroll bg-[#1b1b1b] rounded-sm p-4 mt-3 overflow-x-auto text-[13px] leading-relaxed !mt-0 !rounded-none !bg-transparent","children":["$","code",null,{"className":"hljs","dangerouslySetInnerHTML":{"__html":"$3d"}}]}]}],"$L3e"]}]
+f:C
+3e:["$","div",null,{"className":"px-4 py-3 border-t border-border","children":[["$","p",null,{"className":"text-heading font-bold mb-1","children":["Тестовые функции"," (",6,")"]}],["$","ul",null,{"className":"space-y-0.5","children":[["$","li","test_color_index_renderer_file_exists",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_color_index_renderer_file_exists"}]}],["$","li","test_color_index_renderer_declares_grid_alias_and_conversion_function",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_color_index_renderer_declares_grid_alias_and_conversion_function"}]}],["$","li","test_color_index_grid_to_framebuffer_sets_output_dimensions_from_grid",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_color_index_grid_to_framebuffer_sets_output_dimensions_from_grid"}]}],["$","li","test_color_index_grid_to_framebuffer_maps_2x2_indexes_to_rgb_pixels",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_color_index_grid_to_framebuffer_maps_2x2_indexes_to_rgb_pixels"}]}],["$","li","test_color_index_grid_to_framebuffer_preserves_flat_pixel_order",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_color_index_grid_to_framebuffer_preserves_flat_pixel_order"}]}],["$","li","test_color_index_grid_to_framebuffer_checkerboard_example",{"className":"truncate","children":["$","code",null,{"className":"text-foreground","children":"test_color_index_grid_to_framebuffer_checkerboard_example"}]}]]}]]}]
+1b:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+18:"$undefined"
+1a:"$undefined"
+e:"$undefined"
