@@ -1,0 +1,60 @@
+name: Deploy to CapRover branch
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: caprover-deploy
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        env:
+          COREPACK_ENABLE_DOWNLOAD_PROMPT: "0"
+        run: |
+          corepack enable
+          yarn install --immutable
+
+      - name: Build static export
+        run: yarn build
+
+      - name: Add CapRover files
+        run: |
+          cat > out/Dockerfile <<'EOF'
+          FROM nginx:alpine
+
+          COPY . /usr/share/nginx/html
+          EOF
+          cat > out/captain-definition <<'EOF'
+          {
+            "schemaVersion": 2,
+            "dockerfilePath": "./Dockerfile"
+          }
+          EOF
+          touch out/.nojekyll
+
+      - name: Publish to caprover-deploy
+        env:
+          SOURCE_MESSAGE: ${{ github.event.head_commit.message || 'manual run' }}
+        run: |
+          cd out
+          git init -q -b caprover-deploy
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Deploy ${GITHUB_SHA::7}" -m "$SOURCE_MESSAGE"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" caprover-deploy
