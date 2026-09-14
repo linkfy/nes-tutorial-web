@@ -4,7 +4,7 @@ Static website presenting the step-by-step tutorial for building a NES emulator 
 
 ## Live site
 
-**https://linkfy.github.io/nes-tutorial-web/**
+**https://nestutorial.linkfy.xyz**
 
 ## Repository structure
 
